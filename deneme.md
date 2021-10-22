@@ -1,8 +1,0 @@
----
-marp: true
----
-Grafik: Belirli sayıda nokta ve bu noktaları birbirine birleştiren çizgi ve/veya eğrilerden oluşan kümeye grafik denir. - Düğüm: Grafikte bulunan noktaların her birine düğüm denir. Düğümler, içlerine kendilerini tanımlayan sembollerin (harf veya rakam) yazıldığı küçük dairelerle gösterilirler. - Dal: Herhangi iki düğümü birbirine birleştiren çizgi veya eğriye dal denir. Bir dal okla gösterildi- ğinde yönlendirilmiş olur. Okla birleştirilen iki düğüm i ve j olmak üzere, bunları birleştiren dal (i, j) ile gösterilir. Bu sembolde i, (i, j) dalının başlangıç j ise bitiş düğümüdür. Böyle bir dal üzerinde bir akış söz konusuysa, akışın yönü i’den j’ye olmak üzere tektir. Yönlendirilmemiş bir (i, j) dalı, biri (i, j) diğeri (j, i) olmak üzere yönlendirilmiş iki dal yerine geçer. - Ağ: Grafiğin dalları üzerinde bir akış olması durumunda grafik, akış ağı veya kısaca ağ (serim, network, şebeke) ismini alır. - Yol: Başlangıç düğümü, kendisinden önce gelen dalın bitiş düğümü ile aynı olan dallar dizisine yol denir.- Zincir: Kendisinden önce gelen dalla tek bir ortak noktası olan dallar dizisine zincir denir. - Çevrim: Başlangıç düğümü ile bitiş düğümü aynı olan yola çevrim denir.
----
-
-Bu bölümde, belirli bir zaman aralığında birbirlerine doğrudan değil ara noktalarla bağlı olan iki nokta arasında taşınan malzeme veya akış miktarının en büyüklenmesi problemi üzerinde durulacaktır. Örneğin en yüksek trafik akışının sağlanmasına ilişkin problemlerin çözümünde EYA algoritması kullanılabilir.İlk bakışta ulaştırma problemi gibi görünen bu tip problemlerin ulaştırma problemlerinden en önemli farkı, kaynak (başlangıç) ile varış (bitiş) arasındaki bağlantının doğrudan değil ara noktalar aracılığı ile sağlanmasıdır. 
----
