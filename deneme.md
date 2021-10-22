@@ -37,6 +37,7 @@ En iyile­me (op­timizasyon) iki yolla gerçekleştiri­lir.
 2. Amaç fonksiyonu değerinin en küçüklenmesi (minimizasyon)
 
 Genellikle, olanak­lar çerçeve­sin­de toplam kârın en büyüklenm­esi veya top­lam maliyetin en küçük­lenmesi türündeki problemlerle karşılaşılmakla bir­likte değişik nite­likte amaçlar (en kısa süre, en kısa mesafe, en büyük gelir vb.) da dikkate alınabilir.
+22
 
 # 2.3. DOĞRUSAL PROGRAMLAMA MODELLEMESİ
 
