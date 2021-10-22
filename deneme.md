@@ -4,6 +4,9 @@ marp: true
 
 21
 
+![image](https://user-images.githubusercontent.com/13088011/138408240-e9fd5595-ba7e-4505-814c-a4f03eff2890.png)
+
+
 _ **Yöneylem Araştırması** _
 
 ## İKİNCİ BÖLÜM
