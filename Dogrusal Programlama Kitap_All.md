@@ -10,7 +10,7 @@
 | :-: |
 
 
-![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.001.png) 
+![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.001.png) 
 
 
 
@@ -131,7 +131,7 @@ Sistemin kullandığı aynı girdilerle geçmiş dönem sonuçlarını sağlama
 | :-: |
 
 
-![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.002.png)** 
+![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.002.png)** 
 **
 
 ## *** 
@@ -190,7 +190,7 @@ Z = C1x1 + C2x2 + ... + Cnxn
 
 biçiminde veya S sembolünün kullanılmasıyla aşağıdaki gibi yazılabilir.
 
-Z = ![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.003.png) 
+Z = ![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.003.png) 
 
 İzleyen kesimlerde kullanacağımız Zenb amacın en büyüklemeye, Zenk ise en küçüklemeye yönelik olduğunu ifade etmektedir.
 
@@ -214,11 +214,11 @@ Kesin bir kural olmamakla birlikte, en büyükleme problemlerinin kısıtlayıc
 
 Kısıtlayıcı fonksiyonlar için daha genel olarak aşağıdaki bağıntılar yazılabilir. 
 
-![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.004.png)£ bi             i = 1, 2, ..., m
+![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.004.png)£ bi             i = 1, 2, ..., m
 
-![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.005.png)³ bi             i = 1, 2, ..., m
+![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.005.png)³ bi             i = 1, 2, ..., m
 
-![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.006.png)= bi             i = 1, 2, ..., m
+![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.006.png)= bi             i = 1, 2, ..., m
 
 *3*. ***Negatif Olmama Koşulu***
 
@@ -284,17 +284,17 @@ bi: n  sayıdaki ürün için elde bulunan i’inci sınırlı kaynak miktarı.
 
 Doğrusal programlamada, girdi katsayılarının oluşturduğu matrisin özel bir yeri vardır. 2.1 ve 2.2 nolu modellerin ortaya koyduğu gibi bu matris aşağıdaki gibidir. 
 
-**A** = ![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.007.png)
+**A** = ![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.007.png)
 
 Üretim teknolojisini gösteren bu matrise *teknoloji matrisi* denir. Gerçekten, bu matrisin elemanları olan aij’ler her üründen bir birim üretmek için gerekli kaynak miktarını, başka bir deyişle üretim teknolojisini ifade etmektedir. Matris, satırları bakımından incelendiğinde, her bir satırın n çeşit ürünün her birinden birer birim üretmek için gerekli olan belirli bir kaynak gereksinimine karşılık geldiği görülebilir. Örnek olması bakımından matrisin birinci satırını inceleyelim. 
 
-![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.008.png)
+![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.008.png)
 
 Yukarıdaki satır vektörün elemanlarından a11, birinci maldan bir birim üretmek için birinci kaynaktan kullanılan miktarı, a12 ikinci maldan bir birim üretmek için yine birinci kaynaktan kullanılan miktarı ve nihayet a1n n’inci maldan bir birim üretmek için aynı kaynaktan kullanılan miktarı gösterir. n çeşit malın her birinden birer birim üretebilmek için gerekli birinci kaynak miktarı yukarıdaki satır vektörün elemanları toplamına eşit olur.
 
 Matrisin sütunları da belirli bir üründen bir birim üretmek için gerekli olan kaynak gereksinimini gösterir. **A** matrisinin ilk sütunu satır vektör olarak şöyledir: 
 
-![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.009.png)
+![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.009.png)
 
 Burada, a11 birinci maldan bir birim üretmek için gerekli birinci kaynak miktarını, a21 yine birinci maldan bir birim üretmek için gerekli ikinci kaynak miktarını ve nihayet am1 aynı maldan bir birim üretmek için gerekli m’inci kaynak miktarını gösterir. Kısaca her sütun karşılık geldiği malın üretim teknolojisinden başka bir şey değildir. Bu yüzden bu sütunlara  *faaliyet* denir.
 
@@ -302,25 +302,25 @@ Doğrusal programlamada **A** ile birlikte bulunan diğer matrisler aşağıda
 
 *1*. Kaynakların sınırlarını açıklayan kaynak miktarı veya gereksinme (sağ taraf değerleri) vektörü:
 
-**b** = ![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.010.png)
+**b** = ![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.010.png)
 
 *2*. Amaç fonksiyonu katsayıları (birim kâr, birim maliyet vb.) satır vektörü:
 
-**C** = ![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.011.png)
+**C** = ![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.011.png)
 
 *3*. Karar değişkenleri matrisi: Karar değişkenleri matrisi, aslında n satır 1 sütundan oluşan bir sütun vektör olmakla birlikte, yerden tasarruf etmek amacıyla aşağıda olduğu gibi bir satır vektör olarak da gösterilebilir. 
 
-**x** = ![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.012.png)
+**x** = ![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.012.png)
 
 Yukarıda açıklanan **A**, **b**, **C** ve **x** matrislerinin kullanılmasıyla doğrusal programlama problemi, 
 
 Amaç fonksiyonu:
 
-Zenb/enk = ![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.013.png)![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.014.png) = **Cx**       
+Zenb/enk = ![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.013.png)![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.014.png) = **Cx**       
 
 Kısıtlayıcı fonksiyonlar:
 
-![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.007.png)![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.014.png) (£,  =,  ³) ![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.010.png)= **Ax** (£,  =,  ³) **b**
+![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.007.png)![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.014.png) (£,  =,  ³) ![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.010.png)= **Ax** (£,  =,  ³) **b**
 
 Negatif olmama koşulu:
 
@@ -664,7 +664,7 @@ Problemin kısıtlayıcı fonksiyonları kredi verirken göz önünde bulundurul
 
 ***b***. x3 ³ 0.5(x1 + x2 + x3) veya  -0.5x1 – 0.5x2 + 0.5x3 ³ 0 (Ev kredileri)
 
-***c***. ![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.015.png)£ 0.05 veya
+***c***. ![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.015.png)£ 0.05 veya
 
 0.08x1 + 0.05x2 + 0.01x3 + 0.03x4 £ 0 (Şüpheli alacaklar)
 
@@ -771,11 +771,11 @@ Problemin kısıtlayıcıları ve bunların matematiksel ifadeleri aşağıdaki 
 
 ***2***. Müstakil ev sayısının toplam ev sayısına oranıyla ilgili kısıt 
 
-![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.016.png) veya 0.5x1 – 0.5x2 – 0.5x3 ³ 0
+![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.016.png) veya 0.5x1 – 0.5x2 – 0.5x3 ³ 0
 
 ***3***. Eğlence ve dinlenme alanlarıyla ilgili kısıt
 
-![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.017.png)         veya       100x4 – x1 – x2 –x3 ³ 0
+![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.017.png)         veya       100x4 – x1 – x2 –x3 ³ 0
 
 ***4***. Su getirme maliyeti ile ilgili bütçe kısıtı 
 
@@ -904,7 +904,7 @@ Dikkatli bir incelemeyle bu formülasyonun kusurlu olduğu görülebilir. Kusurl
 
 Aşağıdaki şeklin de ortaya koyduğu gibi problemin doğru formülasyonu için (değişkenler günlere göre çalışanların sayısı olarak değil, herhangi bir günün başında çalışmaya başlayanların sayısı olarak tanımlanmalıdır.
 
-![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.018.png)
+![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.018.png)
 
 ***Şekil  2.1***
 # **Örnek 2.11’in Değişkenleri**
@@ -1111,7 +1111,7 @@ Hemşireler ard arda 2 periyotta çalışıp diğer periyotlarda dinlenmektedir.
 | :-: |
 
 
-![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.019.png) 
+![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.019.png) 
 
 
 
@@ -1146,7 +1146,7 @@ denklemi bir doğru belirler. Bu doğru denkleminin kartezyen düzlemde (xy koor
 
 bulunur. Buna göre, denklemi 2x + 3y - 6 = 0 olan doğru (0, 2) ve (3, 0) noktalarından geçer. Bu doğrunun grafiği Şekil 3.1’de gösterilmiştir.
 
-![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.020.png)
+![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.020.png)
 
 ***Şekil  3.1***
 
@@ -1174,9 +1174,9 @@ x = 0 için  3(0) + 5y   - 15 = 0  çözülürse, y = 3 Þ (x, y) = (0, 3)
 
 y = 0 için  3x   + 5(0) - 15 = 0  çözülürse, x = 5 Þ (x, y) = (5, 0)
 
-bulunur. Demek ki, bu doğru x eksenini (5, 0), y eksenini de (0, 3) noktasında kesmektedir. Bu iki noktayı  birleştiren  doğrunun  çizilmesinden sonra eşitsizlikte x = 0, y = 0 konulduğunda, 3(0) + 5(0) -15 = -15 bulunur. Orijin eşitsizliği gerçeklemediğinden (-15 ![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.021.png) 0 ) aranan bölgenin orijinin bulunmadığı tarafta, yani doğrunun yukarısında kaldığı kararlaştırılır. Bu bölgeyi taramadan önce eşitsizliğin (> veya <) ya da  (³, £) şeklinde olup olmadığına dikkat edilmesi gerekir. Eşitsizlik (³) veya (£) ise, çözüm bölgesi doğru üzerindeki noktaları da kapsar. Bu durumda doğru genellikle dolu çizgiyle görüntülenir. Eşitsizlik (>) veya (<) şeklinde ise, çözüm alanı doğru üzerindeki noktaları kapsamaz. Bu durumda doğru, kesikli çizgi ile gösterilir. Örnekteki eşitsizlik doğru üzerindeki noktaları kapsamadığından, Şekil 3.2’de kesikli çizgi ile gösterilmiştir. 
+bulunur. Demek ki, bu doğru x eksenini (5, 0), y eksenini de (0, 3) noktasında kesmektedir. Bu iki noktayı  birleştiren  doğrunun  çizilmesinden sonra eşitsizlikte x = 0, y = 0 konulduğunda, 3(0) + 5(0) -15 = -15 bulunur. Orijin eşitsizliği gerçeklemediğinden (-15 ![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.021.png) 0 ) aranan bölgenin orijinin bulunmadığı tarafta, yani doğrunun yukarısında kaldığı kararlaştırılır. Bu bölgeyi taramadan önce eşitsizliğin (> veya <) ya da  (³, £) şeklinde olup olmadığına dikkat edilmesi gerekir. Eşitsizlik (³) veya (£) ise, çözüm bölgesi doğru üzerindeki noktaları da kapsar. Bu durumda doğru genellikle dolu çizgiyle görüntülenir. Eşitsizlik (>) veya (<) şeklinde ise, çözüm alanı doğru üzerindeki noktaları kapsamaz. Bu durumda doğru, kesikli çizgi ile gösterilir. Örnekteki eşitsizlik doğru üzerindeki noktaları kapsamadığından, Şekil 3.2’de kesikli çizgi ile gösterilmiştir. 
 
-![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.022.png)
+![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.022.png)
 
 ***Şekil 3.2***
 
@@ -1196,7 +1196,7 @@ x + 2y = 4 eşitliğinde, x = 0 için y = 2, y = 0 için x = 4 elde edilir.
 
 Bu belirlemelerden sonra doğruların çizilmesi ve eşitsizliklerin yönlerinin dikkate alınmasıyla elde edilen grafik Şekil 3.3’de gösterilmiştir.
 
-![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.023.png)
+![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.023.png)
 
 ***Şekil 3.3***
 
@@ -1216,7 +1216,7 @@ x + 2y = 6 eşitliğinde x = 0 için y = 3, y = 0 için, x = 6
 
 Doğruların çizilmesinden sonra eşitsizlikleri sağlayan alanlar önceki örneklerde olduğu gibi ayrı ayrı bulunur ve taranırsa, Şekil 3.4’deki taralı alanlar elde edilir. Eşitsizlikleri ayrı ayrı sağlayan iki bölgenin ortak herhangi bir noktası olmadığı kolayca görülebilir. Bu durum sistemin çözümünün olmadığının kanıtıdır.
 
-![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.024.png)
+![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.024.png)
 
 ***Şekil 3.4***
 ##### ***Örnek 3.4’ün Grafikle Gösterimi***
@@ -1286,7 +1286,7 @@ Bu belirlemelerden sonra kısıtlayıcı fonksiyonlarla ilgili doğruları çize
 
 Sayıları dört olan kısıtlayıcı fonksiyonların her biri için bir doğru çizilmesi ve eşitsizliklerin yönlerinin dikkate alınmasıyla uygun çözüm bölgesi Şekil 3.5’deki taralı alan olarak belirir. 
 
-![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.025.png)
+![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.025.png)
 
 ***Şekil 3.5***
 
@@ -1312,7 +1312,7 @@ x1          £  6
 
 ***Çözüm 3.6***: Kısıtlayıcıların oluşturduğu uygun çözüm bölgesi Şekil 3.6’da gösterilmiştir.
 
-![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.026.png)
+![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.026.png)
 
 ***Şekil 3.6***
 
@@ -1326,7 +1326,7 @@ x² + y² = 9,  x = 0, y = 0
 
 ***Çözüm 3.7***: Yukarıdaki eşitliklerle tanımlanan ve Şekil 3.7’de gösterilen alan konveks değildir. Çünkü bu alanın sınırı üzerinde bulunan A, B gibi herhangi iki noktayı birleştiren AB doğru parçasının yalnızca A ve B ile isimlendirilen iki noktası alan içinde (sınırların üzerinde) kalırken diğerleri bu alana ait değildir. 
 
-![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.027.png)
+![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.027.png)
 
 ***Şekil 3.7***
 
@@ -1374,7 +1374,7 @@ elde edilir.
 
 Z = 36 için çizilen doğru incelendiğinde, bu doğrunun Z = 24 için çizilen doğruya paralel (eğimleri aynı olduğundan) olduğu ve yukarısında tek bir uç noktanın (B) kaldığı görülebilir. Böylece, amaç fonksiyonunu en iyileyen uç noktanın B olduğu kararlaştırılır. 
 
-![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.028.png)
+![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.028.png)
 
 
 
@@ -1426,7 +1426,7 @@ Bu bölgenin uç noktalarından en az bir tanesi amaç fonksiyonu değerini en
 
 Z = 6, Z = 12 ve Z = 18 eş kâr doğruları Şekil 3.9’da kesikli çizgi ile gösterilmişlerdir. Z = 18 için çizilen eş kâr doğrusu incelendiğinde, bu doğrunun yukarısında tek bir uç noktanın (B) bulunduğu görülebilir. Bu durumda problemin en iyi çözümünün bu noktada ortaya çıkacağını söylemek kehanet olmaz.
 
-![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.029.png)
+![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.029.png)
 
 ***Şekil 3.9***
 
@@ -1476,7 +1476,7 @@ x1 + 2x2 = 8 eşitliğinde x1 = 0 için x2 = 4, x2 = 0 için x1 = 8,
 
 x1 + 5x2 = 10 eşitliğinde x1 = 0 için x2 =  2, x2 = 0 için x1 = 10.
 
-![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.030.png)
+![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.030.png)
 
 ***Şekil 3.10***
 
@@ -1516,7 +1516,7 @@ ZD = Z(10,  0) = 3(10) + 5(0) = 30
 
 Z = 2x1 + 3x2 = 12 olduğunu düşünelim. Z = 12 için çizilen doğru incelendiğinde, uygun çözüm bölgesinin uç noktalarından olan A, C, D ve E’nin bu doğrunun altında kaldıkları görülebilir. Amaç, Z’yi en küçükleyen uç noktasını belirlemek olduğuna göre, orijinden uzaklaşmak yerine ona yaklaşmalı ve ona en yakın uç noktası belirlenmelidir. O halde Z’ye daha küçük bir değer verelim ve Z = 2x1 + 3x2 = 6 olduğunu düşünelim. Şekil 3.11’den görüldüğü gibi, Z = 6 doğrusunun altında tek bir uç nokta (E) bulunmaktadır. Daha önceki açıklamalar doğrultusunda E’nin amaç fonksiyonuna en küçük değeri sağlayan nokta olduğu kararlaştırılır. E noktasının koordinatları (2, 0) olduğundan, ZE = Zenk = 2(2) + 3(0) = 4 olarak hesaplanır.
 
-![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.031.png)
+![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.031.png)
 
 ***Şekil  3.11***
 
@@ -1554,7 +1554,7 @@ Zenb = 6x1 + 3x2
 
 Şekil 3.12’den görüldüğü gibi kısıtlayıcı fonksiyonları sağlayan farklı yönlerde taranmış alanların ortak herhangi bir noktası bulunmadığından, uygun çözüm bölgesi boştur. Bu nedenle de problemin çözümü yoktur. Bu gibi durumlarda problemin yeniden ele alınması uygun olur.
 
-![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.032.png)
+![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.032.png)
 
 ***Şekil 3.12***
 
@@ -1574,7 +1574,7 @@ Zenb = 6x1 + 3x2
 
 
 
-![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.033.png)
+![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.033.png)
 
 ***Şekil 3.13***
 
@@ -1596,7 +1596,7 @@ Aşağıda sınırsız çözüm durumuyla ilgili bir örnek verilmiştir.
 
 ***Çözüm 3.13***: Problemin uygun çözüm bölgesi Şekil 3.14’de gösterilmiştir. Şeklin ortaya koyduğu gibi uygun çözüm bölgesi kapalı değildir. Amaç fonksiyonunda x1 ve x2’nin katsayılarının pozitif ve problem en büyükleme amaçlı olduğundan sınırlı bir çözüm bulunamaz. Bu durumda problemin sınırsız çözümü vardır. Ancak problem en küçükleme amaçlı olsa idi orijin (nötr faaliyetler durumu) en iyi çözümün ortaya çıktığı nokta olurdu. 
 
-![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.034.png)
+![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.034.png)
 
 ***Şekil 3.14***
 
@@ -1626,7 +1626,7 @@ Zenb = 6(3) + 3(3) = 27
 
 olarak hesaplanır.
 
-![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.035.png)
+![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.035.png)
 
 ***Şekil 3.15***
 
@@ -1656,7 +1656,7 @@ ZC = Z(12/5,  12/5) = 8(12/5) + 8(12/5) = 192/5
 
 Amaç fonksiyonu en büyük değerine A(0, 6) ve B(6, 0) noktalarında ulaşmıştır. Dolayısıyla A ve B noktalarındaki çözümler birbirlerine alternatif olan en iyi çözümlerdir. Z = 48 doğrusu çizildiğinde bu doğrunun uygun çözüm bölgesinin AB üst sınırıyla çakıştığı görülebilir. Bu nedenle AB üzerindeki sınırsız sayıdaki noktanın her biri bu problemin en iyi çözümüdür.
 
-![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.036.png)
+![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.036.png)
 
 ***Şekil 3.16***
 
@@ -1865,7 +1865,7 @@ Amaç fonksiyonu en büyük değerine A(0, 6) ve B(6, 0) noktalarında ulaşmı
 | :-: |
 
 
-![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.037.png) 
+![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.037.png) 
 
 
 
@@ -1942,7 +1942,7 @@ Zenb = C1x1 + C2x2 + ... + Cnxn
 
 olarak tanımlanmışken,
 
-![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.038.png)= (-Zenb ) = -C1x1 - C2x2 - ... - Cnxn          
+![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.038.png)= (-Zenb ) = -C1x1 - C2x2 - ... - Cnxn          
 
 veya 
 
@@ -1950,7 +1950,7 @@ Zenk = C1x1 + C2x2 + ... + Cnxn
 
 olarak verilmişken,
 
-![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.039.png)= (-Zenk) = -C1x1 - C2x2 - ... - Cnxn
+![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.039.png)= (-Zenk) = -C1x1 - C2x2 - ... - Cnxn
 
 yazılabilir.
 
@@ -1962,7 +1962,7 @@ Zenk = 3x1 - 4x2 + 2x3 - 5x4
 
 Amaç fonksiyonundaki tüm terimlerin işaretlerinin değiştirilmesiyle amaç fonksi- yonu aşağıdaki gibi yazılabilir.
 
-![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.039.png)= (-Zenk) = -3x1 + 4x2 - 2x3 + 5x4
+![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.039.png)= (-Zenk) = -3x1 + 4x2 - 2x3 + 5x4
 
 Dönüştürme işlemi, karar değişkenlerinin en iyi değerlerini değiştirmez. Problemi çözdükten sonra amaç fonksiyonunun en iyi değeri (-1) ile çarpılırsa orijinal problemin Zenk (Zenb) değeri bulunur.
 
@@ -1970,15 +1970,15 @@ Dönüştürme işlemi, karar değişkenlerinin en iyi değerlerini değiştir
 
 ***3**.**Eşitliği eşitsizliğe dönüştürme***: Eşitlik biçimindeki bir kısıtlayıcı fonksiyon iki eşitsizlikle açıklanabilir. Örneğin, a1x1 + a2x2 = b biçimindeki bir fonksiyon yerine, a1x1 + a2x2 ³ b  ve  a1x1 + a2x2 £ b veya a1x1 + a2x2 £ b  ve  -a1x1 - a2x2 £ -b yazılabilir.
 
-***4**.**İşareti sınırlandırılmamış değişkenler***: İşareti sınırlandırılmamış bir değişken (pozitif, negatif veya sıfır) negatif olmayan iki değişken arasındaki fark olarak açıklanabilir. Sözgelimi, x işareti sınırlandırılmamış bir değişken ise, x yerine ![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.040.png)kullanılabilir. Burada, ![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.041.png)³ 0 ve ![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.042.png)³ 0’dır. Negatif olmayan ![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.041.png)ve ![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.042.png) değişkenlerinden en fazla biri en iyi çözümde pozitif değerli olur.
+***4**.**İşareti sınırlandırılmamış değişkenler***: İşareti sınırlandırılmamış bir değişken (pozitif, negatif veya sıfır) negatif olmayan iki değişken arasındaki fark olarak açıklanabilir. Sözgelimi, x işareti sınırlandırılmamış bir değişken ise, x yerine ![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.040.png)kullanılabilir. Burada, ![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.041.png)³ 0 ve ![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.042.png)³ 0’dır. Negatif olmayan ![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.041.png)ve ![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.042.png) değişkenlerinden en fazla biri en iyi çözümde pozitif değerli olur.
 
 ***5**.**Eşitsizlik biçimindeki kısıtlayıcı fonksiyonların eşitlik biçimine dönüştürülmesi***:
 
-Simpleks yöntem bir eşitlikler sistemine, standart işlemlerin tekrar tekrar uygulanmasıyla çözüm arayan bir süreçtir. Bu nedenle yöntemin en önemli adımı kısıtlayıcı fonksiyonların eşitlik biçiminde yazılmasıdır. Eşitsizlik biçimindeki bir kısıtlayıcının eşitsizliğin yönü bakımından iki türlü olduğu bilinmektedir. Eşitsizlikler ![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.005.png)£ bi veya ![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.005.png)³ bi biçimindedir.
+Simpleks yöntem bir eşitlikler sistemine, standart işlemlerin tekrar tekrar uygulanmasıyla çözüm arayan bir süreçtir. Bu nedenle yöntemin en önemli adımı kısıtlayıcı fonksiyonların eşitlik biçiminde yazılmasıdır. Eşitsizlik biçimindeki bir kısıtlayıcının eşitsizliğin yönü bakımından iki türlü olduğu bilinmektedir. Eşitsizlikler ![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.005.png)£ bi veya ![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.005.png)³ bi biçimindedir.
 
 (£) işaretli eşitsizlikleri eşitlik biçimine dönüştürmek için bunların sol taraflarına negatif olmayan birer değişken eklenir. *Aylak değişken* adı verilen bu değişkenler xn+1, xn+2, ..., xn+m ile gösterilir. (³) işaretli eşitsizlikler ise, sol taraflarından negatif olmayan birer değişken çıkartılmasıyla eşitlik biçimine dönüştürülür. Eşitsizliğin iki tarafı arasındaki farkı gösteren bu değişkene *artık değişken* denir. Bu değişkenler de aylak değişkenler gibi xn+1, xn+2 , ..., xn+m sembolleriyle gösterilirler. Yukarıda açıklandığı gibi, negatif olmama koşulu karar değişkenlerinin yanı sıra aylak ve artık değişkenlere de uygulanmaktadır. Bunun nedeni, kısıtlayıcı fonksiyonlardaki (³) ve (£) şartlarının gerçekleşmesini sağlamaktır.
 
-***6**. **Mutlak değerli kısıtlayıcı fonksiyonların eşitsizlik biçiminde yazılması***: Çok sık olmasa da mutlak değer içeren kısıtlayıcı fonksiyonlara rastlanabilir. Hangi yöntem uygulanırsa uygulansın bu tür kısıtlayıcılarla çözüme ulaşılamaz. Bu yüzden mutlak değerden kurtulmak gerekir. Örnek olması bakımından, kısıtlayıcı fonksiyonun ![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.043.png)£ b şeklinde formüllendiğini düşünelim. Bu durumda yapılması gereken ![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.043.png)£ b yerine a1x1 + a2x2 ³ -b ve a1x1 + a2x2 £ b ikilisini yerleştirmektir. Kısıtlayıcı ![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.043.png) ³ b ise ![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.043.png) ³ b yerine geçecek eşitsizlikler a1x1 + a2x2 ³ b ve a1x1 + a2x2 £ -b biçimindedir.
+***6**. **Mutlak değerli kısıtlayıcı fonksiyonların eşitsizlik biçiminde yazılması***: Çok sık olmasa da mutlak değer içeren kısıtlayıcı fonksiyonlara rastlanabilir. Hangi yöntem uygulanırsa uygulansın bu tür kısıtlayıcılarla çözüme ulaşılamaz. Bu yüzden mutlak değerden kurtulmak gerekir. Örnek olması bakımından, kısıtlayıcı fonksiyonun ![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.043.png)£ b şeklinde formüllendiğini düşünelim. Bu durumda yapılması gereken ![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.043.png)£ b yerine a1x1 + a2x2 ³ -b ve a1x1 + a2x2 £ b ikilisini yerleştirmektir. Kısıtlayıcı ![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.043.png) ³ b ise ![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.043.png) ³ b yerine geçecek eşitsizlikler a1x1 + a2x2 ³ b ve a1x1 + a2x2 £ -b biçimindedir.
 
 Herhangi bir doğrusal programlama modelinin standart veya kanonik biçimde yazılmasını bir örnek üzerinde açıklayalım.
 
@@ -1998,15 +1998,15 @@ Zenk = -6x1 + 7x2 + 7x3 - x4
 
 ***Çözüm 4.1***: ***a***. Kanonik biçimde amaç fonksiyonunun Zenb olması gerektiğinden Zenk olarak verilen amaç fonksiyonu her iki tarafının (-1) ile çarpılmasıyla Zenb biçimine dönüştürülür. x3’ün işareti bakımından sınırlandırılmamış olduğu göz önünde bulundurulduğunda amaç fonksiyonu aşağıdaki gibi elde edilir. 
 
-![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.039.png)= 6x1 - 7x2 - 7(![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.044.png)) + x4
+![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.039.png)= 6x1 - 7x2 - 7(![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.044.png)) + x4
 
-Kanonik biçimin kısıtlayıcı fonksiyonlarının (£) işaretli olması gerektiğinden, bu özelliği taşımayan kısıtlayıcıların uygun dönüştürme işlemleriyle (£) biçiminde yazılması zorunludur. Bu amaçla, kısıtlayıcı fonksiyonları sırasıyla ele alalım. İlk kısıtlayıcı (³) işaretli olduğundan, her iki yanı (-1) ile çarpılır. x3’ün işareti sınırlandırılmamış olduğundan, x3 yerine (![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.044.png)) yazılmasıyla birinci kısıtlayıcı fonksiyon aşağıdaki gibi düzenlenir. 
+Kanonik biçimin kısıtlayıcı fonksiyonlarının (£) işaretli olması gerektiğinden, bu özelliği taşımayan kısıtlayıcıların uygun dönüştürme işlemleriyle (£) biçiminde yazılması zorunludur. Bu amaçla, kısıtlayıcı fonksiyonları sırasıyla ele alalım. İlk kısıtlayıcı (³) işaretli olduğundan, her iki yanı (-1) ile çarpılır. x3’ün işareti sınırlandırılmamış olduğundan, x3 yerine (![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.044.png)) yazılmasıyla birinci kısıtlayıcı fonksiyon aşağıdaki gibi düzenlenir. 
 
--x1 - 2x2 + 4(![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.044.png)) £ -30
+-x1 - 2x2 + 4(![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.044.png)) £ -30
 
-İkinci kısıtlayıcı fonksiyonun yönü doğrudur. x3 yerine (![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.044.png)) yazılmasıyla fonksiyon aşağıdaki gibi düzeltilmiş olur.
+İkinci kısıtlayıcı fonksiyonun yönü doğrudur. x3 yerine (![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.044.png)) yazılmasıyla fonksiyon aşağıdaki gibi düzeltilmiş olur.
 
-2x1 + 9x2 + 6(![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.044.png)) + x4 £ 60
+2x1 + 9x2 + 6(![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.044.png)) + x4 £ 60
 
 Üçüncü kısıtlayıcı eşitlik biçiminde olduğundan aşağıdaki eşitsizlikler çiftiyle açıklanmalıdır.
 
@@ -2014,11 +2014,11 @@ Kanonik biçimin kısıtlayıcı fonksiyonlarının (£) işaretli olması gerek
 
 6x1 + x3 + x4  ³ 15
 
-Bu eşitsizlik çiftine x3 = ![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.044.png) yerleştirilmesi ve (³) işaretli kısıtlayıcının her iki tarafının (-1) ile çarpılması sonucunda bu kısıtlayıcı fonksiyon,
+Bu eşitsizlik çiftine x3 = ![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.044.png) yerleştirilmesi ve (³) işaretli kısıtlayıcının her iki tarafının (-1) ile çarpılması sonucunda bu kısıtlayıcı fonksiyon,
 
-` `6x1 + (![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.044.png)) + x4 £  15
+` `6x1 + (![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.044.png)) + x4 £  15
 
--6x1 -  (![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.044.png)) - x4  £ -15
+-6x1 -  (![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.044.png)) - x4  £ -15
 
 olarak kanonik biçime uygun hale dönüştürülmüş olur.
 
@@ -2030,39 +2030,39 @@ Dördüncü kısıtlayıcı fonksiyonun sol tarafındaki mutlak değer bu kısı
 
 biçiminde yazılmasını gerektirir. (³) işaretli kısıtlayıcının her iki tarafının (-1) ile çarpılmasıyla mutlak değerli kısıtlayıcının yerine kullanılacak fonksiyonlar:  3x1 + 4x2 £  80 ve -3x1 - 4x2 £  80 olarak elde edilmiş olur. Kanonik biçim tümüyle aşağıdaki gibi yazılabilir.
 
-![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.039.png)= 6x1 - 7x2 - 7(![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.044.png)) + x4
+![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.039.png)= 6x1 - 7x2 - 7(![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.044.png)) + x4
 
-`            `-x1 -  2x2 + 4(![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.044.png))         £ -30                 
+`            `-x1 -  2x2 + 4(![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.044.png))         £ -30                 
 
-`           `2x1 + 9x2 + 6(![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.044.png)) + x4       £  60                 
+`           `2x1 + 9x2 + 6(![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.044.png)) + x4       £  60                 
 
-`           `6x1           +   (![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.044.png)) + x4       £  15  
+`           `6x1           +   (![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.044.png)) + x4       £  15  
 
-`          `-6x1           -    (![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.044.png)) - x4       £ -15
+`          `-6x1           -    (![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.044.png)) - x4       £ -15
 
 `           `3x1 + 4x2                                 £  80
 
 `          `-3x1 - 4x2                                  £  80
 
-`                             `x1, x2, ![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.045.png), ![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.046.png), x4 ³ 0
+`                             `x1, x2, ![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.045.png), ![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.046.png), x4 ³ 0
 
 ***b***. *S*tandart modelin amaç fonksiyonu Zenb veya Zenk türünde olabilir. Bu yüzden orijinal amaç fonksiyonu standart biçim için de geçerli olur. Burada, dikkat edilmesi gereken en önemli nokta, x3’ün işaretçe sınırlandırılmamış olduğudur. O halde, standart biçimin amaç fonksiyonu aşağıdaki gibi olur.
 
-Zenk = -6x1 + 7x2 + 7(![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.044.png)) - x4
+Zenk = -6x1 + 7x2 + 7(![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.044.png)) - x4
 
 Standart biçimde tüm kısıtlayıcı fonksiyonların eşitlik biçiminde olması gerektiğinden, bu biçime uymayan kısıtlayıcılar eşitlik biçiminde düzenlenmelidir. Kısıtlayıcı fonksiyonları sırasıyla ele alalım. 
 
 Birinci kısıtlayıcının yönü (³) olduğundan, eşitsizliğin sol tarafından negatif olmayan bir değişkenin (x5) çıkartılması gerekir. x3’ün sınırlandırılmamış olduğunun dikkate alınmasıyla, standart biçimin ilk kısıtlayıcı fonksiyonu aşağıdaki gibi elde edilir. 
 
-x1 + 2x2 - 4(![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.044.png)) - x5 = 30
+x1 + 2x2 - 4(![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.044.png)) - x5 = 30
 
-İkinci kısıtlayıcıya bir aylak değişken (x6) eklenmesi ve x3 = ![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.044.png) yazılmasıyla kısıtlayıcı fonksiyon aşağıdaki gibi olur.
+İkinci kısıtlayıcıya bir aylak değişken (x6) eklenmesi ve x3 = ![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.044.png) yazılmasıyla kısıtlayıcı fonksiyon aşağıdaki gibi olur.
 
-2x1 + 9x2 + 6(![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.044.png)) + x4 + x6 = 60
+2x1 + 9x2 + 6(![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.044.png)) + x4 + x6 = 60
 
-Üçüncü kısıtlayıcı eşitlik biçiminde olduğundan değişmez. x3 yerine (![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.044.png)) yazılmasıyla elde edilen kısıtlayıcı kısıtlayıcı fonksiyon şöyledir: 
+Üçüncü kısıtlayıcı eşitlik biçiminde olduğundan değişmez. x3 yerine (![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.044.png)) yazılmasıyla elde edilen kısıtlayıcı kısıtlayıcı fonksiyon şöyledir: 
 
-6x1 + (![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.044.png)) + x4 = 15
+6x1 + (![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.044.png)) + x4 = 15
 
 Modelin son kısıtlayıcı fonksiyonu yerine -3x1 - 4x2 £ 80 ve 3x1 + 4x2 £ 80 yazılması bunlara sırasıyla x7 ve x8 aylak değişkenlerinin eklenmesiyle,
 
@@ -2074,19 +2074,19 @@ elde edilir.
 
 Tüm kısıtlayıcı fonksiyonlar uygun biçimde düzenlendiğinden, negatif olmama koşulunun yazılmasıyla standart biçim, 
 
-Zenk = -6x1 + 7x2 + 7(![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.044.png)) - x4
+Zenk = -6x1 + 7x2 + 7(![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.044.png)) - x4
 
-`	`x1 + 2x2 -  4(![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.044.png))         - x5                     	= 30
+`	`x1 + 2x2 -  4(![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.044.png))         - x5                     	= 30
 
-`            `2x1 + 9x2 + 6(![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.044.png)) + x4        + x6		= 60
+`            `2x1 + 9x2 + 6(![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.044.png)) + x4        + x6		= 60
 
-`            `6x1           +  (![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.044.png)) + x4                             	= 15
+`            `6x1           +  (![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.044.png)) + x4                             	= 15
 
 `          `-3x1 -  4x2                                              + x7                       = 80
 
 `           `3x1 + 4x2                                                                                         + x8                = 80
 
-`                                      `x1, x2, , x4, ![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.045.png), ![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.046.png), x5, x6, x7, x8 ³ 0
+`                                      `x1, x2, , x4, ![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.045.png), ![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.046.png), x5, x6, x7, x8 ³ 0
 
 olarak düzenlenmiş olur.
 ## `            `***4.3 SİMPLEKS YÖNTEMİN AÇIKLANMASI***
@@ -2130,13 +2130,13 @@ Zenb = C1x1 + C2x2 + ... + Cnxn + 0xn+1 + 0xn+2 + ... + 0xn+m
 
 Standart biçimdeki doğrusal programlama modelinin kısıtlayıcı fonksiyonları matrislerle şöyle gösterilir.
 
-![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.047.png)
+![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.047.png)
 
 Kısıtlayıcıların eşitlik biçimine dönüştürülmesiyle, modelin yürürlükteki n karar değişkenine m değişken eklenmiş, yani bilinmeyen sayısı n’den (n + m)’ye çıkar- tılmıştır. (n + m) bilinmeyene karşılık denklem sayısı m olduğundan, herhangi n bilinmeyen sıfıra eşitlenip diğer m bilinmeyen eşitlikler sisteminin birlikte çözülmesiyle elde edilir. Bu yolla ulaşılan çözüme *temel çözüm*, temel çözümde değerleri sıfırdan farklı olan değişkenlere ise *temel değişken* denir. Çözüm değerleri sıfır olan değişkenler *temel olmayan değişkenlerdir*.
 
 Temel çözüm sayısı sonlu bir sayıdır ve herhangi m sayıdaki değişkeni göz önünde tutarak elde edilir. m kısıtlayıcı, n değişkenin bulunduğu standart biçimdeki problemin  temel çözümlerinin sayısının hesaplama formülü şöyledir. 
 
-![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.048.png)= ![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.049.png)
+![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.048.png)= ![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.049.png)
 
 İçeriğindeki değişkenlerin tümü pozitif (> 0) olan temel çözüme *temel uygun çözüm* denir. Temel değişkenlerden bir ya da bir kaçının sıfıra eşit olması durumundaki çözüme bozuk (dejenere) çözüm denir. Temel uygun çözümlerin sayısı da yukarıdaki bağıntıyla hesaplanan sayı ile sınırlıdır. Standart biçimin oluşturulmasından sonra en iyi çözümün araştırılması işlemine geçilebilir. Simpleks yöntemin ardışık tekrarları *başlangıç çözüm tablosu* adı verilen bir tablonun düzenlenmesinden sonra başlar. Başlangıç çözüm tablosu, aşağıdaki tablo esasına göre düzenlenir. Özü, daha doğrusu kapsadıkları bilgi aynı olmakla birlikte bazı kaynaklarda simpleks çözüm tablolarının değişik düzenlemelerine rastlanabilir.
 
@@ -2144,7 +2144,7 @@ Temel çözüm sayısı sonlu bir sayıdır ve herhangi m sayıdaki değişkeni 
 |2|
 | :- |
 
-##### ![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.050.png)***Simpleks Başlangıç Çözüm Tablosu***
+##### ![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.050.png)***Simpleks Başlangıç Çözüm Tablosu***
 *** 
 
 |||||||||||
@@ -2153,7 +2153,7 @@ Temel çözüm sayısı sonlu bir sayıdır ve herhangi m sayıdaki değişkeni 
 |1|
 | -: |
 
-|<p></p><p>![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.051.png)![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.052.png)TDV</p>|x1|x2|…|xn|xn+1|xn+2|…|xn+m|ÇV|
+|<p></p><p>![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.051.png)![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.052.png)TDV</p>|x1|x2|…|xn|xn+1|xn+2|…|xn+m|ÇV|
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 |0    xn+1|A11|a12|…|a1n|1|0|…|0|b1|
 |0       xn+2|A21|a22|…|a2n|0|1|…|0|b2|
@@ -2165,14 +2165,14 @@ Temel çözüm sayısı sonlu bir sayıdır ve herhangi m sayıdaki değişkeni 
 |6|
 | :- |
 
-|<p></p><p>![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.053.png)![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.052.png)Zj</p>|0|0|…| |0|0|…|0|0|
+|<p></p><p>![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.053.png)![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.052.png)Zj</p>|0|0|…| |0|0|…|0|0|
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 |||||||||||
 
 |7|
 | :- |
 
-|<p></p><p>![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.054.png)![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.052.png)Zj - Cj</p>|-C1|-C2|…|-Cn|0|0|…|0|-|
+|<p></p><p>![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.054.png)![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.052.png)Zj - Cj</p>|-C1|-C2|…|-Cn|0|0|…|0|-|
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 Tablo 4.1 kapsamındaki bölümler aşağıda açıklanmıştır.
 
@@ -2229,7 +2229,7 @@ Diğer bütün satır elemanlarının (Zj ve Zj - Cj satırları dışında) yen
 | :-: |
 
 
-![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.055.png)![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.056.png)-![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.057.png)x 
+![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.055.png)![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.056.png)-![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.057.png)x 
 
 Yöntemin uygulanışını aşağıdaki örnek problem üzerinde gösterelim.
 
@@ -2273,7 +2273,7 @@ Görüldüğü gibi, başlangıç tablosunun gerektirdiği bütün bilgiler elde
 | :- |
 
 
-![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.058.png)                               ***Simpleks Başlangıç Çözüm Tablosu***
+![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.058.png)                               ***Simpleks Başlangıç Çözüm Tablosu***
 
 |TDV|x1|x2|x3|x4|x5|ÇV|Oran|
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
@@ -2282,12 +2282,12 @@ Görüldüğü gibi, başlangıç tablosunun gerektirdiği bütün bilgiler elde
 |AS|
 | :- |
 
-||||||||<p></p><p>![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.059.png)![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.060.png)20/4</p>|
+||||||||<p></p><p>![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.059.png)![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.060.png)20/4</p>|
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 |0    x4|` `3|` `1|0|1|0|30|30/1|
 |0    x5|` `1|` `1|0|0|1|40|40/1|
 |Zj|` `0|` `0|0|0|0|0| |
-|Zj - Cj|-2|![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.061.png)-3|0|0|0|-| |
+|Zj - Cj|-2|![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.061.png)-3|0|0|0|-| |
 
 
 Zj satır elemanları, bulundukları sütundaki katsayılarla temel değişkenlerin amaç fonksiyonu katsayılarının karşılıklı çarpımlarının toplamı olarak aşağıdaki gibi hesaplanmıştır.
@@ -2316,7 +2316,7 @@ Z4 - C4 = 0 - 0 =  0
 
 Z5 - C5 = 0 - 0 =  0
 
-Başlangıç tablosunun düzenlenmesinden sonra Zj - Cj satırının gözden geçirilmeli, tüm Zj - Cj ³ 0 ise (problem en büyükleme amaçlı olduğundan), tablodaki çözümün en iyi olduğu kararlaştırılmalıdır. Tablo 4.2’den görüldüğü gibi, Z1 - C1, Z2 - C2  negatif olduğundan, başlangıçtaki temel uygun çözüm en iyi değildir. Temele giren değişken ölçütüne göre enb(![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.062.png),![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.063.png)) = Z2 - C2 olduğundan, anahtar sütun x2 değişken sütunudur. x2 yeni çözüm tablosunda temel değişken olarak karşımıza çıkacaktır.
+Başlangıç tablosunun düzenlenmesinden sonra Zj - Cj satırının gözden geçirilmeli, tüm Zj - Cj ³ 0 ise (problem en büyükleme amaçlı olduğundan), tablodaki çözümün en iyi olduğu kararlaştırılmalıdır. Tablo 4.2’den görüldüğü gibi, Z1 - C1, Z2 - C2  negatif olduğundan, başlangıçtaki temel uygun çözüm en iyi değildir. Temele giren değişken ölçütüne göre enb(![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.062.png),![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.063.png)) = Z2 - C2 olduğundan, anahtar sütun x2 değişken sütunudur. x2 yeni çözüm tablosunda temel değişken olarak karşımıza çıkacaktır.
 
 Anahtar satırı belirlemek için çözüm vektörü sütun elemanlarını bire bir olmak koşuluyla anahtar sütun elemanlarına bölelim. Bölme işlemi ile bulunan değerler, başlangıç tablosunun hemen sağında oran başlığı altında gösterilmiştir. En küçük oran x3’e ait olduğundan, x3’ün temelden ayrılması gerektiğine karar verilir. Buna göre, yeni simpleks tablosundaki temel değişkenler sırasıyla x2 (x3’ün yerine), x4 ve x5 olacaktır.
 
@@ -2326,31 +2326,31 @@ Anahtar sayının belirlenmesinden sonra anahtar satır elemanları anahtar s
 
 Anahtar satırın eski elemanları,
 
-![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.064.png)
+![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.064.png)
 
 olduğuna göre anahtar satırın yeni elemanları,
 
-![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.065.png)
+![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.065.png)
 
 veya gerekli aritmetik işlemlerin yapılmasıyla aşağıdaki gibi olur.
 
-![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.066.png)
+![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.066.png)
 
 Bu değerlerin yeni çözüm tablosuna yerleştirilmesinden sonra tablonun diğer elemanları hesaplanabilir.
 
 x4 değişken satırından başlayarak diğer satır elemanlarını hesaplayalım. x4 değişken satırının eski elemanları aşağıda gösterildiği gibidir. 
 
-![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.067.png)
+![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.067.png)
 
 Bu satırla anahtar sütunun kesiştiği yerdeki sayı 1 ve anahtar satırın yeni elemanları,
 
-![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.066.png)
+![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.066.png)
 
 olduğuna göre, x4 değişken satırının yeni elemanları, 
 
 `      `[3            1         0         1         0        30]
 
-![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.068.png)(-1)![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.066.png)
+![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.068.png)(-1)![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.066.png)
 
 `      `[3/2         0     -1/4        1         0         25]
 
@@ -2360,7 +2360,7 @@ Aynı yaklaşımla x5 değişken satırının yeni elemanlarının,
 
 |`      `[1|`   `1|`   `0|`   `0|`   `1|`       `40]|
 | - | :-: | :-: | :-: | :-: | - |
-|![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.069.png)(-1)[3/2|`   `1|`   `1/4|`   `0|`   `0|`         `5]|
+|![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.069.png)(-1)[3/2|`   `1|`   `1/4|`   `0|`   `0|`         `5]|
 `      `[-1/2            0          -1/4             0	1	35]
 
 olarak hesaplanacakları bellidir. 
@@ -2459,7 +2459,7 @@ Problemin simpleks başlangıç çözüm tablosu şöyledir.
 |AS|
 | :- |
 
-||||||||||<p></p><p>![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.070.png)![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.059.png)  24/4 = 6 </p>|
+||||||||||<p></p><p>![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.070.png)![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.059.png)  24/4 = 6 </p>|
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :- |
 |0    x5|` `2|` `2|` `4|0|1|0|0|46|`  `46/2 = 23|
 |0    x6|` `3|` `5|` `6|0|0|1|0|60|`  `60/5 = 12|
@@ -2469,9 +2469,9 @@ Problemin simpleks başlangıç çözüm tablosu şöyledir.
 |AS|
 | :- |
 
-![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.071.png)![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.061.png)Tablo 4.4’den görüldüğü gibi tüm Zj - Cj ³ 0 olmadığından başlangıçtaki temel uygun çözüm en iyi değildir.
+![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.071.png)![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.061.png)Tablo 4.4’den görüldüğü gibi tüm Zj - Cj ³ 0 olmadığından başlangıçtaki temel uygun çözüm en iyi değildir.
 
-Enb (![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.072.png)) = 22 olduğundan x2’nin bulunduğu sütun anahtar sütundur. Anahtar satırı belirlemek için çözüm vektörü elemanlarını anahtar sütunun karşılıklı elemanlarına oranlayarak en küçük oranı bulalım. Başlangıç çözüm tablosunun sağ tarafında gösterilen oranlar incelendiğinde, en küçük oranın 6 olduğu ve x4’ün bulunduğu satır için hesaplandığı görülebilir. Buna göre, anahtar satır x4 değişken satırı, anahtar sayı 4 olacaktır. Anahtar sayının belirlenmesinden sonra anahtar satır elemanlarının anahtar sayıya bölünmesi ve anahtar satırın yeni elemanlarının hesaplanması gerekir. Bu işlem aşağıda gösterilmiştir. 
+Enb (![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.072.png)) = 22 olduğundan x2’nin bulunduğu sütun anahtar sütundur. Anahtar satırı belirlemek için çözüm vektörü elemanlarını anahtar sütunun karşılıklı elemanlarına oranlayarak en küçük oranı bulalım. Başlangıç çözüm tablosunun sağ tarafında gösterilen oranlar incelendiğinde, en küçük oranın 6 olduğu ve x4’ün bulunduğu satır için hesaplandığı görülebilir. Buna göre, anahtar satır x4 değişken satırı, anahtar sayı 4 olacaktır. Anahtar sayının belirlenmesinden sonra anahtar satır elemanlarının anahtar sayıya bölünmesi ve anahtar satırın yeni elemanlarının hesaplanması gerekir. Bu işlem aşağıda gösterilmiştir. 
 
 Anahtar satır:    
 
@@ -2493,21 +2493,21 @@ x5 değişken satırının yeni elemanlarının hesaplanması:
 
 |`      `[2|2|`  `4|`  `0|1|0|0|46]|
 | :- | :- | :- | :- | :- | :- | :- | :- |
-|![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.073.png)(-2)[1/4|1|3/4|` `1/4|0|0|0|`  `6]|
+|![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.073.png)(-2)[1/4|1|3/4|` `1/4|0|0|0|`  `6]|
 `      `[3/2      0        5/2     -1/2     1      0       0      34]
 
 x6 değişken satırının yeni elemanlarının hesaplanması:
 
 |`      `[3|5|`  `6|`  `0|0|1|0|60]|
 | :- | :- | :- | :- | :- | :- | :- | :- |
-|![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.073.png)(-5)[1/4|1|3/4|1/4|0|0|0|`  `6]|
+|![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.073.png)(-5)[1/4|1|3/4|1/4|0|0|0|`  `6]|
 `      `[7/4       0      9/4      -5/4     0      1       0       30 ]
 
 x7 değişken satırının yeni elemanlarının hesaplanması:
 
 |`      `[4|8|`  `3|`  `0|0|0|1|120]|
 | :- | :- | :- | :- | :- | :- | :- | :- |
-|![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.073.png)(-8)[1/4|1|3/4|1/4|0|0|0|`    `6]|
+|![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.073.png)(-8)[1/4|1|3/4|1/4|0|0|0|`    `6]|
 `      `[2         0       -3        -2        0       0      1       72 ]
 
 Zj değerleri, 
@@ -2552,10 +2552,10 @@ Zj ve Zj – Cj için hesaplanan yeni değerlerle oluşturulan simpleks çözüm
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :- |
 |22   x2|1/4|1|3/4|1/4|0|0|0|6|`  `6/(1/4) = 24.00|
 |`  `0    x5|3/2|0|5/2|-1/2|1|0|0|34|34/(3/2) = 22.33|
-|![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.074.png) 0    x6|**7/4**|0|9/4|-5/4|0|1|0|30|30/(7/4) = 17.11 |
+|![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.074.png) 0    x6|**7/4**|0|9/4|-5/4|0|1|0|30|30/(7/4) = 17.11 |
 |` `0    x7|2|0|-3|-2|0|0|1|72| |
 |Zj|11/2|22|33/2|11/2|0|0|0|132| |
-|![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.075.png)Zj - Cj|-9/2|0|-3/2|11/2|0|0|0|-|-|
+|![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.075.png)Zj - Cj|-9/2|0|-3/2|11/2|0|0|0|-|-|
 
 
 Z1 - C1 = -9/2, Z3 - C3 = -3/2 < 0 olduğundan çözüm en iyi değildir. Birinci tablonun hazırlanmasında yapılan işlemlerin tekrarlanması ve yeni bir tablonun hazırlanması gerekmektedir. 9/2 > 3/2 olduğundan x1 temele alınarak, en küçük oranlı x6 temel olmayan değişken konumuna getirilir. Anahtar sütun x1 değişken sütunu, anahtar satır x6 değişken satırı olduğundan anahtar sayı 7/4 olur. Anahtar işlemlerin uygulanmasıyla oluşturulan yeni çözüm tablosu aşağıda gösterilmiştir.
@@ -2608,7 +2608,7 @@ olarak düzenlenir.
 
 Standart biçimin kısıtlayıcı fonksiyonları matrislerle şöyle gösterilir.          
 
-![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.076.png)
+![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.076.png)
 
 Kısıtlayıcı fonksiyonların değişken katsayılarından oluşan m x (n + m) matrisin son m sütununun negatif birim matris oluşturduğu kolayca görülebilir. Böylece eşitlik sisteminin x1 =  x2 = ...= xn = 0 uç noktasındaki başlangıç temel çözümü, xn+1 = -b1, xn+2 = -b2, …, xn+m = -bm olarak belirlenir. Negatif olmayan artık değişkenler için negatif değerler bulunması, bu temel çözümün uygun olmadığına işaret eder. Bu nedenle, negatif olmama koşulunu gerçekleyen diğer bir başlangıç çözümünün araştırılması zorunludur. Başlangıç çözümünü araştırmanın yolu, önceden olduğu gibi katsayılar matrisi yanında bir birim matris oluşturmaktır. Birim matris oluşturmak için artık değişkenlerle eşitlik biçimine dönüştürülen kısıtlayıcı fonksiyonlara negatif olmayan birer *yapay değişken* eklenir. Yapay değişkenlerin hiçbir fiziki yorumu yoktur, bunlar yalnızca bir başlangıç uygun çözüme ulaşmak amacıyla, (³) işaretli kısıtlayıcılara eklenen değişkenlerdir. Bu değişkenler Ai (i = 1, 2, ..., m)  ile gösterildiğinde,  kısıtlayıcılar aşağıdaki gibi elde edilir ([\[8\]](#_ftn8)).
 
@@ -2626,7 +2626,7 @@ x1, x2, ..., xn, xn+1, xn+2, ..., xn+m, A1, A2, ..., Am ³ 0
 
 Yapay değişkenlerin eklenmesiyle kısıtlayıcı fonksiyonlara ilişkin katsayılar matrisi şöyle gösterilir.  
 
-![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.077.png)![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.077.png)![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.078.png)
+![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.077.png)![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.077.png)![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.078.png)
 
 Kısıtlayıcı fonksiyon katsayılarından oluşan matrisin son m sütununun bir birim matris oluşturduğu görülebilir.
 
@@ -2675,7 +2675,7 @@ Standart biçimdeki bilgilerin kullanılmasıyla oluşturulan tablo aşağıda g
 |`  `AS|
 | :- |
 
-||||||||||<p></p><p>![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.079.png)![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.080.png)8/4 = 2 </p>|
+||||||||||<p></p><p>![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.079.png)![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.080.png)8/4 = 2 </p>|
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :- |
 |-M   A2|3|2|1|` `0|-1|0|1|6|6/2 = 3|
 |Zj|-4M|-6M|-3M|M|M|M|M|-14M| |
@@ -2684,7 +2684,7 @@ Standart biçimdeki bilgilerin kullanılmasıyla oluşturulan tablo aşağıda g
 |AS|
 | :- |
 
-|||<p></p><p>![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.081.png)![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.082.png)-6M+3</p>|-3M+1|M|M|0|0|-| |
+|||<p></p><p>![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.081.png)![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.082.png)-6M+3</p>|-3M+1|M|M|0|0|-| |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :- |
 Bu kez başlangıç tablosundaki Zj değerlerinin, önceki iki örnek problemin başlangıç tablolarındaki Zj değerlerinden farklı olarak sıfır olmadığına dikkat edilmelidir. Bunun nedeni başlangıçtaki temel değişkenlerinin amaç fonksiyonu katsayılarının sıfırdan farklı olmasıdır. Buna göre Zj değerleri aşağıdaki gibi hesaplanır. 
 
@@ -2739,20 +2739,20 @@ Tablo 4.8’den görüldüğü gibi, Tablo 4.7’deki başlangıç çözümünde
 |TDV|x1|x2|x3|x4|x5|A1|A2|ÇV|
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 |-3      x2|1/4|` `1|` `1/2|-1/4|` `0|` `1/4|0|2|
-|-M    A2|**5/2**|` `0|` `0|` `1/2|-1|-1/2|1|![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.083.png)2|
-|Zj|![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.084.png)|-3|-3/2|![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.085.png)|M|![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.086.png)|-M|-2M-6|
-|Zj - Cj|![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.087.png)![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.088.png)|` `0|-1/2|![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.089.png)|M|![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.090.png)|0|-|
+|-M    A2|**5/2**|` `0|` `0|` `1/2|-1|-1/2|1|![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.083.png)2|
+|Zj|![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.084.png)|-3|-3/2|![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.085.png)|M|![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.086.png)|-M|-2M-6|
+|Zj - Cj|![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.087.png)![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.088.png)|` `0|-1/2|![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.089.png)|M|![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.090.png)|0|-|
 Mutlak değerce en büyük negatif değer [(5 - 10M)/4] olduğundan, x1 ikinci simpleks tabloda temel değişken olarak işlem görecektir. Oranlar birinci satır için 8, ikinci satır için (4/5) olarak hesaplandığından, A2 temeli terkeden değişken olur. Anahtar sayının (5/2) olduğunun belirlenmesinden sonra simpleks yöntemin standart işlemleriyle yeni çözüm tablosu aşağıdaki gibi olur.
 ##### ***Tablo 4.9***
 ##### ***Simpleks İkinci Çözüm Tablosu***
 
 |TDV|x1|x2|x3|x4|x5|A1|A2|ÇV|
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-|-3    x2|`  `0|`  `1|` `**1/2**|-3/10|1/10|` `3/10|-1/10|![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.091.png)9/5|
+|-3    x2|`  `0|`  `1|` `**1/2**|-3/10|1/10|` `3/10|-1/10|![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.091.png)9/5|
 |-2    x1|`  `1|`  `0|` `0|` `1/5|-2/5|-1/5|2/5|4/5|
 |Zj|-2|-3|-3/2|1/2|` `1/2|-1/2|-1/2|-7|
-|Zj - Cj|` `0|` `0|-1/2|` `1/2|` `1/2|![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.092.png)|![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.093.png)|-|
-![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.094.png)Z3 - C3 < 0 olduğundan, tablodaki çözüm en iyi değildir. x3 temele alınarak en  küçük oranlı x2 temelden çıkartılır. Anahtar sayının 1/2 olduğunun belirlenmesinden sonra standart işlemler uygulanır. Elementer satır işlemlerinin gerçekleştirilmesiyle ulaşılan yeni çözüm tablosu aşağıda verilmiştir.
+|Zj - Cj|` `0|` `0|-1/2|` `1/2|` `1/2|![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.092.png)|![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.093.png)|-|
+![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.094.png)Z3 - C3 < 0 olduğundan, tablodaki çözüm en iyi değildir. x3 temele alınarak en  küçük oranlı x2 temelden çıkartılır. Anahtar sayının 1/2 olduğunun belirlenmesinden sonra standart işlemler uygulanır. Elementer satır işlemlerinin gerçekleştirilmesiyle ulaşılan yeni çözüm tablosu aşağıda verilmiştir.
 ##### ***Tablo 4.10***
 ***Simpleks Üçüncü (En iyi) Çözüm Tablosu***
 
@@ -2761,7 +2761,7 @@ Mutlak değerce en büyük negatif değer [(5 - 10M)/4] olduğundan, x1 ikinci 
 |` `-1     x3|0|2|1|-3/5|1/5|3/5|-1/5|18/5|
 |` `-2      x1|1|0|0|1/5|-2/5|-1/5|2/5|4/5|
 |Zj|-2|-2|-1|1/5|3/5|-1/5|-3/5|-26/5|
-|Zj - Cj|0|1|0|1/5|3/5|![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.095.png)|![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.096.png)|-|
+|Zj - Cj|0|1|0|1/5|3/5|![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.095.png)|![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.096.png)|-|
 Tablo 4.10’daki temel uygun çözümde tüm Zj - Cj ³ 0 olduğundan çözüm en iyidir. Bu çözümde, x1 = 4/5, x2 = 0, x3 = 18/5, x4 = 0, x5 = 0,  A1 = 0, A2 = 0 olarak belirlenmiştir. Amaç fonksiyonunun en büyük değeri Zenb = -26/5’dir. 
 
 Buraya kadar kısıtlayıcı fonksiyonlarının tamamı ya (£) veya (³) işaretli olan problemler üzerinde durulmuştur. Oysa kısıtlayıcı fonksiyonlardan bir ya da bir kaçı veya hepsi (=) biçiminde olabilir. Kısıtlayıcılar (=) biçiminde olduğundan, aylak değişken eklenmesi gerekmeyecek dolayısıyla, modelin dönüştürülmüş biçimi aynı kalacaktır. Kısıtlayıcılar aylak değişkene sahip olmadığı için de başlangıç temel uygun çözüme ulaşılamayacaktır. Bu sorunu ortadan kaldırmak, yani birim matris oluşturmak amacıyla eşitlik biçimindeki kısıtlayıcı fonksiyonların sol taraflarına (+1) katsayılı yapay değişkenler eklenir. Yapay değişkenlerin amaç fonksiyonundaki katsayıları önceden açıklandığı gibi, en büyükleme problemlerinde çok büyük bir negatif sayı (-M), en küçükleme problemlerinde çok büyük bir pozitif sayıdır (M). Bu yolla, yapay değişkenlerin en iyi çözümün temeline girmeleri engellenmiş olur. 
@@ -2824,8 +2824,8 @@ Z1 - C1,  Z2 - C2, Z3 - C3 < 0 olduğundan, başlangıçtaki temel uygun çöz�
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 |1     x3|1/2|1/4|1|1/4|0|5|
 |-M    A2|-1|**2**|0|-1|1|10|
-|Zj|![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.097.png)|![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.098.png)|1|![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.099.png)|-M|-10M+5|
-|Zj - Cj|![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.100.png)|![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.101.png)|0|![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.102.png)|0|-|
+|Zj|![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.097.png)|![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.098.png)|1|![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.099.png)|-M|-10M+5|
+|Zj - Cj|![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.100.png)|![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.101.png)|0|![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.102.png)|0|-|
 Z2 - C2 < 0 olduğundan Tablo 4.12’deki çözüm en iyi değildir ve x2’nin temele alınması gerekir. Oranlar incelendiğinde, çözümü terkedecek değişkenin A2 olduğu görülür. Anahtar sayı 2’dir. Simpleks yöntemin standart işlemlerinin uygulanmasıyla bulunan değerlerle oluşturulan yeni çözüm tablosu aşağıda gösterilmiştir.
 
 ***Tablo 4.13***
@@ -2837,7 +2837,7 @@ Z2 - C2 < 0 olduğundan Tablo 4.12’deki çözüm en iyi değildir ve x2’nin 
 |1    x3|` `**5/8**|0|1|3/8|-1/8|15/4|
 |1    x2|-1/2|1|0|-1/2|` `1/2|5|
 |Zj|1/8|1|1|-1/8|3/8|35/4|
-|Zj - Cj|-167/8|0|0|![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.103.png)|![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.104.png)|-|
+|Zj - Cj|-167/8|0|0|![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.103.png)|![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.104.png)|-|
 Z1 - C1 < 0 olduğundan en iyi çözüme henüz ulaşılamamıştır. x1 değişken sütununun anahtar sütun, x3 değişken satırının anahtar satır, anahtar sayının 5/8 olduğunun belirlenmesinden sonra belirlenen üçüncü çözüm tablosu aşağıda gösterilmiştir.
 
 
@@ -2851,7 +2851,7 @@ Z1 - C1 < 0 olduğundan en iyi çözüme henüz ulaşılamamıştır. x1 değiş
 |21   x1|1|0|8/5|` `3/5|-1/5|6|
 |1    x2|0|1|4/5|-1/5|`  `2/5|8|
 |Zj|21|1|172/5|62/5|-19/5|134|
-|Zj - Cj|0|0|167/2|![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.105.png)|![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.106.png)|-|
+|Zj - Cj|0|0|167/2|![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.105.png)|![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.106.png)|-|
 Son satırın tüm elemanları ³ 0 olduğundan, en iyi çözüm elde edilmiştir. Bu en iyi çözümde, x1 = 6, x2 = 8, x3 = x4 = x5 = 0 ve Zenb = 134’dür. 
 
 Şimdiye kadar simpleks yöntemi kısıtlayıcı fonksiyonları (³), (£) veya (=) biçiminde olan en büyükleme problemlerine uyguladık ve açıkladık. Oysa yöntem sadece en büyükleme problemlerine değil, en küçükleme problemlerine de uygulanır.
@@ -2906,8 +2906,8 @@ Anahtar sayının 3 olduğunun belirlenmesinden sonra öncekinden daha gelişmi
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 |2     x2|2/3|1|1/3|-1/3|` `0|` `1/3|0|7|
 |M   A2|1/3|0|**2/3**|1/3|-1|-1/3|1|5|
-|Zj|![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.107.png)|2|![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.108.png)|![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.109.png)|-M|![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.110.png)|M|5M+14|
-|Zj - Cj|![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.111.png)|0|![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.112.png)|![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.109.png)|-M|![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.113.png)|0|-|
+|Zj|![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.107.png)|2|![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.108.png)|![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.109.png)|-M|![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.110.png)|M|5M+14|
+|Zj - Cj|![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.111.png)|0|![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.112.png)|![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.109.png)|-M|![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.113.png)|0|-|
 Birinci çözümün yer aldığı Tablodan görüldüğü gibi Z1 - C1, Z3 - C3, Z4 - C4 > 0’dır. O halde, en iyi çözüme henüz ulaşılamamıştır ve çözüm daha geliştirilebilir. En büyük pozitif Zj - Cj, x3’e ait olduğundan, x3 bir sonraki çözümün temelinde bulunacaktır.
 
 Anahtar satırın A2 değişken satırı, anahtar sayının (2/3) olduğunun belirlenmesinden sonra gerekli işlemlerin tamamlanmasıyla düzenlenen tablo aşağıda gösterilmiştir. 
@@ -2923,7 +2923,7 @@ Anahtar satırın A2 değişken satırı, anahtar sayının (2/3) olduğunun bel
 |2     x2|1/2|1|0|-1/2|1/2|1/2|-1/2|9/2|
 |1     x3|1/2|0|1|` `1/2|-3/2|-1/2|` `3/2|15/2|
 |Zj|3/2|2|1|-1/2|-1/2|` `1/2|` `1/2|33/2|
-|Zj - Cj|-3/2|0|0|-1/2|-1/2|![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.114.png)|![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.114.png)|-|
+|Zj - Cj|-3/2|0|0|-1/2|-1/2|![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.114.png)|![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.114.png)|-|
 Tüm  Zj - Cj £ 0 olduğundan, en iyi çözüme ulaşılmış ve x1 = 0, x2 =  9/2, x3 = 15/2, x4 = 0, x5 = 0, A1 = 0, A2 = 0 ve Zenk = 33/2 olarak belirlenmiştir. 
 ## ***4.4  SİMPLEKS  YÖNTEM UYGULAMASINDA***
 ## `      `***KARŞILAŞILAN ÖZEL DURUMLAR***
@@ -2969,9 +2969,9 @@ Standart biçimden hareketle düzenlenen başlangıç çözüm tablosu aşağıd
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 |0    x4|2|3|4|1|0|0|12|
 |0    x5|1|2|1|0|1|0|4|
-|0    x6|**3**|5|0|0|0|1|![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.115.png)10|
+|0    x6|**3**|5|0|0|0|1|![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.115.png)10|
 |Zj|0|0|0|0|0|0|0|
-|Zj - Cj|![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.082.png)-8|![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.082.png)-8|-6|0|0|0|-|
+|Zj - Cj|![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.082.png)-8|![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.082.png)-8|-6|0|0|0|-|
 Tablo 4.18’den görüldüğü gibi tüm Zj - Cj £ olduğundan, tablodaki çözüm en iyi değildir. Aynı en büyük negatif değerli birden fazla Zj - Cj (Z1 – C1 ve Z2 – C2) olduğundan anahtar sütun seçiminde kararsızlığa düşülmüştür. Bu sorunu ortadan kaldırmak için en küçük sayının bulunduğu sütunu belirleyelim([\[11\]](#_ftn11)).
 
 Her iki sütunun elemanlarının en küçüğü olan 1, x1 değişken sütununda bulunduğundan, x1’in temele alınması uygun olur.
@@ -2987,10 +2987,10 @@ En küçük oran x6 değişkeni için hesaplandığından, anahtar satır x6 d
 |TDV|x1|x2|x3|x4|x5|x6|ÇV|
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 |0     x4|0|-1/3|4|1|0|-2/3|16/3|
-|0     x5|0|1/3|**1**|0|1|-1/3|![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.115.png)2/3|
+|0     x5|0|1/3|**1**|0|1|-1/3|![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.115.png)2/3|
 |8     x1|1|5/3|0|0|0|1/3|10/3|
 |Zj|8|40/3|0|0|0|8/3|80/3|
-|Zj - Cj|0|16/3|![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.082.png)-6|0|0|8/3|-|
+|Zj - Cj|0|16/3|![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.082.png)-6|0|0|8/3|-|
 Tablo 4.19’dan görüldüğü gibi Z3 - C3 < 0 olduğundan, tablodaki çözüm en iyi değildir. Daha gelişmiş bir çözüm için x3 temele alınmalıdır. En küçük oran x5’e ait olduğundan x5 temelden çıkartılır. Buna göre anahtar sayı 1 olur. Simpleks yöntemin standart işlemleriyle yeni çözüm tablosu aşağıdaki gibi olur.  
 
 ***Tablo 4.20***
@@ -3047,12 +3047,12 @@ Problem için hazırlanan simpleks başlangıç çözüm tablosu aşağıda gös
 
 |TDV|x1|x2|x3|x4|x5|x6|ÇV|Oran|
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :- |
-|0     x4|`  `3|` `4|`  `5|1|0|0|16/3|![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.115.png)12/3 = 4|
-|0     x5|`  `2|` `0|`  `5|0|1|0|` `2/3|![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.115.png)  8/2 = 4|
-|0     x6|`  `1|` `4|`  `2|0|0|1|10/3|![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.115.png)  4/1 = 4|
+|0     x4|`  `3|` `4|`  `5|1|0|0|16/3|![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.115.png)12/3 = 4|
+|0     x5|`  `2|` `0|`  `5|0|1|0|` `2/3|![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.115.png)  8/2 = 4|
+|0     x6|`  `1|` `4|`  `2|0|0|1|10/3|![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.115.png)  4/1 = 4|
 |Zj|`  `0|` `0|`  `0|0|0|0|80/3| |
-|Zj - Cj|![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.082.png)-8|-6|-5|0|0|0|-| |
-Başlangıç temel uygun çözümün bulunduğu Tablo 4.21’den görüldüğü gibi çözüm en iyi değildir ve enb![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.116.png)= Z1 - C1 = 8 olduğundan x1 temele alınmalıdır. Temelden çıkacak değişkenin belirlenmesi amacıyla hesaplanan oranlar tablonun sağ tarafında oranlar başlığı altında gösterilmiştir. Anahtar satır seçiminde kullanılacak olan bu oranlar incelendiğinde (bkz. Tablo 4.21) üçünün birden en küçük değerde olduğu görülecektir. Sonuç olarak, anahtar satırın seçiminde bir kararsızlık söz konusudur. Bu kararsızlıktan kurtulmak için Charnes’in yöntemini kullanalım. Önce, eşit oranlı satırlardaki her bir elemanı bulunduğu satırın anahtar sütun üzerindeki sayısına bölelim. Bu uygulamayla elde edilen oranlar aşağıda gösterilmiştir.
+|Zj - Cj|![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.082.png)-8|-6|-5|0|0|0|-| |
+Başlangıç temel uygun çözümün bulunduğu Tablo 4.21’den görüldüğü gibi çözüm en iyi değildir ve enb![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.116.png)= Z1 - C1 = 8 olduğundan x1 temele alınmalıdır. Temelden çıkacak değişkenin belirlenmesi amacıyla hesaplanan oranlar tablonun sağ tarafında oranlar başlığı altında gösterilmiştir. Anahtar satır seçiminde kullanılacak olan bu oranlar incelendiğinde (bkz. Tablo 4.21) üçünün birden en küçük değerde olduğu görülecektir. Sonuç olarak, anahtar satırın seçiminde bir kararsızlık söz konusudur. Bu kararsızlıktan kurtulmak için Charnes’in yöntemini kullanalım. Önce, eşit oranlı satırlardaki her bir elemanı bulunduğu satırın anahtar sütun üzerindeki sayısına bölelim. Bu uygulamayla elde edilen oranlar aşağıda gösterilmiştir.
 
 |TDV|x1|x2|x3|x4|x5|x6|
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
@@ -3065,7 +3065,7 @@ Başlangıç temel uygun çözümün bulunduğu Tablo 4.21’den görüldüğü 
 |Birim Matris|
 | :-: |
 
-![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.117.png)![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.118.png)![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.119.png)![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.120.png)![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.118.png)![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.121.png)![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.122.png)![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.123.png)![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.118.png)İlk önce birim matristen başlayarak eşit olmayan oranlara rastlayıncaya  kadar oranları karşılaştıralım. Görüldüğü gibi, birim matrisin her sütununda en küçük değerli oran olan sıfıra her seferinde iki satırda rastlanmaktadır. O halde, gövdeye geçmek gerekmektedir. Gövdeye geçildiğinde x2’ye ait sütunda üç farklı oran olduğu görülür. Bu oranlar arasından en küçük değerli olan x5 değişken satırı için hesaplandığından anahtar satır x5 değişken satırıdır.
+![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.117.png)![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.118.png)![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.119.png)![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.120.png)![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.118.png)![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.121.png)![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.122.png)![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.123.png)![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.118.png)İlk önce birim matristen başlayarak eşit olmayan oranlara rastlayıncaya  kadar oranları karşılaştıralım. Görüldüğü gibi, birim matrisin her sütununda en küçük değerli oran olan sıfıra her seferinde iki satırda rastlanmaktadır. O halde, gövdeye geçmek gerekmektedir. Gövdeye geçildiğinde x2’ye ait sütunda üç farklı oran olduğu görülür. Bu oranlar arasından en küçük değerli olan x5 değişken satırı için hesaplandığından anahtar satır x5 değişken satırıdır.
 
 Anahtar sütun ve satırın belirlenmesi ve bilinen işlemlerin tekrarlanmasıyla aşağıdaki tabloya ulaşılır. 
 
@@ -3145,9 +3145,9 @@ M çok büyük bir   sayı  olarak  tanımlandığından, Zj - Cj satırınd
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 |9     x3|1/4|1/4|1|-1/4|` `0|1/4|` `0|3|
 |-M   A2|3/4|**3/4**|0|1/4|-1|-1/4|` `1|1|
-|Zj|![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.124.png)|![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.124.png)|9|![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.125.png)|M|![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.126.png)|-M|27-M|
-|Zj - Cj|![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.127.png)|![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.128.png)|0|![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.125.png)|M|![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.129.png)|0|-|
-Tablo 4.25’den görüldüğü gibi Z1 - C1, Z2 - C2, Z4 - C4 < 0 olduğundan, çözüm en iyi değildir. Ayrıca, enb(![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.130.png),![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.131.png),![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.132.png)) = ![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.131.png) = [(-3M-11)/4] olduğundan x2 değişken sütunu anahtar sütundur.  Oranlar, x3 değişken satırı için 12, A2 değişken satırı için (4/3) olarak hesaplandığından, A2 değişken satırı anahtar satırdır. Anahtar sayı (3/4) dür. Simpleks yöntemin standart işlemlerinin uygulanmasıyla elde edilen yeni çözüm tablosu aşağıda gösterilmiştir.
+|Zj|![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.124.png)|![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.124.png)|9|![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.125.png)|M|![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.126.png)|-M|27-M|
+|Zj - Cj|![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.127.png)|![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.128.png)|0|![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.125.png)|M|![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.129.png)|0|-|
+Tablo 4.25’den görüldüğü gibi Z1 - C1, Z2 - C2, Z4 - C4 < 0 olduğundan, çözüm en iyi değildir. Ayrıca, enb(![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.130.png),![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.131.png),![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.132.png)) = ![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.131.png) = [(-3M-11)/4] olduğundan x2 değişken sütunu anahtar sütundur.  Oranlar, x3 değişken satırı için 12, A2 değişken satırı için (4/3) olarak hesaplandığından, A2 değişken satırı anahtar satırdır. Anahtar sayı (3/4) dür. Simpleks yöntemin standart işlemlerinin uygulanmasıyla elde edilen yeni çözüm tablosu aşağıda gösterilmiştir.
 
 ***Tablo 4.26***
 
@@ -3158,7 +3158,7 @@ Tablo 4.25’den görüldüğü gibi Z1 - C1, Z2 - C2, Z4 - C4 < 0 olduğundan, 
 |9     x3|0|0|1|-1/3|` `**1/3**|` `1/3|-1/3|8/3|
 |5     x2|1|1|0|` `1/3|-4/3|-1/3|` `4/3|4/3|
 |Zj|5|5|9|-4/3|-11/3|` `4/3|11/3|92/3|
-|Zj - Cj|3|0|0|-4/3|-11/3|![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.133.png)|![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.134.png)|-|
+|Zj - Cj|3|0|0|-4/3|-11/3|![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.133.png)|![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.134.png)|-|
 Z4 - C4 = -4/3, Z5 - C5 = -11/3 < 0 olduğundan çözüm en iyi değildir. Tablodan görüldüğü gibi, x5 çözüme girecek x3 temelden çıkacaktır. Bilinen işlemlerden sonra elde edilen üçüncü çözüm tablosu aşağıda gösterilmiştir.
 
 ***Tablo 4.27***
@@ -3216,7 +3216,7 @@ Buna göre başlangıç çözüm tablosu aşağıdaki gibi olur.
 |0     x6|` `2|` `2|` `1|0|0|1|20|
 |Zj|0|0|0|0|0|0|0|
 |Zj - Cj|-2|-4|-6|0|0|0|-|
-Tüm Zj - Cj ³  0 olmadığından başlangıç temel uygun çözüm en iyi değildir. ![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.135.png) > ![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.136.png), ![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.137.png) olduğundan, x3 temele alınıp x4 temelden çıkartılarak anahtar işlemler uygulandığında yeni çözüm Tablo 4.29’da gösterildiği gibi elde edilir.
+Tüm Zj - Cj ³  0 olmadığından başlangıç temel uygun çözüm en iyi değildir. ![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.135.png) > ![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.136.png), ![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.137.png) olduğundan, x3 temele alınıp x4 temelden çıkartılarak anahtar işlemler uygulandığında yeni çözüm Tablo 4.29’da gösterildiği gibi elde edilir.
 ##### ***Tablo 4.29***
 ***Simpleks Birinci Çözüm Tablosu***
 
@@ -3290,27 +3290,27 @@ Z2 - C2 = 2M-2 > Z1 - C1 = M-2 olduğundan x2 temele alınıp, en küçük orana
 |0     x3|-7/4|0|` `0|1|-1/4|0|5/2|
 |M    A1|-1/2|0|-1|0|-1/2|1|2|
 |2     x2|3/4|1|` `0|0|` `1/4|0|3/2|
-|Zj|![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.138.png)|2|-M|0|![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.139.png)|M|2M+3|
-|Zj - Cj|![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.140.png)|0|-M|0|![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.139.png)|0|-|
+|Zj|![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.138.png)|2|-M|0|![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.139.png)|M|2M+3|
+|Zj - Cj|![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.140.png)|0|-M|0|![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.139.png)|0|-|
 Tüm Zj - Cj £ 0 olduğundan, en iyi olma koşulu sağlanmış ve çözüm x1 = 0, x2 = 3/2, x3 = 5/2, x4 = 0, x5 = 0, A1 = 2, Zenb = 2M+3 olarak belirlenmiştir. Ancak simpleks yöntemde mutlaka sıfır düzeyinde bulunması gereken yapay değişken A1 = 2 olduğundan çözüm uygun değildir. 
 ### ` `***4.4.6 Sınırlandırılmamış Değişkenlerle Çözüm*** 
 `             `Bilindiği gibi doğrusal programlamanın simpleks algoritması ile çözümünde temeli terkedecek değişkenin belirlenmesinde oranlar incelenmekte ve yalnızca pozitif oranlar dikkate alınmaktadır. Bu yolla çözümün uygun olması, yani tüm değişkenlerin negatif olmayan değerler alması sağlanmaktadır. Bazı değişkenlerin işaretleri üzerine herhangi bir sınırlama getirilmemesi durumunda oran testi uygulanamayacağından, simpleks yöntem uygulaması şansı ortadan kalkar. Bu durumda yapılacak tek şey, problemin simpleks yöntemle çözümüne imkan verecek değişiklikleri gerçekleştirmektir.  
 
-İşaretçe sınırlandırılmamış değişkenlerin bulunduğu bir doğrusal programlama probleminin simpleks yöntemle çözülebilmesi için önce problemin klasik doğrusal programlamaya  dönüştürülmesi, yani negatif olmama koşulunun oluşturulması gerekir. Bu amaçla işaretçe sınırlandırılmamış her bir xi değişkeni için iki yeni değişken tanımlanır. Yeni değişkenler ![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.141.png) ve ![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.142.png) olsun. xi = ![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.143.png)-![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.142.png) olarak tanımlanır ve amaç fonksiyonu ile kısıtlayıcı fonksiyonlardaki tüm xi ler (![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.144.png)-![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.142.png)) ile değiştirilir. Modelin negatif olmama koşulunda ise ![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.145.png)³ 0, ![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.142.png)³ 0 düzeltmesi yapılır. Böylece işaretçe sınırlandırılmamış her bir değişken negatif olmayan iki değişkenin farkı olarak açıklanmış ve orijinal problem klasik doğrusal programlama problemine dönüştürülmüş, böylece simpleks yöntem uygulanmasına olanak sağlanmış olur.İleride görüleceği gibi herhangi bir temel uygun çözümde ![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.146.png) ve ![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.142.png) değişkenlerinin her ikisi birden sıfırdan büyük olamaz. Bu herhangi bir temel uygun çözümde işaretçe sınırlandırılmamış her bir xi’nin aşağıda açıklanan üç durumdan birine düşeceği  anlamına gelmektedir. 
+İşaretçe sınırlandırılmamış değişkenlerin bulunduğu bir doğrusal programlama probleminin simpleks yöntemle çözülebilmesi için önce problemin klasik doğrusal programlamaya  dönüştürülmesi, yani negatif olmama koşulunun oluşturulması gerekir. Bu amaçla işaretçe sınırlandırılmamış her bir xi değişkeni için iki yeni değişken tanımlanır. Yeni değişkenler ![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.141.png) ve ![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.142.png) olsun. xi = ![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.143.png)-![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.142.png) olarak tanımlanır ve amaç fonksiyonu ile kısıtlayıcı fonksiyonlardaki tüm xi ler (![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.144.png)-![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.142.png)) ile değiştirilir. Modelin negatif olmama koşulunda ise ![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.145.png)³ 0, ![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.142.png)³ 0 düzeltmesi yapılır. Böylece işaretçe sınırlandırılmamış her bir değişken negatif olmayan iki değişkenin farkı olarak açıklanmış ve orijinal problem klasik doğrusal programlama problemine dönüştürülmüş, böylece simpleks yöntem uygulanmasına olanak sağlanmış olur.İleride görüleceği gibi herhangi bir temel uygun çözümde ![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.146.png) ve ![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.142.png) değişkenlerinin her ikisi birden sıfırdan büyük olamaz. Bu herhangi bir temel uygun çözümde işaretçe sınırlandırılmamış her bir xi’nin aşağıda açıklanan üç durumdan birine düşeceği  anlamına gelmektedir. 
 
-**Durum 1**: ![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.147.png)> 0 ve ![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.142.png) = 0.
+**Durum 1**: ![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.147.png)> 0 ve ![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.142.png) = 0.
 
-Bu durum temel uygun çözümde işareti sınırlandırılmamış xi’nin > 0 olacağına işaret eder. Bu durumda xi = ![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.144.png)- ![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.142.png) = ![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.143.png)olur. Buradan xi = ![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.143.png)elde edilir. Örneğin, eğer temel uygun çözümde ![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.144.png)= 3 ise ![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.148.png) = 3, ![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.142.png) = 0 olur. 
+Bu durum temel uygun çözümde işareti sınırlandırılmamış xi’nin > 0 olacağına işaret eder. Bu durumda xi = ![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.144.png)- ![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.142.png) = ![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.143.png)olur. Buradan xi = ![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.143.png)elde edilir. Örneğin, eğer temel uygun çözümde ![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.144.png)= 3 ise ![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.148.png) = 3, ![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.142.png) = 0 olur. 
 
-**Durum 2**: ![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.149.png)= 0 ve ![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.150.png)> 0.
+**Durum 2**: ![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.149.png)= 0 ve ![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.150.png)> 0.
 
-Bu durum temel uygun çözümde xi < 0 olması demektir. xi = ![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.151.png)- ![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.142.png) olduğundan,  xi = -![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.142.png) elde edilir. Örneğin, eğer temel uygun çözümde ![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.142.png)= 3 ise tanım gereği ![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.152.png)- ![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.142.png) = 0 - 3 = -3 dolayısıyla xi = -3 elde edilir.  
+Bu durum temel uygun çözümde xi < 0 olması demektir. xi = ![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.151.png)- ![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.142.png) olduğundan,  xi = -![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.142.png) elde edilir. Örneğin, eğer temel uygun çözümde ![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.142.png)= 3 ise tanım gereği ![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.152.png)- ![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.142.png) = 0 - 3 = -3 dolayısıyla xi = -3 elde edilir.  
 
-**Durum 3**: ![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.153.png)= 0 ve ![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.142.png) = 0.
+**Durum 3**: ![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.153.png)= 0 ve ![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.142.png) = 0.
 
-Bu durumda xi = ![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.144.png)- ![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.142.png) = 0 - 0 = 0 elde edilir.
+Bu durumda xi = ![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.144.png)- ![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.142.png) = 0 - 0 = 0 elde edilir.
 
-Açıklamaların ortaya koyduğu gibi aynı simpleks tabloda ![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.144.png) ve ![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.142.png)’den en fazla bir tanesi temelde bulunabilir.  Bunun nedeni şu şekilde açıklanabilir. ![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.142.png)’nin temelde bulunduğunu düşünelim. Bu durumda ![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.142.png) sütununun sadece ![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.142.png)’nin bulunduğu satırında 1 diğer satırlarında 0 bulunacaktır. ![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.142.png) sütun değerleri ![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.154.png) sütun değerlerinin ters işaretlisine eşit olduğundan, ![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.143.png) sütun elemanlarından sadece bir tanesi -1’e diğerleri sıfıra eşit olacaktır. Bu durumda ![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.155.png) temelde bulunamaz. Aynı gerekçeden dolayı ![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.142.png) ve ![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.156.png) aynı anda temelde bulunamazlar. Bu herhangi bir simpleks tabloda ![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.157.png), ![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.142.png) veya her ikisinin birden sıfıra eşit olması demektir. Sınırlandırılmamış değişken içeren bir problemin simpleks yöntemle çözümü aşağıdaki örnek problem üzerinde açıklanacaktır.  
+Açıklamaların ortaya koyduğu gibi aynı simpleks tabloda ![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.144.png) ve ![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.142.png)’den en fazla bir tanesi temelde bulunabilir.  Bunun nedeni şu şekilde açıklanabilir. ![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.142.png)’nin temelde bulunduğunu düşünelim. Bu durumda ![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.142.png) sütununun sadece ![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.142.png)’nin bulunduğu satırında 1 diğer satırlarında 0 bulunacaktır. ![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.142.png) sütun değerleri ![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.154.png) sütun değerlerinin ters işaretlisine eşit olduğundan, ![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.143.png) sütun elemanlarından sadece bir tanesi -1’e diğerleri sıfıra eşit olacaktır. Bu durumda ![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.155.png) temelde bulunamaz. Aynı gerekçeden dolayı ![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.142.png) ve ![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.156.png) aynı anda temelde bulunamazlar. Bu herhangi bir simpleks tabloda ![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.157.png), ![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.142.png) veya her ikisinin birden sıfıra eşit olması demektir. Sınırlandırılmamış değişken içeren bir problemin simpleks yöntemle çözümü aşağıdaki örnek problem üzerinde açıklanacaktır.  
 
 ***Örnek 4.12***: Aşağıdaki problemi simpleks yöntemle çözünüz.
 
@@ -3322,33 +3322,33 @@ Zenb = 2x1 + x2
 
 `                     `x1 > 0, x2 işareti sınırlandırılmamış
 
-***Çözüm 4.12***: Simpleks yöntem için önce işareti sınırlandırılmamış x2 değişkeni yerine, x2 = ![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.158.png)-![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.159.png) yazalım. Bu durumda yukarıda verilen doğrusal programlama problemi aşağıdaki gibi olur.
+***Çözüm 4.12***: Simpleks yöntem için önce işareti sınırlandırılmamış x2 değişkeni yerine, x2 = ![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.158.png)-![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.159.png) yazalım. Bu durumda yukarıda verilen doğrusal programlama problemi aşağıdaki gibi olur.
 
-Zenb = 2x1 + (![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.158.png)-![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.159.png)) 
+Zenb = 2x1 + (![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.158.png)-![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.159.png)) 
 
-`           `3x1 + (![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.160.png)-![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.159.png)) £  6
+`           `3x1 + (![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.160.png)-![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.159.png)) £  6
 
-`             `x1 + (![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.161.png)-![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.159.png)) £ 4
+`             `x1 + (![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.161.png)-![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.159.png)) £ 4
 
-`                   `x1, ![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.162.png),![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.159.png) ³ 0 
+`                   `x1, ![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.162.png),![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.159.png) ³ 0 
 
-Artık çözülecek problem, içeriğinde x2 yerine (![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.163.png)-![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.159.png))’yi bulunduran problemdir. Problemin simpleks yöntemin gerektirdiği forma dönüştürülmesinin ardından uygulamaya geçilebilir.
+Artık çözülecek problem, içeriğinde x2 yerine (![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.163.png)-![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.159.png))’yi bulunduran problemdir. Problemin simpleks yöntemin gerektirdiği forma dönüştürülmesinin ardından uygulamaya geçilebilir.
 
 Düzenlenmiş problemin simpleks yöntemin gerektirdiği standart formu ve çözüm tabloları aşağıda arka arkaya verilmiştir.
 
-Zenb = 2x1 + (![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.158.png)-![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.159.png)) 
+Zenb = 2x1 + (![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.158.png)-![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.159.png)) 
 
-`           `3x1 + (![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.164.png)-![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.159.png)) + x 3 = 6
+`           `3x1 + (![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.164.png)-![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.159.png)) + x 3 = 6
 
-`             `x1 + (![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.165.png)-![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.159.png)) + x4  = 4
+`             `x1 + (![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.165.png)-![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.159.png)) + x4  = 4
 
-`                `x1, ![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.166.png),![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.159.png), x3, x4 ³ 0 
+`                `x1, ![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.166.png),![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.159.png), x3, x4 ³ 0 
 
 ***Tablo 4.33***
 
 ***Simpleks Başlangıç Çözüm Tablosu***
 
-|TDV|x1|![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.167.png)|![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.159.png)|x3|x4|ÇV|
+|TDV|x1|![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.167.png)|![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.159.png)|x3|x4|ÇV|
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 |x3|**3**|1|2|-1|0|6|
 |x4|1|1|1|0|-1|4|
@@ -3357,7 +3357,7 @@ Zenb = 2x1 + (![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.158.png)-![]
 ##### ***Tablo 4.34***
 ***Simpleks Birinci Çözüm Tablosu***
 
-|TDV|x1|![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.158.png)|![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.159.png)|x3|x4|ÇV|
+|TDV|x1|![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.158.png)|![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.159.png)|x3|x4|ÇV|
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 |x3|**3**|1|-1|1|0|6|
 |x4|1|1|-1|0|1|4|
@@ -3367,7 +3367,7 @@ Zenb = 2x1 + (![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.158.png)-![]
 
 ***Simpleks İkinci Çözüm Tablosu***
 
-|TDV|x1|![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.158.png)|![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.159.png)|x3|x4|ÇV|
+|TDV|x1|![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.158.png)|![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.159.png)|x3|x4|ÇV|
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 |x1|1|1/3|-1/3|1/3|0|2|
 |x4|0|2/3|-2/3|-1/3|1|2|
@@ -3376,13 +3376,13 @@ Zenb = 2x1 + (![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.158.png)-![]
 ##### ***Tablo 4.36***
 ##### ***Simpleks Üçüncü (En iyi) Çözüm Tablosu***
 
-|TDV|x1|![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.158.png)|![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.159.png)|x3|x4|ÇV|
+|TDV|x1|![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.158.png)|![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.159.png)|x3|x4|ÇV|
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 |x1|1|0|0|1/2|-1/2|1|
-|![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.159.png)|0|1|-1|-1/2|3/2|3|
+|![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.159.png)|0|1|-1|-1/2|3/2|3|
 |Zj|2|1|-1|1/2|1/2|5|
 |Zj - Cj|0|0|0|1/2|1/2|-|
-Tablo 4.36’daki temel uygun çözümde tüm Zj - Cj ³ 0 olduğundan çözüm en iyidir. Bu çözümde, x1 = 1, ![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.158.png)= 3, ![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.159.png) = 0, x3 = 0, x4 = 0 olarak belirlenmiştir. Amaç fonksiyonunun en büyük değeri Zenb = 5’dir. x2 = ![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.160.png)- ![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.159.png) olduğu göz önünde bulundurulduğunda x2 = 3 olarak belirlenir. Diğer taraftan en iyi çözümün temelde bulunmayan değişkenlerinden ![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.159.png)’ye ait Zj – Cj değerinin sıfıra eşit olduğu, dolayısıyla bir alternatif çözüm bulunduğu görülebilir.
+Tablo 4.36’daki temel uygun çözümde tüm Zj - Cj ³ 0 olduğundan çözüm en iyidir. Bu çözümde, x1 = 1, ![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.158.png)= 3, ![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.159.png) = 0, x3 = 0, x4 = 0 olarak belirlenmiştir. Amaç fonksiyonunun en büyük değeri Zenb = 5’dir. x2 = ![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.160.png)- ![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.159.png) olduğu göz önünde bulundurulduğunda x2 = 3 olarak belirlenir. Diğer taraftan en iyi çözümün temelde bulunmayan değişkenlerinden ![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.159.png)’ye ait Zj – Cj değerinin sıfıra eşit olduğu, dolayısıyla bir alternatif çözüm bulunduğu görülebilir.
 
 
 
@@ -3522,7 +3522,7 @@ x1, x2 sınırlandırılmamış                        �
 |<p><h3>***Bölüm 5***</h3></p><p><h3>***DUAL PROGRAMLAMA ve DUYARLILIK ÇÖZÜMLEMESİ***</h3></p><p> </p>|
 | :-: |
 
-# ![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.168.png)**            
+# ![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.168.png)**            
 ** 
 **
 
@@ -3560,7 +3560,7 @@ Zenb = C1x1 + C2x2 + ... + Cnxn
 
 Bu  model primal kabul edildiğinde, duali aşağıdaki gibi olur.      
 
-![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.038.png)= b1y1 + b2y2 + ... + bmym
+![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.038.png)= b1y1 + b2y2 + ... + bmym
 
 `           `a11y1 + a21y2 + ... + am1ym ³ C1
 
@@ -3586,14 +3586,14 @@ Görüldüğü gibi, primaldeki n değişken (xj, j = 1, 2, ...,n), m kısıtla
 |<p>**D**</p><p> </p><p>**U**</p><p> </p><p>**A**</p><p> </p><p>**L**</p>|
 | :-: |
 
-|<p></p><p>![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.169.png) </p>|y1 ³ 0|`  `a11         a12        …       a1n|³|b1|
+|<p></p><p>![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.169.png) </p>|y1 ³ 0|`  `a11         a12        …       a1n|³|b1|
 | :-: | :-: | :- | :-: | :-: |
 |** |y2 ³ 0|`  `a21         a22        …       a2n|³|b2|
 |** | | | | |
 |** |.|`    `.            .         …         .| |.|
 |** |.|`    `.             .        …         .| |.|
 |** |ym ³  0|`  `am1            am2         …       amn|³|bm|
-|** |İlişki|![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.170.png)    £            £       …         £| |Zenb|
+|** |İlişki|![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.170.png)    £            £       …         £| |Zenb|
 | |Sabit|`   `C1            C2     …         Cn|`  `Zenk| |
 Görüldüğü gibi, tablonun sütunları primal problemin faaliyetlerini, satırları ise dual problemin faaliyetlerini göstermektedir. Öte yandan, (b1  b2 ... bm)T sütununun primal modelin kısıtlayıcılarının sağ tarafında, (C1  C2  ... Cn)  satırının ise dual model kısıtlayıcılarının sağ tarafında bulunduğu görülebilir. Tablonun ortaya koyduğu gibi, primal modelin amaç fonksiyonu katsayıları (C1 C2 ... Cn), dual modelin amaç fonksiyonu katsayıları (b1 b2 ... bm) olmaktadır. Tablo ayrıca, primal problem en büyükleme amaçlı olduğunda, dual problemin en küçükleme amaçlı olduğunu, primal kısıtlayıcılar ile dual kısıtlayıcıların farklı yöndeki eşitsizliklerle tanımlandıklarını göstermektedir.
 
@@ -3613,7 +3613,7 @@ Zenb = x1 + 4x2 + 5x3
 
 ***Çözüm 5.1***: Problem kanonik biçimdedir. Primalin amaç fonksiyonu en büyükleme türünde olduğundan, dualin amaç fonksiyonu en küçükleme türünde olacaktır. Primal problem üç  kısıtlayıcılı olduğundan, dual problemde üç değişken bulunacaktır. y1’in birinci, y2’nin ikinci, y3’ün üçüncü primal kısıtlayıcıya karşılık gelen dual değişkenler olduğu düşünüldüğünde dual problem aşağıdaki gibi yazılacaktır. 
 
-![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.038.png)= 2y1 + 2y2 + 4y3
+![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.038.png)= 2y1 + 2y2 + 4y3
 
 `             `y1 + 3y2 + 2y3 ³ 1
 
@@ -3637,7 +3637,7 @@ Zenb = 25x1 + 30x2 + 12x3
 
 ***Çözüm 5.2***: Problem kanonik biçimdedir. Primal problem en büyükleme amaçlı olduğundan, dual problem en küçükleme amaçlı olur. Primalde iki kısıtlayıcı fonksiyon olduğundan dual model, y1 birinci, y2 ikinci primal kısıtlayıcıya karşılık gelmek üzere iki değişkenli olur. Dual problemin amaç fonksiyonu katsayıları sırasıyla 12 ve 3’dür. Primal modelin **A** matrisinin devriğinin alınmasıyla dual model aşağıdaki gibi yazılacaktır.
 
-![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.038.png)= 12y1 + 3y2
+![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.038.png)= 12y1 + 3y2
 
 `	`5y1 + y2 ³ 25  
 
@@ -3663,7 +3663,7 @@ Zenb/enk = C1x1 + C2x2 + ... + Cnxn
 
 İlk olarak, amaç  fonksiyonunun Zenb biçiminde olduğunu düşünelim. Bu durumda dual problem aşağıdaki gibi düzenlenecektir.
 
-![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.038.png)= b1y1 + b2y2 + ... + bmym
+![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.038.png)= b1y1 + b2y2 + ... + bmym
 
 `           `a11y1 + a21y2 + ... + am1ym ³ C1
 
@@ -3677,7 +3677,7 @@ Zenb/enk = C1x1 + C2x2 + ... + Cnxn
 
 Primal modelin amaç fonksiyonu Zenk biçiminde olduğunda, dual modelin amaç fonksiyonu,
 
-![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.039.png) = b1y1 + b2y2 + ... + bmym
+![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.039.png) = b1y1 + b2y2 + ... + bmym
 
 olur. 
 
@@ -3711,7 +3711,7 @@ Zenb = 12x1 + 5x2 + 6x3 + 4x4
 
 ***Çözüm 5.3***: Standart biçimdeki primal problem üç kısıtlayıcılı olduğundan, dual problem üç değişkenli olur. y1, y2, y3 dual değişkenlerinin sırasıyla birinci, ikinci, üçüncü primal kısıtlayıcılara karşılık geldikleri düşünüldüğünde, dual problemin en amaç (en küçükleme) fonksiyonu katsayıları, sırasıyla 21, 10, 5 olur. Dual değişkenler eşitlik biçimindeki kısıtlayıcılara karşılık geldiğinden, sınırlandırılmamışlardır. Dual kısıtlayıcılar (³) işaretli olacaktır. Dualin katsayılar matrisi primalin katsayılar matrisinin devriğidir. Buna göre dual problem aşağıdaki gibi elde edilir. 
 
-![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.171.png)= 21y1 + 10y2 + 5y3
+![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.171.png)= 21y1 + 10y2 + 5y3
 
 `                 `y1 +   y2          ³ 12
 
@@ -3739,7 +3739,7 @@ Zenk = 3x1 + 4x2 + 6x3 + x4 + 5x5
 
 ***Çözüm 5.4***: Primal problem standart biçimde olduğundan duali aşağıdaki gibi olur. 
 
-![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.039.png)= 10y1 + 7y2 + 8y3 + 6y4
+![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.039.png)= 10y1 + 7y2 + 8y3 + 6y4
 
 `               `y1                     +   y4 £ 3
 
@@ -3771,7 +3771,7 @@ Zenb = C1x1 + C2x2 + ... + Cnxn
 
 Bu durumda, dual problem aşağıdaki gibi olur.
 
-![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.038.png)= b1y1 + b2y2 + ... + bmym
+![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.038.png)= b1y1 + b2y2 + ... + bmym
 
 `           `a11y1 + a21y2 + ... + am1ym = C1
 
@@ -3799,7 +3799,7 @@ Zenb = 6x1 + 16x2 + 26x3 + 36x4
 
 ***Çözüm 5.5***: x1, x2, x3 ve x4 değişkenleri işaretçe sınırlandırılmamış olduklarından, bunlara karşılık gelen dual kısıtlayıcılar eşitlik biçimindedir. y1 birinci, y2 ikinci primal kısıtlayıcıya karşılık gelen dual değişkenler olarak tanımlandıklarında, dual modelin en küçükleme odaklı amaç fonksiyonu katsayıları sırasıyla 16 ve 8 olur. İşaretçe sınırlandırılmamış değişkenlere karşılık gelen dual kısıtlayıcıların eşitlik biçiminde olacaklarının göz önünde bulundurulmasıyla dört kısıtlayıcı içeren dual problem aşağıdaki gibi düzenlenir.
 
-![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.038.png)= 16y1 + 8y2
+![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.038.png)= 16y1 + 8y2
 
 `             `2y1 + 2y2 =   6         
 
@@ -3827,7 +3827,7 @@ Zenk = 6x1 + 7x2 + 3x3
 
 ***Çözüm 5.6***: ***a***. İlk olarak problem kanonik biçime dönüştürülmelidir. Bunun için amaç fonksiyonu ile (³) işaretli kısıtlayıcı fonksiyon (-1) ile çarpılmalıdır. Eşitlik  biçimindeki  kısıtlayıcının yerine, x1 +  x2 + 6x3 £  12 ve x1 +  x2 + 6x3 ³ 12 yazılması, ayrıca x1 +  x2 + 6x3 ³ 12 eşitsizliğinin (-1) ile çarpılmasıyla primal problemin kanonik şekli şöyle olur.  
 
-![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.172.png)= -6x1 - 7x2 - 3x3
+![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.172.png)= -6x1 - 7x2 - 3x3
 
 `            `2x1 +  x3 + 3x3 £    5
 
@@ -3839,19 +3839,19 @@ Zenk = 6x1 + 7x2 + 3x3
 
 `                     `x1, x2, x3 ³  0
 
-y1, ![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.173.png), ![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.174.png), y3 kanonik biçimin kısıtlayıcılarına karşılık gelen dual değişkenler olsun. Buna göre, y1, ![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.173.png), ![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.174.png), y3 ³  0  koşulu altında dual model aşağıdaki gibi olur. 
+y1, ![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.173.png), ![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.174.png), y3 kanonik biçimin kısıtlayıcılarına karşılık gelen dual değişkenler olsun. Buna göre, y1, ![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.173.png), ![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.174.png), y3 ³  0  koşulu altında dual model aşağıdaki gibi olur. 
 
-![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.038.png)= 5y1 + 12(![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.173.png)- ![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.174.png)) - 15y3
+![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.038.png)= 5y1 + 12(![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.173.png)- ![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.174.png)) - 15y3
 
-`           `2y1 +     (![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.173.png)-![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.174.png)) - 3y3 ³ -6
+`           `2y1 +     (![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.173.png)-![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.174.png)) - 3y3 ³ -6
 
-`             `y1 +     (![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.173.png)-![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.174.png)) - 3y3 ³ -7  
+`             `y1 +     (![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.173.png)-![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.174.png)) - 3y3 ³ -7  
 
-`           `3y1 +   6(![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.173.png)-![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.174.png)) - 4y3 ³ -3
+`           `3y1 +   6(![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.173.png)-![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.174.png)) - 4y3 ³ -3
 
-![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.173.png), ![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.174.png)³ 0 olmak üzere ![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.173.png)- ![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.174.png)= y2 olarak tanımlandığında elde edilen dual model aşağıda gösterilmiştir.
+![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.173.png), ![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.174.png)³ 0 olmak üzere ![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.173.png)- ![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.174.png)= y2 olarak tanımlandığında elde edilen dual model aşağıda gösterilmiştir.
 
-![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.038.png)= 5y1 + 12y2 - 15y3
+![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.038.png)= 5y1 + 12y2 - 15y3
 
 `           `2y1 +   y2 - 3y3 ³ -6
 
@@ -3875,7 +3875,7 @@ Zenb = -6x1 - 7x2 - 3x3 + 0x4 + 0x5 - MA6
 
 Standart biçimin oluşturulmasından sonra dual model aşağıdaki gibi yazılabilir.
 
-![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.038.png)= 5y1 + 12y2 + 15y3
+![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.038.png)= 5y1 + 12y2 + 15y3
 
 `           `2y1 +   y2 + 3y3 ³ -6
 
@@ -4003,12 +4003,12 @@ Problemin en iyi çözümüne altıncı tabloda ulaşılmış olup aşağıda g�
 |x2|`  `2/3|1|1/3|` `5/3|-1/3|0|0|` `1/3|-2/3|` `0|-1/3|` `2/3|23/3|
 |x6|-1/3|0|4/3|-1/3|` `5/3|0|0|-2/3|`  `1/3|` `0|` `2/3|-1/3|17/3|
 |Zj|38/3|30|118/3|128/3|80/3|1|0|-14/3|-38/3|0|14/3|38/3|1064/3|
-|Zj - Cj|-67/3|0|-62/3|-22/3|-1/3|0|0|-14/3|-38/3|-M|![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.175.png)|![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.176.png)|-|
+|Zj - Cj|-67/3|0|-62/3|-22/3|-1/3|0|0|-14/3|-38/3|-M|![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.175.png)|![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.176.png)|-|
 En iyi çözüm tablosundan görüldüğü gibi günlük harcamanın en az olması için bir günde 23/3 lt süt, 17/3 kg sebze alması gerekir. Buna göre Zenk = 1064/3 olur.
 
 ***b***. Kanonik biçimdeki primal problemde üç kısıtlayıcılı olduğundan, dual problem üç değişkenli (y1, y2, y3) olur. Dual problemin en büyükleme amaçlı amaç fonksiyonu katsayıları sırasıyla 9, 19, 21 olur. Dual kısıtlayıcılar (£) işaretli olacaktır. 
 
-![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.039.png)= 9y1 + 19y2 + 21y3
+![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.039.png)= 9y1 + 19y2 + 21y3
 
 `             `y1            +  y3 £ 35
 
@@ -4026,7 +4026,7 @@ En iyi çözüm tablosundan görüldüğü gibi günlük harcamanın en az olma
 
 Dual problemin standart biçimi, başlangıç ve en iyi çözüm tabloları([\[15\]](#_ftn15)) aşağıdadır. 
 
-![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.177.png)= 9y1 + 19y2 + 21y3 + 0y4 + 0y5 + 0y6 + 0y7 + 0y8 + 0y9   
+![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.177.png)= 9y1 + 19y2 + 21y3 + 0y4 + 0y5 + 0y6 + 0y7 + 0y8 + 0y9   
 
 `             `y1 +            y3 + y4 = 35
 
@@ -4071,7 +4071,7 @@ Tablodan da görüleceği üzere gibi dual problemin en iyi çözümü şöyledi
 
 y1 = 0,  y2 = 14/3, y3 = 38/3,  y4 = 67/3, y5 = 0, y6 = 62/3,  y7 = 22/3,  y8 = 1/3, y9 = 0, Zenk = 1064/3 
 
-***c***. Primal ve dual değişkenler arasındaki ilişkileri incelemeden önce primal ve dual problemlerin amaç fonksiyonlarının en iyi değerlerini karşılaştıralım. Tablo 5.3 ve Tablo 5.5’in ortaya koyduğu gibi, primal ve dual problemlerin amaç fonksiyonlarının en iyi değerleri birbirine eşittir (Zenb = ![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.038.png)= 1064/3).
+***c***. Primal ve dual değişkenler arasındaki ilişkileri incelemeden önce primal ve dual problemlerin amaç fonksiyonlarının en iyi değerlerini karşılaştıralım. Tablo 5.3 ve Tablo 5.5’in ortaya koyduğu gibi, primal ve dual problemlerin amaç fonksiyonlarının en iyi değerleri birbirine eşittir (Zenb = ![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.038.png)= 1064/3).
 
 Artık, primal ve dual değişkenlerin en iyi çözüm değerlerini karşılaştırabiliriz. İlk olarak primal problemin başlangıç çözümünde temelde bulunan değişkenler ile bu değişkenlerin en iyi çözüm tablosundaki Zj - Cj değerlerini inceleyelim.
 
@@ -4182,7 +4182,7 @@ Tüm Zj - Cj ³ 0 olduğundan en iyi çözüme ulaşılmıştır([\[17\]](#_ftn1
 
 ***b.***   Dual problem aşağıda gösterilmiştir.
 
-![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.038.png)= 12y1 + 8y2 + 10y3
+![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.038.png)= 12y1 + 8y2 + 10y3
 
 `             `3y1 +   y2 +    y3 ³ 50 
 
@@ -4231,12 +4231,12 @@ Tablo 5.8’deki  başlangıç  çözümünden hareketle en iyi çözüm yedin
 |8     y2|1|0|` `4/7|` `2/7|-3/7|0|-2/7|3/7|0|80/7|
 |12    y1|0|1|` `1/7|-3/7|` `1/7|0|` `3/7|-1/7|0|90/7|
 |Zj|12|8|` `44/7|-20/7|-12/7|0|20/7|12/7|0|1720/7|
-|Zj - Cj|0|0|-26/7|-20/7|-12/7|0|![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.178.png)|![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.179.png)|-M|-|
+|Zj - Cj|0|0|-26/7|-20/7|-12/7|0|![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.178.png)|![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.179.png)|-M|-|
 Sonuç  olarak, y1 = 90/7, y2 = 80/7, y3 = 0, y4 = 0, y5 = 0, y6 = 150/7, A1 = 0, A2 = 0, A3 = 0 ve Zenk = 1720/7  olarak  elde edilmiştir.
 
 ***c.***    Primal ve dual değişkenler arasındaki ilişkileri incelemeden önce primal ve dual amaç fonksiyonlarının en iyi değerlerini karşılaştıralım.
 
-Tablo 5.7 ve Tablo 5.9’un ortaya koyduğu gibi, primal ve dual problemlerin amaç fonksiyonlarının en iyi değerleri birbirine eşittir (Zenb = ![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.038.png)= 1720/7).
+Tablo 5.7 ve Tablo 5.9’un ortaya koyduğu gibi, primal ve dual problemlerin amaç fonksiyonlarının en iyi değerleri birbirine eşittir (Zenb = ![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.038.png)= 1720/7).
 
 Şimdi de değişkenler arasındaki ilişkileri inceleyelim. Bunun için önce primal problemin başlangıç çözümü temel değişkenleri ile bunların en iyi çözüm tablosundaki Zj - Cj değerlerini belirleyelim. 
 
@@ -4367,7 +4367,7 @@ Primal problemin en iyi çözümü şöyledir:
 
 Problemin duali aşağıda verilmiştir. 
 
-![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.038.png)= 12y1 + 10y2 + 2y3
+![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.038.png)= 12y1 + 10y2 + 2y3
 
 `               `y1 + 2y2 + y3 ³ 3
 
@@ -4379,7 +4379,7 @@ Problemin duali aşağıda verilmiştir.
 
 Dual problemin standart biçimi aşağıda düzenlendiği gibidir.
 
-![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.038.png)= 12y1 + 10y2 + 2y3 + 0y4 + 0y5 + 0y6 + MA1 + MA2 + MA3
+![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.038.png)= 12y1 + 10y2 + 2y3 + 0y4 + 0y5 + 0y6 + MA1 + MA2 + MA3
 
 `	`y1 + 2y2 + y3 - y4 + A1 = 3
 
@@ -4408,8 +4408,8 @@ Dual problemin simpleks çözüm tabloları aşağıda arka arkaya verilmiştir.
 |M    A1|0|0|1|-1|0|1/3|1|0|-1/3|4/3|
 |M    A2|0|0|0|0|-1|2/3|0|1|-2/3|2/3|
 |10    y2|1/2|1|0|0|0|-1/6|0|0|1/6|5/6|
-|Zj|5|10|M|-M|-M|![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.180.png)|M|M|![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.181.png)|![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.182.png)|
-|Zj - Cj|-7|0|M-2|-M|-M|![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.183.png)|0|0|![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.181.png)|-|
+|Zj|5|10|M|-M|-M|![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.180.png)|M|M|![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.181.png)|![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.182.png)|
+|Zj - Cj|-7|0|M-2|-M|-M|![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.183.png)|0|0|![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.181.png)|-|
 ***Tablo 5.16***
 ###### ***Dual Problemin İkinci Simpleks Çözüm Tablosu***
 
@@ -4418,8 +4418,8 @@ Dual problemin simpleks çözüm tabloları aşağıda arka arkaya verilmiştir.
 |M     A1|0|0|1|-1|1/2|0|1|-1/2|0|1|
 |0      y6|0|0|0|0|-3/2|1|0|3/2|-1|1|
 |10    y2|1/2|1|0|0|-1/4|0|0|1/4|0|1|
-|Zj|5|10|M|-M|![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.184.png)|0|M|![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.185.png)|0|M+10|
-|Zj - Cj|-7|0|M-2|-M|![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.186.png)|0|0|![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.187.png)|-M|-|
+|Zj|5|10|M|-M|![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.184.png)|0|M|![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.185.png)|0|M+10|
+|Zj - Cj|-7|0|M-2|-M|![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.186.png)|0|0|![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.187.png)|-M|-|
 ***Tablo 5.17***
 ###### ***Dual Problemin En İyi Çözüm Tablosu***
 
@@ -4429,7 +4429,7 @@ Dual problemin simpleks çözüm tabloları aşağıda arka arkaya verilmiştir.
 |0      y6|0|0|0|0|-3/2|1|0|3/2|-1|1|
 |10     y2|1/2|1|0|0|-1/4|0|0|1/4|0|1|
 |Zj|5|10|2|-2|-3/2|0|2|3/2|0|12|
-|Zj - Cj|-7|0|0|-2|-3/2|0|2-M|![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.188.png)|-M|-|
+|Zj - Cj|-7|0|0|-2|-3/2|0|2-M|![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.188.png)|-M|-|
 Örnek problemin primal ve dualinin en iyi çözümlerinin belirlenmesinden sonra primal-dual ilişkilerinin duyarlılık çözümlemesi için gerekli olanlarını açıklayabiliriz.
 
 ***1. Özellik***: Simpleks yöntemle çözümün herhangi bir tekrarında, başlangıç çözümü temel değişken sütunlarının oluşturduğu matris (**B**)([\[18\]](#_ftn18)), başlangıç çözümünde temelde bulunan değişkenlerin Zj değerlerinin hesaplanmasında kullanılabilir. Söz konusu elemanların hesaplanabilmesi için aşağıdaki adımların izlenmesi gerekir.
@@ -4442,17 +4442,17 @@ Söz konusu satır vektörü belirleyebilmek için primal problemin birinci ç�
 
 Bu adımda yapılan işlemi sayısal olarak gösterebilmek için tekrar birinci simpleks çözüm tablosuna dönelim. Örnek problemin başlangıç çözümü temel değişkenlerinin x4, x5, x6 olduğu göz önünde bulundurulduğunda, **B** matrisi aşağıdaki gibi olur.
 
-![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.189.png)
+![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.189.png)
 
 Bu matrisle birinci adımda oluşturulan satır vektör çarpıldığında,
 
-![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.190.png)
+![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.190.png)
 
 elde edilir. Hesaplanan bu değerler primal problemin birinci simpleks çözüm tablosundaki Z4, Z5 ve Z6 değerleridir. Bu değerlere *simpleks çarpanları* denir.
 
 Şimdi de dual problem çözümünün herhangi bir aşamasındaki simpleks çarpanları hesaplayalım. Bunun için dual problemin en iyi çözümünün elde edildiği tabloyu dikkate alalım. Dual problemin en iyi çözümünde temelde bulunan değişkenler (simpleks tablodaki sıraları bakımından) y3, y6 ve y2’dir. Bu değişkenlerin amaç fonksiyonu katsayılarının 2, 0, ve 10 olduğu  göz önünde bulundurulduğunda, Z7, Z8 ve Z9 değerleri doğrudan hesaplanabilir. Bu işlem aşağıda gösterilmiştir.
 
-![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.191.png)
+![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.191.png)
 
 Buna göre Z7 = 2,  Z8 = 3/2 ,  Z9 = 0  olur.
 
@@ -4522,21 +4522,21 @@ Sözgelimi, primal problemin en iyi çözüm tablosundaki temel değişkenlerin 
 
 Kısıtlayıcı fonksiyonların sağ taraf sabitlerinin oluşturduğu sütun vektör aşağıda gösterilmiştir.
 
-**b![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.192.png)**
+**b![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.192.png)**
 
-**B** = ![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.193.png) olduğu dikkate alındığında, primal problemin en iyi çözümünde temelde bulunan değişkenlerinin değerleri aşağıdaki gibi hesaplanacaktır. 
+**B** = ![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.193.png) olduğu dikkate alındığında, primal problemin en iyi çözümünde temelde bulunan değişkenlerinin değerleri aşağıdaki gibi hesaplanacaktır. 
 
-![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.194.png)
+![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.194.png)
 
 Bir de, dual problemin en iyi çözümünde temelde bulunan y3, y6, y2 değişkenlerinin çözüm değerlerini belirleyelim.       
 
 Dual kısıtlayıcı fonksiyonların sağ taraf sabitlerinin oluşturduğu sütun vektör aşağıda gösterilmiştir.
 
-**C![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.195.png)**
+**C![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.195.png)**
 
-**B** = ![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.196.png) olduğu göz önünde bulundurulduğunda dual problemin en iyi çözümünde temelde olan değişkenlerinin değerleri aşağıdaki gibi hesaplanır.
+**B** = ![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.196.png) olduğu göz önünde bulundurulduğunda dual problemin en iyi çözümünde temelde olan değişkenlerinin değerleri aşağıdaki gibi hesaplanır.
 
-![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.197.png)
+![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.197.png)
 
 ***4. Özellik***: Simpleks çözümün herhangi bir tekrarında, herhangi bir değişkenin tablodaki katsayılarından oluşan sütun vektör, o aşamadaki **B** matrisi ile dikkate alınan değişkenin başlangıç tablosundaki katsayılarından oluşan sütun vektörün çarpımına eşittir. 
 
@@ -4546,19 +4546,19 @@ Tüm değişkenlerin kısıtlayıcı fonksiyonlardaki orijinal katsayıları 
 
 `  `x1     x2         x3         x4        x5    x6
 
-![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.198.png)
+![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.198.png)
 
 Bu durumda, sözgelimi x1 değişken sütununun birinci simpleks tablosundaki katsayıları aşağıdaki gibi hesaplanacaktır.
 
-![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.199.png)![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.200.png)
+![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.199.png)![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.200.png)
 
 x2 değişken sütunun aynı tablodaki katsayılarının aşağıdaki gibi hesaplanacakları açıktır.
 
-![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.201.png)
+![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.201.png)
 
 x3 değişkeni için yapılan hesaplamalar aşağıda gösterilmiştir.
 
-![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.202.png)
+![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.202.png)
 
 x4, x5, x6 değişkenlerinin, aynı çözüm tablosundaki anılan değerlerinin hesaplanması öğrenciye bırakılmıştır.
 
@@ -4572,11 +4572,11 @@ Bu kesimde, en iyi çözümü bulunmuş herhangi bir doğrusal programlama probl
 
 Yukarıdaki primal problemin gereksinme vektörünün aşağıdaki gibi değiştiğini düşünelim.
 
-**b![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.203.png)**
+**b![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.203.png)**
 
 Bu değişiklik, x4 = 7, x2 = 3/2, x1 = 2  ve Zenb = 12 olarak belirlenen en iyi çözümü ne yönde etkileyecektir? Yukarıda açıklandığı gibi böyle bir değişiklik çözüm vektörü elemanlarının en iyi değerlerini dolayısıyla yürürlükteki çözümün uygun olma özelliğini etkiler. Bu değişiklik altında temel değişkenlerin yeni değerleri (3. özelliğe göre) aşağıdaki gibi olur.
 
-![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.204.png)
+![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.204.png)
 
 Yeni gereksinme vektörü, temel değişkenlerin ³ 0 olma özelliğini etkilemediğinden eldeki en iyi çözüm uygundur. Bu değişiklik altında amaç fonksiyonunun değeri aşağıdaki gibi hesaplanacaktır.
 
@@ -4584,11 +4584,11 @@ Z = 3 x 4 + 4 x 1 + 5 x 0 + 0 x 4 = 16
 
 Şimdi de, gereksinme vektörünün aşağıdaki gibi değiştiğini düşünelim.
 
-![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.205.png)
+![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.205.png)
 
 Bu durumda, aynı özelliğe göre, temel değişkenlerin yeni değerleri aşağıdaki gibi hesaplanacaktır. 
 
-![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.206.png)
+![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.206.png)
 
 x4 £ 0 olduğundan yürürlükteki en iyi çözüm uygun olma özelliğini yitirmiştir. Uygun en iyi çözüme ulaşmak için x4’ün temelden çıkartılması gerekir. Temele girecek değişkenin belirlenmesinde kullanılan kural, 6. bölümde dual simpleks yöntem başlığı altında açıklanacaktır. 
 #### `               `***5.5.2.2 Amaç Fonksiyonu Katsayılarındaki Değişmeler***
@@ -4604,7 +4604,7 @@ Hem temel değişken katsayılarının hem de temel olmayan değişken katsayıl
 
 Bilindiği gibi, primal problemin en iyi çözümünün temel değişkenleri x1, x2 ve x4’dür. x1’in amaç fonksiyonundaki katsayısının 3 yerine 8, x2’nin amaç fonksiyonundaki katsayısının 4 yerine 10 olduğunu düşünelim. 1. Özelliğe göre simpleks çarpanların yeni değerleri,
 
-![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.207.png)
+![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.207.png)
 
 olur.
 
@@ -4634,7 +4634,7 @@ Bazı Zj - Cj < 0 olması durumunda, çözümün en iyi olma özelliğini yitird
 
 Temel olmayan değişken katsayılarındaki değişmeler simpleks çarpanlarını etkilemez. Bu nedenle, yürürlükteki simpleks çarpanları eldeki çözümün en iyiliğinin kontrol edilmesinde, bir başka deyişle Zj - Cj satırının yeni elemanlarının hesaplanmasında kullanılabilir. 
 
-Sözgelimi, temel olmayan değişken x3’ün katsayısı 8 olarak değişmiş olsun. Bu durumda, x3’e karşılık gelen dual kısıtlayıcı fonksiyon, 3y1 + 6y2 ³ 5 değil  3y1 + 6y2 ³ 8 olacaktır. Simpleks çarpanların  y1 = 0, y2 = 1, y3 = 1  olduğu  dikkate  alındığında dual kısıtlayıcı fonksiyonun sağlanmadığı (6 ![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.208.png) 8) görülecektir. Bu durumda x3 değişkenine karşılık gelen Z3 - C3 değeri,
+Sözgelimi, temel olmayan değişken x3’ün katsayısı 8 olarak değişmiş olsun. Bu durumda, x3’e karşılık gelen dual kısıtlayıcı fonksiyon, 3y1 + 6y2 ³ 5 değil  3y1 + 6y2 ³ 8 olacaktır. Simpleks çarpanların  y1 = 0, y2 = 1, y3 = 1  olduğu  dikkate  alındığında dual kısıtlayıcı fonksiyonun sağlanmadığı (6 ![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.208.png) 8) görülecektir. Bu durumda x3 değişkenine karşılık gelen Z3 - C3 değeri,
 
 3 x 0 + (6 x 1) - 8 = -2 
 
@@ -4648,7 +4648,7 @@ Zenb = 8x1 + 10x2 + 8x3 + 0x4 + 0x5 + 0x6
 
 Buna göre, simpleks çarpanlarının yeni değerleri aşağıdaki gibi hesaplanacaktır.
 
-![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.209.png)
+![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.209.png)
 
 Simpleks çarpanların hesaplanan bu yeni değerleriyle hesaplanan Zj - Cj değerleri aşağıda gösterilmiştir.
 
@@ -4672,11 +4672,11 @@ x3 değişkenine karşılık gelen (Z3 - C3) değerinin öncekinden farklı olar
 
 Temel olmayan değişken katsayılarının değişmesi simpleks çarpanları etkilemez. Simpleks çarpanların yürürlükteki değerleri çözümün en iyiliğinin kontrol edılmesinde kullanılır. Değişen yalnızca katsayıları değişen değişkenin Zj - Cj değeridir.  Bu duruma örnek olması bakımından primal problemin en iyi çözümünde temelde olmadığı belirlenen x3 değişkenini ele alalım. x3 değişkeninin kısıtlayıcı fonksiyonlardaki katsayılarının,
 
-![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.210.png)
+![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.210.png)
 
 olarak değil de,
 
-![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.211.png)
+![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.211.png)
 
 şeklinde değiştiğini düşünelim. Bu durumda x3’e karşılık gelen dual kısıtlayıcı,
 
@@ -4688,7 +4688,7 @@ olur. Bu değişiklik simpleks çarpanlarını etkilemeyeceğinden, (Z3 - C3)
 
 Z3 - C3 < 0 olması çözümün en iyi olma özelliğini yitirdiğine, x3’ün temele alınması gerektiğine işaret eder. Bunun için x3’ün yeni katsayılarının hesaplanması gerekir. 4. özelliğin dikkate alınmasıyla x3’ün en iyi çözüm tablosundaki yeni değerleri aşağıdaki gibi olur.
 
-![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.212.png)
+![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.212.png)
 
 Bundan sonra en iyi çözüme simpleks yöntemin bilinen kuralları doğrultusunda ulaşılır.
 
@@ -4716,7 +4716,7 @@ Primal  modele  giren  yeni değişkenin amaç fonksiyonundaki  katsayıs�
 
 Bu durumda dual değişkenlerin en iyi değerlerinin kullanılmasıyla,
 
-4 x 0 + 2 x 1 + 1 x 1 = 3 ![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.208.png) 6
+4 x 0 + 2 x 1 + 1 x 1 = 3 ![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.208.png) 6
 
 elde edilir. Eşitliğin sağlanmaması ilgili dual kısıtlayıcı fonksiyonun sağlanmadığına, x4 değişkenin çözüme katkısının olumlu olduğuna işaret eder. Sonuç olarak, x4’ün temel çözüme alınması gerektiği ortaya çıkar. Yeni değişken x4’ün primal problemin en iyi çözüm tablosunda yol açtığı değişiklikler aşağıda gösterilmiştir. Önce (Z4 - C4) değerini hesaplayalım.
 
@@ -4724,7 +4724,7 @@ Z4 - C4 = [4(0) + 2(1) + 1(1)] - 6 = -3
 
 Çözüm vektörünün yeni elemanları ise aşağıdaki gibi hesaplanacaktır.
 
-![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.213.png)
+![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.213.png)
 
 x4 sütununun anahtar sütun olduğunun belirlenmesinden sonra çözümden çıkacak olan değişken belirlenir ve bilinen işlemlerle en iyi çözüme ulaşılır. 
 #### `               `***5.5.2.5 Probleme Yeni Bir Kısıtlayıcı Eklenmesi***
@@ -4811,7 +4811,7 @@ olarak verilen problemin en iyi çözümünün elde edildiği simpleks çözüm
 | :-: |
 
 
-![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.214.png)** 
+![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.214.png)** 
 **
 
 **
@@ -4892,10 +4892,10 @@ Bu düzenlemeyle oluşturulan başlangıç çözüm tablosu aşağıda gösteril
 
 |TDV|x1|x2|x3|x4|x5|ÇV|
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-|![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.215.png)0     x4|-2|**-3**|-1|1|0|-21|
+|![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.215.png)0     x4|-2|**-3**|-1|1|0|-21|
 |0     x5|-1|-1|-1|0|1|-12|
 |Zj|` `0|` `0|` `0|0|0|0|
-|Zj - Cj|-3|![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.216.png)-2|-1|0|0|-|
+|Zj - Cj|-3|![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.216.png)-2|-1|0|0|-|
 Tüm Zj - Cj £ 0 olduğundan, başlangıç tablosundaki çözüm en iyidir. Ancak, temel değişkenler negatif değerli olduklarından anılan çözüm primal uygun değildir.
 
 Dual problemin başlangıç çözüm tablosu aşağıda gösterilmiştir. Söz konusu tablonun ortaya koyduğu gibi tablodaki çözüm uygundur ([\[19\]](#_ftn19)). 
@@ -4928,9 +4928,9 @@ En küçük oran (2/3) x2’ye ait olduğundan, x2 temele girecektir. x4 deği�
 |TDV|x1|x2|x3|x4|x5|ÇV|
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 |2       x2|`  `2/3|1|` `1/3|-1/3|0|` `7|
-|![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.217.png)0       x5|-1/3|0|**-2/3**|-1/3|1|-5|
+|![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.217.png)0       x5|-1/3|0|**-2/3**|-1/3|1|-5|
 |Zj|`  `4/3|0|2/3|-2/3|0|14|
-|Zj - Cj|-5/3|0|![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.218.png)-1/3|-2/3|0|-|
+|Zj - Cj|-5/3|0|![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.218.png)-1/3|-2/3|0|-|
 Bütün Zj - Cj £ 0 olduğundan, primal çözüm halâ süper en iyi çözümdür. Yukarıdaki açıklamalar doğrultusunda x5’in temeli terketmesi, x3’ün temel girmesi kararlaştırılır. Anahtar sayının -2/3 olduğunun belirlenmesi ve gerekli işlemlerin tamamlanmasıyla elde edilen ikinci çözüm tablosu aşağıda gösterilmiştir. 
 
 ***Tablo 6.4***
@@ -4990,10 +4990,10 @@ Buna göre simpleks başlangıç çözüm tablosu aşağıdaki gibi elde edil
 |TDV|x1|x2|x3|x4|x5|ÇV|
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 |0       x3|-1|` `1|` `1|0|0|` `4|
-|0       x4|-1|**-2**|` `0|1|0|![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.219.png)-5|
+|0       x4|-1|**-2**|` `0|1|0|![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.219.png)-5|
 |0       x5|` `3|` `4|` `0|0|1|` `6|
 |Zj|` `0|` `0|` `0|0|0|` `0|
-|Zj - Cj|-2|![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.220.png)-2|` `0|0|0|-|
+|Zj - Cj|-2|![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.220.png)-2|` `0|0|0|-|
 
 
 Yukarıdaki tablodan görüldüğü gibi tüm Zj - Cj £ 0 olduğundan, başlangıçtaki çözüm en iyi olmakla birlikte x4 = -5 olduğundan, uygun değildir. Uygun olmayan bu çözüme karşılık gelen dual çözümün [y1 = 0, y2 = 0, y3 = 0, y4 = 2, y5 = 2] uygun olduğu görülebilir. Dolayısıyla problem dual simpleks yöntemle çözülebilir.
@@ -5014,7 +5014,7 @@ Oranlardan en küçüğü (= 1) x2’ye ait olduğundan, bu değişkenin temele
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 |0       x3|-3/2|0|1|` `1/2|0|3/2|
 |2       x2|` `1/2|1|0|-1/2|0|5/2|
-|0       x5|` `1|0|0|` `2|1|![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.221.png)-4|
+|0       x5|` `1|0|0|` `2|1|![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.221.png)-4|
 |Zj|` `1|2|0|-1|0|` `5|
 |Zj - Cj|-1|0|0|-1|0|-|
 Tablo 6.6’dan görüldüğü gibi bütün Zj - Cj £ 0 olduğundan, çözümün en iyi olması koşulu bozulmamıştır. Temelde bulunan x5’in çözüm değeri negatif olduğundan, yürürlükteki çözüm süper en iyidir. Yukarıdaki açıklamalar doğrultusunda, x5’in temelden çıkmasına karar verilir. Tablodan görüldüğü gibi, anahtar satırın tüm elemanları sıfır veya pozitif olduğundan, x5 yerine temele girecek değişkenin pozitif olmasının sağlanması çabaları sonuçsuz kalacağından, işlemlere son verilmiş en iyi çözümün bulunmadığı kararlaştırılmıştır. 
@@ -5027,23 +5027,23 @@ Büyük M yöntemi, yapay değişkenlerin kullanıldığı problemlerin çözü
 
 ***Birinci aşama***: Başlangıç temel uygun çözümün araştırılması amacıyla problemin kısıtlayıcı fonksiyonları uygun değişkenlerle standart biçim kısıtlayıcı fonksiyonlarına dönüştürülür. Bu işlemden sonra problemin orijinal amaç fonksiyonu yerine kullanılacak yeni bir amaç fonksiyonu tanımlanır ve problem klasik simpleks yöntemin bilinen kural ve işlemleriyle aynı süreç izlenerek çözülür. Gerçek amaç fonksiyonu yerine geçirilen değiştirilmiş amaç fonksiyonunda, yapay değişkenler dışında kalan tüm değişkenlerin katsayıları sıfır, yapay değişkenlerin katsayıları ise en büyükleme problemlerinde (-1), en küçükleme problemlerinde (+1) kabul edilir. Buna göre, en büyükleme problemlerinin değiştirilmiş amaç fonksiyonu,
 
-![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.222.png)= -A1 - A2 - ... - Ar
+![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.222.png)= -A1 - A2 - ... - Ar
 
 en küçükleme problemlerinin değiştirilmiş amaç fonksiyonu,
 
-![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.223.png)= A1 + A2 + ... + Ar
+![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.223.png)= A1 + A2 + ... + Ar
 
 olur.
 
-Negatif olmama koşulu yapay değişkenler için de geçerli olduğundan, ![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.222.png) daima negatif, ![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.224.png)daima pozitif olacaktır. Orijinal problemin uygun çözümünün bulunması durumunda, değiştirilmiş amaç fonksiyonunun en büyük değeri (en büyükleme problemlerinde) ancak ve ancak sıfır olur. ![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.222.png)= 0 durumu yapay değişkenlerin çözüm değerlerinin sıfıra eşit olması koşulu altında gerçekleşir. Benzer şekilde, orijinal problemin uygun bir çözümünün bulunması durumunda, en küçükleme problemlerinin değiştirilmiş amaç fonksiyonunun en küçük değeri sıfır olur. Bu durumun ortaya çıkabilmesi için yapay değişkenler sıfır olmalıdır.  Özetle, problem ister en büyükleme ister en küçükleme amaçlı olsun orijinal problemin uygun bir çözümü varsa değiştirilmiş amaç fonksiyonunun en iyi değeri sıfıra eşittir. Bunun tersi de doğrudur.
+Negatif olmama koşulu yapay değişkenler için de geçerli olduğundan, ![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.222.png) daima negatif, ![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.224.png)daima pozitif olacaktır. Orijinal problemin uygun çözümünün bulunması durumunda, değiştirilmiş amaç fonksiyonunun en büyük değeri (en büyükleme problemlerinde) ancak ve ancak sıfır olur. ![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.222.png)= 0 durumu yapay değişkenlerin çözüm değerlerinin sıfıra eşit olması koşulu altında gerçekleşir. Benzer şekilde, orijinal problemin uygun bir çözümünün bulunması durumunda, en küçükleme problemlerinin değiştirilmiş amaç fonksiyonunun en küçük değeri sıfır olur. Bu durumun ortaya çıkabilmesi için yapay değişkenler sıfır olmalıdır.  Özetle, problem ister en büyükleme ister en küçükleme amaçlı olsun orijinal problemin uygun bir çözümü varsa değiştirilmiş amaç fonksiyonunun en iyi değeri sıfıra eşittir. Bunun tersi de doğrudur.
 
 Birinci aşama sonunda üç farklı durum ortaya çıkabilir. Bunlar aşağıda açıklanmıştır.
 
-*1*. ![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.222.png)< 0 (![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.224.png)> 0): Bu durumda temelde pozitif değerli en az bir yapay değişken vardır. En az bir yapay değişkenin temelde bulunması durumunda problemin uygun çözümü bulunamayacağından, işlemlere son verilir. Bu durum, değişkenlerin işaretlerine konan sınırlarla, kısıtlayıcı fonksiyonların uyuşmaması halinde ortaya çıkar. Sözgelimi, x1 ³ 0, x2 ³ 0 olarak tanımlanmışken, kısıtlayıcı fonksiyonlardan birinin x1 + x2 £ -1 olması durumunda, değiştirilmiş amaç fonksiyonunun en iyi değerinin sıfırdan farklı olması beklenir.
+*1*. ![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.222.png)< 0 (![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.224.png)> 0): Bu durumda temelde pozitif değerli en az bir yapay değişken vardır. En az bir yapay değişkenin temelde bulunması durumunda problemin uygun çözümü bulunamayacağından, işlemlere son verilir. Bu durum, değişkenlerin işaretlerine konan sınırlarla, kısıtlayıcı fonksiyonların uyuşmaması halinde ortaya çıkar. Sözgelimi, x1 ³ 0, x2 ³ 0 olarak tanımlanmışken, kısıtlayıcı fonksiyonlardan birinin x1 + x2 £ -1 olması durumunda, değiştirilmiş amaç fonksiyonunun en iyi değerinin sıfırdan farklı olması beklenir.
 
-*2*. ![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.222.png)= 0 (![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.224.png)= 0): Bu  durumda  temelde yapay değişken kalmamıştır. Böylece tüm yapay değişkenlerin sıfıra eşitliğini gösteren birinci aşamanın çözümü, orijinal problem için bir başlangıç temel uygun çözüm oluşturur. Diğer bir deyişle, birinci  aşama sonunda orijinal probleme simpleks yöntem uygulamayı mümkün kılan bir başlangıç temel uygun çözüm elde edilmiş olur.
+*2*. ![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.222.png)= 0 (![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.224.png)= 0): Bu  durumda  temelde yapay değişken kalmamıştır. Böylece tüm yapay değişkenlerin sıfıra eşitliğini gösteren birinci aşamanın çözümü, orijinal problem için bir başlangıç temel uygun çözüm oluşturur. Diğer bir deyişle, birinci  aşama sonunda orijinal probleme simpleks yöntem uygulamayı mümkün kılan bir başlangıç temel uygun çözüm elde edilmiş olur.
 
-*3*. ![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.222.png)= 0 (![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.224.png)= 0): Bir ya da birden fazla yapay değişken sıfır değerli olarak temelde kalmış olabilir. Çözüm değeri sıfır olan yapay değişkenlerin temelde bulunması orijinal problemin çözümüne ulaşmayı engellememekle birlikte, kısıtlayıcı fonksiyonlarda fazlalık bulunması söz konusu olabilir.
+*3*. ![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.222.png)= 0 (![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.224.png)= 0): Bir ya da birden fazla yapay değişken sıfır değerli olarak temelde kalmış olabilir. Çözüm değeri sıfır olan yapay değişkenlerin temelde bulunması orijinal problemin çözümüne ulaşmayı engellememekle birlikte, kısıtlayıcı fonksiyonlarda fazlalık bulunması söz konusu olabilir.
 
 Birinci aşama, 2 veya 3’deki durumlardan birisiyle sonuçlanırsa ikinci aşamaya geçilir ve orijinal amaç fonksiyonlu problemin en iyi çözümü bulununcaya değin simpleks yöntemin klasik işlemleri sürdürülür. İkinci aşama aşağıda açıklanmıştır.
 
@@ -5083,7 +5083,7 @@ x1, x2, x3, x4, x5, x6, A1, A2, A3 ³ 0
 
 Problemin en küçükleme amaçlı olduğu ve kısıtlayıcılara sırasıyla A1, A2, A3 yapay değişkenlerin eklendiği göz önünde bulundurulduğunda, birinci aşamanın değiştirilmiş amaç fonksiyonu aşağıdaki gibi düzenlenir. 
 
-![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.224.png) = A1 + A2 + A3
+![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.224.png) = A1 + A2 + A3
 
 Bu düzenlemeden sonra birinci aşama başlangıç çözüm tablosu (Tablo 6.7) aşağıdaki gibi oluşturulur. Söz konusu tablodan görüldüğü gibi, kısıtlayıcı fonksiyonlar aynı kalmış yalnızca amaç fonksiyonu (Z\*) Ai’ler cinsinden ifade edilmiştir. Simpleks Birinci aşamanın çözüm tabloları aşağıda arka arkaya gösterilmiştir.
 # **Tablo 6.7**
@@ -5094,8 +5094,8 @@ Bu düzenlemeden sonra birinci aşama başlangıç çözüm tablosu (Tablo 6.7)
 |1       A1|1|**4**|2|-1|` `0|` `0|1|0|0|`  `8|
 |1       A2|3|2|1|` `0|-1|` `0|0|1|0|`  `6|
 |1       A3|1|1|0|` `0|` `0|-1|0|0|1|`  `3|
-|![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.225.png)|5|7|3|-1|-1|-1|1|1|1|17|
-|![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.226.png)- ![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.227.png)|5|7|3|-1|-1|-1|0|0|0|-|
+|![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.225.png)|5|7|3|-1|-1|-1|1|1|1|17|
+|![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.226.png)- ![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.227.png)|5|7|3|-1|-1|-1|0|0|0|-|
 Tablo 6.8
 # **İki Aşamalı Simpleks Birinci Aşama Birinci Çözüm Tablosu**
 
@@ -5104,8 +5104,8 @@ Tablo 6.8
 |0       x2|` `1/4|1|1/2|-1/4|` `0|` `0|` `1/4|0|0|2|
 |1      A2|` `**5/2**|0|0|` `1/2|-1|` `0|-1/2|1|0|2|
 |1     A3|` `3/4|0|-1/2|` `1/4|` `0|-1|-1/4|0|1|1|
-|![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.228.png)|13/4|0|-1/2|` `3/4|-1|-1|-3/4|1|1|3|
-|![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.229.png)- ![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.230.png)|13/4|0|-1/2|` `3/4|-1|-1|-7/4|0|0|-|
+|![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.228.png)|13/4|0|-1/2|` `3/4|-1|-1|-3/4|1|1|3|
+|![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.229.png)- ![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.230.png)|13/4|0|-1/2|` `3/4|-1|-1|-7/4|0|0|-|
 Tablo 6.9
 
 ***İki Aşamalı Simpleks Birinci Aşama İkinci Çözüm Tablosu***
@@ -5115,8 +5115,8 @@ Tablo 6.9
 |0       x2|0|1|1/2|-3/10|1/10|0|`  `3/10|-1/10|0|9/5|
 |0       x1|1|0|0|1/5|-2/5|0|-1/5|` `2/5|0|4/5|
 |1       A3|0|0|-1/2|1/10|**3/10**|-1|-1/10|-3/10|1|2/5|
-|![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.231.png)|0|0|-1/2|1/10|3/10|-1|-1/10|-3/10|1|2/5|
-|![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.232.png)- ![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.233.png)|0|0|-1/2|1/10|3/10|-1|-11/10|-13/10|0|-|
+|![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.231.png)|0|0|-1/2|1/10|3/10|-1|-1/10|-3/10|1|2/5|
+|![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.232.png)- ![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.233.png)|0|0|-1/2|1/10|3/10|-1|-11/10|-13/10|0|-|
 Tablo 6.10
 # **İki Aşamalı Simpleks Birinci Aşama Üçüncü (En İyi) Çözüm Tablosu**
 
@@ -5125,9 +5125,9 @@ Tablo 6.10
 |0       x2|0|1|2/3|-1/3|0|1/3|1/3|0|-1/3|5/3|
 |0       x1|1|0|-2/3|1/3|0|-4/3|-1/3|0|4/3|4/3|
 |0       x5|0|0|-5/3|1/3|1|-10/3|-1/3|-1|10/3|4/3|
-|![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.234.png)|0|0|0|0|0|0|0|0|0|0|
-|![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.235.png)- ![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.236.png)|0|0|0|0|0|0|-1|-1|-1|-|
-Tüm ![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.235.png)- ![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.236.png)£ 0 olduğundan, Tablo 6.10’daki çözüm en iyidir. ![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.235.png)= 0 olduğundan, 1. Aşama tamamlanmıştır. Artık 2. Aşamaya geçilebilir. 
+|![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.234.png)|0|0|0|0|0|0|0|0|0|0|
+|![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.235.png)- ![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.236.png)|0|0|0|0|0|0|-1|-1|-1|-|
+Tüm ![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.235.png)- ![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.236.png)£ 0 olduğundan, Tablo 6.10’daki çözüm en iyidir. ![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.235.png)= 0 olduğundan, 1. Aşama tamamlanmıştır. Artık 2. Aşamaya geçilebilir. 
 
 *Aşama 2*: Yapay değişkenlerden hiçbiri temelde bulunmadığından, ikinci aşamada işlem dışı bırakılmışlardır. Yapay değişkenler dışındaki değişkenlerin orijinal amaç fonksiyonu katsayılarıyla hesaplanan Zj ve Zj - Cj değerlerinin birinci aşamanın son tablosuna yerleştirilmesiyle elde edilen ikinci aşama başlangıç tablosu aşağıda gösterilmiştir.
 
@@ -5181,8 +5181,8 @@ Yukarıda oluşturulan standart biçimin kullanılmasıyla düzenlenen birinci a
 |-1      A1|`  `1|-1|-1|` `0|` `1|` `0|0|` `3|
 |-1      A2|-1|` `**4**|0|-1|` `0|` `1|0|` `1|
 |` `0      x5|`  `1|` `2|0|` `0|` `0|` `0|1|` `8|
-|![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.237.png)|` `0|-3|1|` `1|-1|-1|0|-4|
-|![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.238.png)- ![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.239.png)|` `0|-3|1|` `1|` `0|` `0|0|-|
+|![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.237.png)|` `0|-3|1|` `1|-1|-1|0|-4|
+|![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.238.png)- ![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.239.png)|` `0|-3|1|` `1|` `0|` `0|0|-|
 Anahtar işlemlerle elde edilen birinci aşama ilk çözüm tablosu aşağıda gösterilmiştir.
 ##### ***Tablo 6.13***
 ***İki Aşamalı Simpleks Birinci Aşama Birinci Çözüm Tablosu***
@@ -5192,9 +5192,9 @@ Anahtar işlemlerle elde edilen birinci aşama ilk çözüm tablosu aşağıda
 |-1      A1|` `**3/4**|0|-1|-1/4|1|` `1/4|0|` `13/4|
 |` `0       x2|-1/4|1|0|-1/4|0|` `1/4|0|1/4|
 |` `0       x5|` `3/2|0|0|` `1/2|0|-1/2|1|` `15/2|
-|![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.240.png)|-3/4|0|1|` `1/4|-1|-1/4|0|-13/4|
-|![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.241.png)- ![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.242.png)|-3/4|0|1|` `1/4|0|3/4|0|-|
-![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.243.png)- ![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.244.png)< 0 olduğundan çözüm en iyi değildir. Daha gelişmiş çözüm için işlemler sürdürülmelidir. Simpleks yöntemin basit satır işlemleriyle elde edilen ikinci deneme çözüm tablosu aşağıda gösterilmiştir. 
+|![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.240.png)|-3/4|0|1|` `1/4|-1|-1/4|0|-13/4|
+|![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.241.png)- ![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.242.png)|-3/4|0|1|` `1/4|0|3/4|0|-|
+![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.243.png)- ![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.244.png)< 0 olduğundan çözüm en iyi değildir. Daha gelişmiş çözüm için işlemler sürdürülmelidir. Simpleks yöntemin basit satır işlemleriyle elde edilen ikinci deneme çözüm tablosu aşağıda gösterilmiştir. 
 
 ***Tablo 6.14***
 
@@ -5205,9 +5205,9 @@ Anahtar işlemlerle elde edilen birinci aşama ilk çözüm tablosu aşağıda
 |0      x1|1|0|-4/3|-1/3|4/3|1/3|0|13/3|
 |0      x2|0|1|-1/3|-1/3|1/3|1/3|0|4/3|
 |0      x5|0|0|2|1|-2|-1|1|1|
-|![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.245.png)|0|0|0|0|0|0|0|0|
-|![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.246.png)- ![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.247.png)|0|0|0|0|1|1|0|-|
-Birinci aşamanın ikinci çözümünde tüm ![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.235.png)- ![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.236.png) ³ 0 olduğundan, değiştirilmiş amaç fonksiyonlu problemin en iyi çözümüne ulaşılmış, böylece birinci aşama tamamlanmıştır. Yapay değişkenlerin hiçbirisi temelde bulunmadığından (![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.235.png)= 0), ikinci aşamaya geçilebilir. 
+|![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.245.png)|0|0|0|0|0|0|0|0|
+|![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.246.png)- ![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.247.png)|0|0|0|0|1|1|0|-|
+Birinci aşamanın ikinci çözümünde tüm ![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.235.png)- ![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.236.png) ³ 0 olduğundan, değiştirilmiş amaç fonksiyonlu problemin en iyi çözümüne ulaşılmış, böylece birinci aşama tamamlanmıştır. Yapay değişkenlerin hiçbirisi temelde bulunmadığından (![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.235.png)= 0), ikinci aşamaya geçilebilir. 
 
 *İkinci Aşama*: Yapay değişkenlere ilişkin sütunların tablodan çıkartılması ve karar değişkenlerinin orijinal katsayılarının kullanılmasıyla düzenlenen ikinci aşama başlangıç tablosu aşağıda gösterilmiştir.
 
@@ -5274,8 +5274,8 @@ Bu düzenlemenin ardından oluşturulan birinci aşama başlangıç çözüm tab
 |` `0      x4|`  `**5**|` `3|` `1|` `1|0|` `0|9|
 |` `0      x5|-5|` `6|15|` `0|1|` `0|15|
 |-1      A1|`  `2|` `1|` `1|` `0|0|` `1|5|
-|![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.235.png)|-2|-1|-1|` `0|0|-1|-5|
-|![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.235.png)- ![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.236.png)|-2|-1|-1|` `0|0|` `0|-|
+|![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.235.png)|-2|-1|-1|` `0|0|-1|-5|
+|![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.235.png)- ![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.236.png)|-2|-1|-1|` `0|0|` `0|-|
 Birinci aşama başlangıç çözüm tablosundan, x4 = 9,  x5 = 15,  A1 = 5 ve  Z\* = -5 olduğu görülebilir.
 
 Bu belirlemenin ardından, simpleks yöntemin bilinen işlemleriyle düzenlenen  simpleks çözüm tabloları aşağıda sırasıyla gösterilmiştir.
@@ -5289,8 +5289,8 @@ Bu belirlemenin ardından, simpleks yöntemin bilinen işlemleriyle düzenlene
 |` `0      x1|1|` `3/5|` `1/5|` `0|` `1/5|0|` `0|` `9/5|
 |` `0      x5|0|9|**16**|` `0|` `1|1|` `0|24|
 |-1      A1|0|-1/5|` `3/5|-1|-2/5|0|` `1|` `7/5|
-|![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.235.png)|0|` `1/5|-3/5|` `1|` `2/5|0|-1|-7/5|
-|![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.235.png)- ![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.236.png)|0|` `1/5|-3/5|` `1|` `2/5|0|0|-|
+|![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.235.png)|0|` `1/5|-3/5|` `1|` `2/5|0|-1|-7/5|
+|![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.235.png)- ![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.236.png)|0|` `1/5|-3/5|` `1|` `2/5|0|0|-|
 ***Tablo 6.19***
 
 ***İki Aşamalı Simpleks Birinci Aşama İkinci Çözüm Tablosu***
@@ -5300,9 +5300,9 @@ Bu belirlemenin ardından, simpleks yöntemin bilinen işlemleriyle düzenlene
 |` `0      x1|1|` `39/80|0|` `0|` `3/16|-1/80|` `0|` `3/2|
 |` `0      x3|0|` `9/16|1|` `0|` `1/16|` `1/16|` `0|` `3/2|
 |-1     A1|0|-43/80|0|-1|-7/16|-3/80|` `1|` `1/2|
-|![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.235.png)|0|` `43/80|0|` `1|` `7/16|` `3/80|-1|-1/2|
-|![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.235.png)- ![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.236.png)|0|` `43/80|0|` `1|` `7/16|` `3/80|` `0|-|
-Tüm ![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.235.png)- ![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.236.png) ³ 0 olduğundan çözüm en iyidir. Z\* = -1/2 < 0 olduğundan, problemin uygun çözümünün olmadığı kararlaştırılır ve işlemlere son verilir.
+|![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.235.png)|0|` `43/80|0|` `1|` `7/16|` `3/80|-1|-1/2|
+|![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.235.png)- ![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.236.png)|0|` `43/80|0|` `1|` `7/16|` `3/80|` `0|-|
+Tüm ![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.235.png)- ![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.236.png) ³ 0 olduğundan çözüm en iyidir. Z\* = -1/2 < 0 olduğundan, problemin uygun çözümünün olmadığı kararlaştırılır ve işlemlere son verilir.
 
 ***Örnek 6.6***: Aşağıdaki  problemi iki aşamalı simpleks yöntemle çözünüz.
 
@@ -5339,8 +5339,8 @@ Yukarıdaki düzenlemeyle elde edilen modeldeki bilgilerinin kullanılmasıyla d
 |1      A1|3|4|1|-1|0|0|1|0|0|6|
 |1      A2|1|**3**|1|0|-1|0|0|1|0|2|
 |1      A3|2|1|0|0|0|-1|0|0|1|4|
-|![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.248.png)|6|8|2|-1|-1|-1|1|1|1|12|
-|![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.249.png)- ![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.250.png)|6|8|2|-1|-1|-1|0|0|0|-|
+|![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.248.png)|6|8|2|-1|-1|-1|1|1|1|12|
+|![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.249.png)- ![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.250.png)|6|8|2|-1|-1|-1|0|0|0|-|
 Başlangıç tablosunun düzenlenmesinin ardından bilinen satır işlemleriyle ulaşılan birinci çözüm tablosu aşağıda gösterilmiştir.
 ##### ***Tablo 6.21***
 ***İki Aşamalı Simpleks Birinci Aşama Birinci Çözüm Tablosu*** 
@@ -5350,8 +5350,8 @@ Başlangıç tablosunun düzenlenmesinin ardından bilinen satır işlemleriyle 
 |1      A1|` `**5/3**|0|-1/3|-1|` `4/3|` `0|1|-4/3|0|10/3|
 |0       x2|` `1/3|1|` `1/3|` `0|-1/3|` `0|0|` `1/3|0|2/3|
 |1       A3|` `5/3|0|-1/3|` `0|` `1/3|-1|0|-1/3|1|10/3|
-|![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.251.png)|10/3|0|-2/3|-1|` `5/3|-1|1|-5/3|1|20/3|
-|![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.252.png)- ![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.253.png)|10/3|0|-2/3|-1|` `5/3|-1|0|-8/3|0|-|
+|![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.251.png)|10/3|0|-2/3|-1|` `5/3|-1|1|-5/3|1|20/3|
+|![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.252.png)- ![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.253.png)|10/3|0|-2/3|-1|` `5/3|-1|0|-8/3|0|-|
 İkinci çözüm aşağıdaki tabloda gösterilmiştir. 
 
 ***Tablo 6.22***
@@ -5363,8 +5363,8 @@ Başlangıç tablosunun düzenlenmesinin ardından bilinen satır işlemleriyle 
 |0      x1|1|0|-1/5|-3/5|` `4/5|0|` `3/5|-4/5|0|2|
 |0      x2|0|1|` `2/5|` `1/5|-3/5|0|-1/5|` `3/5|0|0|
 |1      A3|0|0|0|1|-1|-1|-1|1|1|0|
-|![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.235.png)|0|0|0|1|-1|-1|-1|1|1|0|
-|![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.235.png)- ![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.236.png)|0|0|0|1|-1|-1|-2|0|0|-|
+|![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.235.png)|0|0|0|1|-1|-1|-1|1|1|0|
+|![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.235.png)- ![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.236.png)|0|0|0|1|-1|-1|-2|0|0|-|
 *İkinci aşama*: Z\* = 0 olduğundan 2. aşamaya geçilir. A3 temelde sıfır değerli olarak bulunmaktadır. Temelde bulunmayan A1 ve A2’nin temel çözümden çıkartılmaları, A3 dışındaki değişkenlerin gerçek Cj değerlerinin, A3 için ise sıfır değerinin kullanılmasıyla oluşturulan ikinci aşama başlangıç çözüm tablosu aşağıdadır.
 
 ***Tablo 6.23***
@@ -5410,7 +5410,7 @@ Tüm Zj - Cj £  0 olduğundan, tablodaki çözüm en iyidir. Bu  en iyi çöz
 
 xi ³ li eşitsizliği xi için alt sınır (li) tanımladığından bu tür kısıtlayıcılara alt sınır kısıtlayıcıları denir. xi ³ li doğrusal programlamanın kurallarına uygun olduğundan problemin, klasik simpleks yöntemle çözülmesine engel bir durum yoktur. Yani alt sınır kısıtlayıcıları diğer kısıtlayıcılarla birlikte ele alınıp problem simpleks yöntemle çözülebilir. Bununla birlikte aşağıda açıklanan yöntem bu tür kısıtlayıcıları kapsayan problemlerin çözümü için daha etkindir.
 
-xi ³ li olsun. Bu durumda, ![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.254.png) ³ 0 olmak üzere xi - ![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.254.png) = li veya xi = li +![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.254.png) yazılabilir. xi = li +![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.254.png) olduğu dikkate alınarak modeldeki tüm xi’ler (li +![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.254.png)) ile değiştirilir. Bu işleme alt sınır ikamesi denir. İkame işlemiyle xi ³ li ilişkisi modele sokulmuş, dolayısıyla xi ³ li kısıtlayıcısına gerek kalmamış olur. Bu yolla hem kısıtlayıcı  sayısının azalması sağlanmış, hem de daha az sayıda değişkenle çalışma olanağı yaratılmış olur. İkame işleminin tamamlanmasından sonra çözüme geçilebilir. Çözüm tamamlandığında ![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.254.png) için belirlenen değer (li +![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.254.png)) bağıntısında yerine konularak orijinal değişken xi’nin değeri belirlenir.  
+xi ³ li olsun. Bu durumda, ![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.254.png) ³ 0 olmak üzere xi - ![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.254.png) = li veya xi = li +![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.254.png) yazılabilir. xi = li +![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.254.png) olduğu dikkate alınarak modeldeki tüm xi’ler (li +![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.254.png)) ile değiştirilir. Bu işleme alt sınır ikamesi denir. İkame işlemiyle xi ³ li ilişkisi modele sokulmuş, dolayısıyla xi ³ li kısıtlayıcısına gerek kalmamış olur. Bu yolla hem kısıtlayıcı  sayısının azalması sağlanmış, hem de daha az sayıda değişkenle çalışma olanağı yaratılmış olur. İkame işleminin tamamlanmasından sonra çözüme geçilebilir. Çözüm tamamlandığında ![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.254.png) için belirlenen değer (li +![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.254.png)) bağıntısında yerine konularak orijinal değişken xi’nin değeri belirlenir.  
 
 ***Örnek 6.12***: Aşağıdaki doğrusal programlama problemini çözünüz. 
 
@@ -5459,35 +5459,35 @@ Standart biçimdeki bilgilerin kullanılmasıyla düzenlenen başlangıç tablos
 |Zj - Cj|0|0|40|0|30|M - 40|-|
 Tüm Zj – Cj ³ 0 olduğundan, Tablo 6.28’deki çözüm en iyidir. Z, en büyük değeri olan 2900’a; x1 = 40, x2 = 15, x3 = 55, x4 = 0, x5 = 0, A1 = 0 ile ulaşmıştır. 
 
-Şimdi aynı problemi alt sınır ikamesi ile çözelim. x1 ³ 40 alt sınır kısıtı x1 - ![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.255.png)= 40 olarak yazılabilir. Buradan, x1 = ![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.256.png)+ 40 elde edilir. Modeldeki x1’lerin (![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.257.png)+ 40) ile değiştirilmesiyle ikame işlemi tamamlanmış, böylece x1 ³ 40 kısıtlayıcısına gerek kalmamış olur. Alt sınır ikamesi tamamlanmış problem aşağıda gösterilmiştir.
+Şimdi aynı problemi alt sınır ikamesi ile çözelim. x1 ³ 40 alt sınır kısıtı x1 - ![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.255.png)= 40 olarak yazılabilir. Buradan, x1 = ![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.256.png)+ 40 elde edilir. Modeldeki x1’lerin (![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.257.png)+ 40) ile değiştirilmesiyle ikame işlemi tamamlanmış, böylece x1 ³ 40 kısıtlayıcısına gerek kalmamış olur. Alt sınır ikamesi tamamlanmış problem aşağıda gösterilmiştir.
 
-Zenb = 50(![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.258.png) + 40) + 60x2                                         
+Zenb = 50(![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.258.png) + 40) + 60x2                                         
 
-`             `2(![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.259.png) + 40) + 3x2 £ 180                                   
+`             `2(![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.259.png) + 40) + 3x2 £ 180                                   
 
-`             `3(![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.260.png) + 40) + 2x2 £ 150                                   
+`             `3(![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.260.png) + 40) + 2x2 £ 150                                   
 
-`                                `![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.261.png), x2 ³ 0                                                       
+`                                `![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.261.png), x2 ³ 0                                                       
 
 Bilindiği gibi, doğrusal programlamanın kısıtlayıcı fonksiyonları sadece sağ taraflarında sabit olacak şekilde yazılmalıdır. Bu durum göz önünde bulundurularak, alt sınır ikameli problem üzerinde uygun aritmetik işlemlerin gerçekleştirilmesiyle problem aşağıdaki gibi elde edilmiş olur.   
 
-Zenb = 50![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.262.png) + 60x2 + 2000	
+Zenb = 50![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.262.png) + 60x2 + 2000	
 
-`            `2![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.263.png) + 3x2 £ 100                                                   
+`            `2![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.263.png) + 3x2 £ 100                                                   
 
-`            `3![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.264.png) + 2x2 £   30
+`            `3![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.264.png) + 2x2 £   30
 
-`                   `![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.265.png), x2 ³ 0   
+`                   `![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.265.png), x2 ³ 0   
 
 Amaç fonksiyonundaki sabitin (2000) göz ardı edilmesiyle alt sınır ikameli problemin simpleks yöntemin gerektirdiği biçimi, 
 
-Zenb = 50![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.266.png) + 60x2 + 0x3 + 0x4            
+Zenb = 50![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.266.png) + 60x2 + 0x3 + 0x4            
 
-`            `2![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.267.png) + 3x2 + x3         = 100                                                   
+`            `2![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.267.png) + 3x2 + x3         = 100                                                   
 
-`            `3![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.268.png) + 2x2         + x4 =   30
+`            `3![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.268.png) + 2x2         + x4 =   30
 
-`                        `![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.269.png), x2, x3, x4 ³ 0   
+`                        `![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.269.png), x2, x3, x4 ³ 0   
 
 olarak düzenlenir.
 
@@ -5495,7 +5495,7 @@ Problemin başlangıç ve en iyi çözüm tabloları aşağıda arka arkaya veri
 ### **Tablo 6.29**
 ### **Simpleks Başlangıç Çözüm Tablosu**
 
-|TDV|![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.270.png)|x2|x3|x4|ÇV|
+|TDV|![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.270.png)|x2|x3|x4|ÇV|
 | :-: | :-: | :-: | :-: | :-: | :-: |
 |0     x3|2|` `3|1|0|100|
 |0     x4|` `3|` `**2**|0|1|30|
@@ -5504,19 +5504,19 @@ Problemin başlangıç ve en iyi çözüm tabloları aşağıda arka arkaya veri
 ### **Tablo 6.30**
 ### **Simpleks İkinci (En iyi) Çözüm Tablosu**
 
-|TDV|![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.270.png)|x2|x3|x4|ÇV|
+|TDV|![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.270.png)|x2|x3|x4|ÇV|
 | :-: | :-: | :-: | :-: | :-: | :-: |
 |0      x3|-5/2|0|1|-3/2|55|
 |60     x2|` `3/2|` `1|0|1/2|15|
 |Zj|90|` `60|0|30|900|
 |Zj - Cj|40|0|0|30|-|
-Tüm Zj - Cj ³ 0 olduğundan tablodaki çözüm en iyidir. Buna göre, alt sınır ikameli problemin en iyi çözümü, x2 = 15, x3 = 55, ![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.270.png)= 0, x4 = 0, Zenb = 900 olarak elde edilmiştir. Bu çözüme amaç fonksiyonundaki sabit değer 2000’nin göz ardı edilmesiyle ulaşıldığı dikkate alındığında, Zenb = 900 + 2000 = 2900 elde edilir. Ayrıca, ![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.270.png)= 0 olarak hesaplandığı göz önünde bulundurulduğunda x1 = ![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.271.png) + 40 bağıntısından x1 = 40 olarak hesaplanır. Özetle problemin en iyi çözümü: x1 = 40, x2 = 15, x3 = 15, Zenb = 2900 olarak belirlenmiştir. Görüldüğü gibi alt sınır ikameli problemin çözümü orijinal problemin çözümünden çok daha hızlı gerçekleşmiştir. Bunun nedeni alt sınır ikameli problemin boyutunun diğerinden çok daha küçük olması ve büyük M yöntemine gereksinimin ortadan kalkmasıdır. 
+Tüm Zj - Cj ³ 0 olduğundan tablodaki çözüm en iyidir. Buna göre, alt sınır ikameli problemin en iyi çözümü, x2 = 15, x3 = 55, ![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.270.png)= 0, x4 = 0, Zenb = 900 olarak elde edilmiştir. Bu çözüme amaç fonksiyonundaki sabit değer 2000’nin göz ardı edilmesiyle ulaşıldığı dikkate alındığında, Zenb = 900 + 2000 = 2900 elde edilir. Ayrıca, ![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.270.png)= 0 olarak hesaplandığı göz önünde bulundurulduğunda x1 = ![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.271.png) + 40 bağıntısından x1 = 40 olarak hesaplanır. Özetle problemin en iyi çözümü: x1 = 40, x2 = 15, x3 = 15, Zenb = 2900 olarak belirlenmiştir. Görüldüğü gibi alt sınır ikameli problemin çözümü orijinal problemin çözümünden çok daha hızlı gerçekleşmiştir. Bunun nedeni alt sınır ikameli problemin boyutunun diğerinden çok daha küçük olması ve büyük M yöntemine gereksinimin ortadan kalkmasıdır. 
 
 Şimdi de üstten sınırlı değişkenlerin bulunduğu problemlerin çözümü üzerinde duralım. Yukarıda da değinildiği gibi üstten sınırlı değişkenlerin bulunması durumunda çözüm, alttan sınırlı değişkenlerin bulunduğu durumdaki çözümden daha zordur.  
 
-xi £ ui eşitsizliği xi için üst sınır tanımladığından bu tür kısıtlayıcılara üst sınır kısıtlayıcıları denir. xi £ ui eşitsizliği doğrusal programlamanın kurallarına aykırı olmadığından istenirse problem orijinal haliyle çözülebilir. Bununla birlikte aşağıda açıklanan yöntem üst sınır kısıtlayıcılarını kapsayan problemlerin çözümü için daha etkindir. xi £ ui verildiğinde akla ilk gelen, ![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.254.png) ³ 0 olmak üzere xi £ ui yerine xi + ![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.254.png)= ui, yani xi = ui - ![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.254.png) yazmak ve xi değişkeni yerine, (ui -![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.254.png)) yerleştirmektir. Ancak bu yerleştirme, xi’nin negatif olmamasını garanti etmeyeceğinden doğru değildir. Bu tür kısıtları kapsayan problemleri etkin biçimde çözmek için xi = 0 veya xi = ui olduğunda xi’nin temelde bulunmamasının sağlanması gerekir. Bunun için aşağıda açıklanan adımlara ve kurallara uygun davranılması gerekir.
+xi £ ui eşitsizliği xi için üst sınır tanımladığından bu tür kısıtlayıcılara üst sınır kısıtlayıcıları denir. xi £ ui eşitsizliği doğrusal programlamanın kurallarına aykırı olmadığından istenirse problem orijinal haliyle çözülebilir. Bununla birlikte aşağıda açıklanan yöntem üst sınır kısıtlayıcılarını kapsayan problemlerin çözümü için daha etkindir. xi £ ui verildiğinde akla ilk gelen, ![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.254.png) ³ 0 olmak üzere xi £ ui yerine xi + ![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.254.png)= ui, yani xi = ui - ![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.254.png) yazmak ve xi değişkeni yerine, (ui -![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.254.png)) yerleştirmektir. Ancak bu yerleştirme, xi’nin negatif olmamasını garanti etmeyeceğinden doğru değildir. Bu tür kısıtları kapsayan problemleri etkin biçimde çözmek için xi = 0 veya xi = ui olduğunda xi’nin temelde bulunmamasının sağlanması gerekir. Bunun için aşağıda açıklanan adımlara ve kurallara uygun davranılması gerekir.
 
-Üst sınırı olan her xi için xi + ![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.254.png)= ui  veya xi = ui - ![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.254.png) ilişkisini gerçekleyen yeni bir değişken tanımlanır. xi = 0 olduğunda ![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.254.png)= ui, xi = ui olduğunda ![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.254.png) = 0 olduğu görülebilir. Çözümün herhangi bir aşamasında xi = ui olması istendiğinde  xi yerine (ui - ![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.254.png)) kullanılması üst sınır ikamesi olarak bilinir.
+Üst sınırı olan her xi için xi + ![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.254.png)= ui  veya xi = ui - ![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.254.png) ilişkisini gerçekleyen yeni bir değişken tanımlanır. xi = 0 olduğunda ![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.254.png)= ui, xi = ui olduğunda ![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.254.png) = 0 olduğu görülebilir. Çözümün herhangi bir aşamasında xi = ui olması istendiğinde  xi yerine (ui - ![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.254.png)) kullanılması üst sınır ikamesi olarak bilinir.
 
 Üst sınırlı değişkenler için simpleks yöntemi aşağıdaki gibi çalışır.  Uygulamanın ilk adımı üst sınır kısıtlayıcılarını ihmal ederek başlangıç çözüm tablosunun oluşturulmasıdır. Bu noktada, temel başlangıç çözümün bulunduğunu ve problemin en büyükleme amaçlı olduğunu düşünelim. Her tekrarda Z’ye katkısı en büyük olan değişkenin temele alınacağı bilinmektedir.
 
@@ -5532,11 +5532,11 @@ DBk(k = 1, 2, 3), xi’nin dar boğaz k’nın ortaya çıktığı durumdaki de�
 
 DB1, DB2, DB3’ün en küçüğüne *kazanan dar boğaz* denir.
 
-Hangi dar boğazın kazandığına bağlı olarak gerekli işlemler yapılır. Kazanan dar boğaz DB1 olduğunda, üst sınır ikamesi gerçekleştirilir, yani xi yerine (ui - ![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.254.png)) yazılır.
+Hangi dar boğazın kazandığına bağlı olarak gerekli işlemler yapılır. Kazanan dar boğaz DB1 olduğunda, üst sınır ikamesi gerçekleştirilir, yani xi yerine (ui - ![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.254.png)) yazılır.
 
 DB2 gerçekleştiğinde, xi DB2’yi ortaya çıkaran değişkenin yerine temele alınır.
 
-Kazanan DB3 olduğunda, xj için üst sınır ikamesi (xj yerine uj - ![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.272.png)yazılır) gerçekleştirilir. Bu durumda, xi halihazırda temelde bulunan xj yerine geçirilir.
+Kazanan DB3 olduğunda, xj için üst sınır ikamesi (xj yerine uj - ![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.272.png)yazılır) gerçekleştirilir. Bu durumda, xi halihazırda temelde bulunan xj yerine geçirilir.
 
 ***Örnek 6.13***: Aşağıdaki problemi üst sınır ikamesiyle çözünüz.
 
@@ -5611,7 +5611,7 @@ Problemin başlangıç çözümü aşağıdaki tabloda verilmiştir.
 |0     x5|2|-3|0|0|1|4|
 |Zj|0|0|0|0|0|0|
 |Zj - Cj|-4|-9|0|0|0|-|
-Tablodan görüldüğü gibi tüm Zj - Cj ³ 0 olmadığından yürürlükteki çözüm en iyi değildir. Enb (![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.273.png),![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.274.png)) = 9 olduğundan x2’nin  değeri mümkün olduğunca arttırılmalıdır. x2 giren değişkeninin değerini belirlemede kullanılacak dar boğazlar aşağıda hesaplandıkları gibidir. 
+Tablodan görüldüğü gibi tüm Zj - Cj ³ 0 olmadığından yürürlükteki çözüm en iyi değildir. Enb (![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.273.png),![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.274.png)) = 9 olduğundan x2’nin  değeri mümkün olduğunca arttırılmalıdır. x2 giren değişkeninin değerini belirlemede kullanılacak dar boğazlar aşağıda hesaplandıkları gibidir. 
 
 x2 üst sınırı olan 1’den büyük olamaz. Buna göre DB1 = 1 olur. DB2’nin belirlenebilmesi için temelde bulunan değişkenlerin x2 cinsinden açıklanmaları ve elde edilen denklemler kümesinin çözülmesi gerekir. Söz konusu denklemler aşağıda gösterilmiştir.  
 
@@ -5623,11 +5623,11 @@ x5 =  4 + 3x2     (x5 ³ 0 ancak ve ancak x2 ³ -4/3 ise)
 
 Buna göre temeldeki değişkenlerin negatif olmama özelliklerini koruyabilmeleri için x2 £ 6/5 olması gerekir. Dolayısıyla DB2 = 6/5 olur. 
 
-Yürürlükteki temel değişkenler için bir üst sınır söz konusu olmadığından, DB3 için bir değer belirlenemez. Bu durumda enk{1, 6/5, -} = 1, dolayısıyla kazanan dar boğaz DB1 olur. DB1 gerçekleştiğinden x2 yerine üst sınır ikamesi gerçekleştirilmeli, yani x2 yerine 1 - ![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.275.png)  geçirilmelidir. Yerine koyma işlemi sonucunda simpleks çözüm tablosu aşağıdaki gibi elde edilir. 
+Yürürlükteki temel değişkenler için bir üst sınır söz konusu olmadığından, DB3 için bir değer belirlenemez. Bu durumda enk{1, 6/5, -} = 1, dolayısıyla kazanan dar boğaz DB1 olur. DB1 gerçekleştiğinden x2 yerine üst sınır ikamesi gerçekleştirilmeli, yani x2 yerine 1 - ![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.275.png)  geçirilmelidir. Yerine koyma işlemi sonucunda simpleks çözüm tablosu aşağıdaki gibi elde edilir. 
 ### **Tablo 6.33**
 ### **Simpleks Çözüm Tablosu**
 
-|TDV|x1|![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.275.png)|x3|x4|x5|ÇV|
+|TDV|x1|![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.275.png)|x3|x4|x5|ÇV|
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 |0      x3|3|-5|1|0|0|1|
 |0      x4|5|-6|0|1|0|4|
@@ -5648,7 +5648,7 @@ Temeldeki değişkenlerin negatif olmama özelliklerini koruyabilmeleri için x1
 ### **Tablo 6.33**
 ### **Simpleks Çözüm Tablosu**
 
-|TDV|x1|![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.275.png)|X3|x4|x5|ÇV|
+|TDV|x1|![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.275.png)|X3|x4|x5|ÇV|
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 |4     x1|1|-5/3|1/3|0|0|1/3|
 |0     x4|0|7/3|-7/6|1|0|7/3|
@@ -5712,7 +5712,7 @@ Problemin başlangıç çözümü aşağıdaki tabloda verilmiştir.
 |0     x6|0|2|1|0|0|1|5|
 |Zj|0|0|0|0|0|0|0|
 |Zj - Cj|-4|-3|-5|0|0|0|-|
-Tablodan görüldüğü gibi, tüm Zj - Cj ³ 0 olmadığından yürürlükteki çözüm en iyi değildir. Enb(![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.276.png),![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.277.png),![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.278.png)) = 5 olduğundan, x3’ün değeri mümkün olduğunca arttırılmalıdır. x3’e ait dar boğazlar aşağıda hesaplandıkları gibidir. 
+Tablodan görüldüğü gibi, tüm Zj - Cj ³ 0 olmadığından yürürlükteki çözüm en iyi değildir. Enb(![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.276.png),![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.277.png),![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.278.png)) = 5 olduğundan, x3’ün değeri mümkün olduğunca arttırılmalıdır. x3’e ait dar boğazlar aşağıda hesaplandıkları gibidir. 
 
 x3 üst sınırı olan 4’den büyük olamaz. Buna göre DB1 = 4 olur.
 
@@ -5724,20 +5724,20 @@ x5 = 6 + x3     (x5 ³ 0 ancak ve ancak x3 ³  -6 ise)
 
 x6 =  5 – x3     (x6 ³ 0 ancak ve ancak x3 £ 5 ise)
 
-Temeldeki değişkenlerin negatif olmamaları için x3 £ 5 olması gerektiği açıktır. Dolayısıyla DB2 = 5 olur. Yürürlükteki temel değişkenler için bir üst sınır söz konusu olmadığından, DB3 için değer belirlenemez. Bu durumda enk{4, 5, -} = 4, dolayısıyla kazanan dar boğaz DB1 olur. DB1 gerçekleştiğinden x3 yerine üst sınır ikamesi gerçekleştirilmeli, yani x3 yerine 4 - ![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.279.png)  geçirilmelidir.
+Temeldeki değişkenlerin negatif olmamaları için x3 £ 5 olması gerektiği açıktır. Dolayısıyla DB2 = 5 olur. Yürürlükteki temel değişkenler için bir üst sınır söz konusu olmadığından, DB3 için değer belirlenemez. Bu durumda enk{4, 5, -} = 4, dolayısıyla kazanan dar boğaz DB1 olur. DB1 gerçekleştiğinden x3 yerine üst sınır ikamesi gerçekleştirilmeli, yani x3 yerine 4 - ![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.279.png)  geçirilmelidir.
 
 Yerine koyma işlemi sonucunda simpleks çözüm tablosu aşağıdaki gibi elde edilir. 
 ### **Tablo 6.33**
 ### **Simpleks Çözüm Tablosu**
 
-|TDV|x1|x2|![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.279.png)|x4|x5|x6|ÇV|
+|TDV|x1|x2|![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.279.png)|x4|x5|x6|ÇV|
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 |0     x4|2|2|-1|1|0|0|5|
 |0     x5|4|-1|1|0|1|0|10|
 |0     x6|0|2|-1|0|0|1|1|
 |Zj|0|0|0|0|0|0|20|
 |Zj - Cj|-4|-3|5|0|0|0|-|
-Tablodan görüldüğü gibi tüm Zj - Cj ³ 0 olmadığından yürürlükteki çözüm en iyi değildir. Enb(![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.276.png),![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.277.png)) = 4 olduğundan x1’in değeri mümkün olduğunca arttırılmalıdır.
+Tablodan görüldüğü gibi tüm Zj - Cj ³ 0 olmadığından yürürlükteki çözüm en iyi değildir. Enb(![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.276.png),![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.277.png)) = 4 olduğundan x1’in değeri mümkün olduğunca arttırılmalıdır.
 
 x1’e ait dar boğazlar aşağıda hesaplandıkları gibidir.    
 
@@ -5751,11 +5751,11 @@ x5 = 10 - 4x1    (x5 ³ 0 ancak ve ancak x1 £ 10/4 ise)
 
 x6 = 1                    (x1’in değeri ne olursa olsun x6 ³ 0)  
 
-Temeldeki değişkenlerin negatif olmama özelliklerini koruyabilmeleri için x1 £ 5/2 olması gerektiği açıktır. Dolayısıyla DB2 = 5/2 olur. Yürürlükteki temel değişkenler için bir üst sınır söz konusu olmadığından DB3 için bir değer belirlenemez. Bu durumda enk{2, 5/2, -} = 2, dolayısıyla kazanan dar boğaz DB1 olur.Bu durumda x1’in değeri üst sınırına kadar arttırılmalı, yani x1 yerine 2 - ![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.280.png) ikamesi gerçekleştirilmelidir. İkame işleminin tamamlanmasıyla elde edilen çözüm aşağıdaki tabloda gösterildiği gibidir. 
+Temeldeki değişkenlerin negatif olmama özelliklerini koruyabilmeleri için x1 £ 5/2 olması gerektiği açıktır. Dolayısıyla DB2 = 5/2 olur. Yürürlükteki temel değişkenler için bir üst sınır söz konusu olmadığından DB3 için bir değer belirlenemez. Bu durumda enk{2, 5/2, -} = 2, dolayısıyla kazanan dar boğaz DB1 olur.Bu durumda x1’in değeri üst sınırına kadar arttırılmalı, yani x1 yerine 2 - ![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.280.png) ikamesi gerçekleştirilmelidir. İkame işleminin tamamlanmasıyla elde edilen çözüm aşağıdaki tabloda gösterildiği gibidir. 
 ### **Tablo 6.33**
 ### **Simpleks Çözüm Tablosu**
 
-|TDV|![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.280.png)|x2|![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.279.png)|x4|x5|x6|ÇV|
+|TDV|![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.280.png)|x2|![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.279.png)|x4|x5|x6|ÇV|
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 |0     x4|-2|2|-1|1|0|0|1|
 |0     x5|-4|-1|1|0|1|0|2|
@@ -5776,7 +5776,7 @@ Temeldeki değişkenlerin negatif olmama özelliklerini koruyabilmeleri için x1
 ### **Tablo 6.34**
 ### **Simpleks Çözüm Tablosu**
 
-|TDV|![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.280.png)|x2|![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.279.png)|x4|x5|x6|ÇV|
+|TDV|![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.280.png)|x2|![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.279.png)|x4|x5|x6|ÇV|
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 |3     x2|-1|1|-1/2|1/2|0|0|1/2|
 |0     x5|-5|0|1/2|1/2|1|0|5/2|
@@ -5890,7 +5890,7 @@ Her tekrarda kazanan dar boğazın belirlenmesi amacıyla yapılan hesaplamalar 
 | :-: |
 
 
-![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.281.png) 
+![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.281.png) 
 
 
 
@@ -5961,13 +5961,13 @@ Z = C11x11 + C12x12 + … + C1nx1n + C21x21 + C22x22 + … + C2nx2n + … + Cm1x
 
 veya å sembolünün kullanılmasıyla,
 
-Z = ![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.282.png)                                                                                                     
+Z = ![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.282.png)                                                                                                     
 
 olarak yazılır. 
 
 Amaç, bu maliyetin en küçük olmasını sağlayan ulaştırma planının programlanması olduğuna göre amaç fonksiyonu, 
 
-Zenk = ![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.282.png)                                                                                          7.1
+Zenk = ![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.282.png)                                                                                          7.1
 
 olacaktır.
 
@@ -5983,7 +5983,7 @@ Bu koşul matematiksel olarak,
 
 x11 + x12 + ... + x1n                                                                      = a1
 
-![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.283.png)![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.284.png)                             x21 + x22 + ... + x2n                                         = a2
+![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.283.png)![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.284.png)                             x21 + x22 + ... + x2n                                         = a2
 
 
 
@@ -5993,7 +5993,7 @@ bçiminde açıklanır.
 
 Bu kısıtlayıcılar sunum miktarları ile ilgili olduklarından bunlara *sunum miktarı kısıtlayıcı fonksiyonları* veya kısaca *sunum kısıtlayıcıları* denir. Sunum kısıtlayıcıları å sembolüyle,
 
-` `![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.285.png)         i = 1, 2, ..., m  ve  ai > 0                                                                   7.2
+` `![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.285.png)         i = 1, 2, ..., m  ve  ai > 0                                                                   7.2
 
 olarak açıklanır.
 
@@ -6003,9 +6003,9 @@ Bu koşul matematiksel olarak,
 
 x11                      +  x21                      + xm1                    = b1
 
-![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.286.png)         x12                      + x22                      +  xm2           = b2
+![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.286.png)         x12                      + x22                      +  xm2           = b2
 
-![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.287.png)![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.287.png)![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.287.png) 
+![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.287.png)![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.287.png)![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.287.png) 
 
 
 
@@ -6018,7 +6018,7 @@ olarak yazılabilir.
 
 İstem kısıtlayıcıları å sembolüyle, 
 
-![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.288.png)         j = 1, 2, ..., n   ve   bj > 0                                                                   7.3
+![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.288.png)         j = 1, 2, ..., n   ve   bj > 0                                                                   7.3
 
 şeklindedir.
 
@@ -6040,7 +6040,7 @@ Negatif olmama koşulunun yazılmasıyla ulaştırma probleminin formülasyonu t
 
 7.2 ile 7.3’ün uygun olabilmeleri için, 
 
-` `![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.289.png)
+` `![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.289.png)
 
 olması gerektiği açıktır. 
 
@@ -6054,7 +6054,7 @@ Sunum merkezlerinin sunum kapasiteleri ile ilgili kısıtlayıcı koşullar tab
 ##### ***Tablo 7.1***
 `                                       `***Ulaştırma Modeli Tablosu***
 
-![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.290.png)
+![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.290.png)
 
 Ulaştırma probleminin modellenmesi ve ulaştırma tablosunun kurulması konusunda söylediklerimizi, basit bir örnek problem üzerinde uygulayalım.
 
@@ -6089,7 +6089,7 @@ Toplam istem = 150 + 75 + 175 + 300 = 700 ton
 
 ***Tablo 7.2***
 ##### ***Problem 7.1’in Ulaştırma Modeli Tablosu***
-![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.291.png)
+![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.291.png)
 
 ***c***. Amaç, en küçük toplam ulaştırma maliyetini belirlemek olduğuna göre,
 
@@ -6116,12 +6116,12 @@ Her bir fabrikadan gönderilecek deterjan miktarı o fabrikanın üretim miktar
 | :- |
 
 
-![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.292.png)x11 + x12 + x13 + x14 =  50 
+![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.292.png)x11 + x12 + x13 + x14 =  50 
 |Sunum kısıtlayıcıları|
 | :- |
 
 
-![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.293.png)x21 + x22 + x23 + x24 = 200      
+![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.293.png)x21 + x22 + x23 + x24 = 200      
 
 x31 + x32 + x33 + x34 = 150  
 
@@ -6132,14 +6132,14 @@ yazılabilir.
 | :- |
 
 
-![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.294.png)Diğer taraftan, her satış deposunun ürün gereksiniminin tam olarak karşılanması istendiğinden,
+![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.294.png)Diğer taraftan, her satış deposunun ürün gereksiniminin tam olarak karşılanması istendiğinden,
 
 x11 + x21 + x31 + x41 = 150 
 |İstem kısıtlayıcıları|
 | :- |
 
 
-![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.295.png)x12 + x22 + x32 + x42 =   75  
+![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.295.png)x12 + x22 + x32 + x42 =   75  
 
 x13 + x23 + x33 + x43 = 175  
 
@@ -6205,7 +6205,7 @@ Kuzey-batı köşesi yöntemini aşağıdaki örnek probleme uygulayalım. Yönt
 
 ***Problem 7.2’nin Başlangıç Tablosu***
 
-![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.296.png)
+![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.296.png)
 
 ***Çözüm 7.2***: Ulaştırma problemlerinin modellenmesine ilişkin bir örnek daha olması bakımından önce problemin matematiksel modelini kuralım.
 
@@ -6218,12 +6218,12 @@ Kısıtlayıcı fonksiyonlar,
 | :- |
 
 
-![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.297.png)x11 + x12 + x13 + x14 =  40 
+![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.297.png)x11 + x12 + x13 + x14 =  40 
 |Sunum kısıtlayıcıları|
 | :- |
 
 
-![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.298.png)x21 + x22 + x23 + x24 =  60
+![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.298.png)x21 + x22 + x23 + x24 =  60
 
 x31 + x32 + x33 + x34 =  40  
 
@@ -6232,12 +6232,12 @@ x41 + x42 + x43 + x44 =  50
 | :- |
 
 
-![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.299.png)x11 + x21 + x31 + x41 =  55 
+![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.299.png)x11 + x21 + x31 + x41 =  55 
 |İstem kısıtlayıcıları|
 | :- |
 
 
-![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.300.png)x12 + x22 + x32 + x42 =  25  
+![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.300.png)x12 + x22 + x32 + x42 =  25  
 
 x13 + x23 + x33 + x43 =  50  
 
@@ -6277,7 +6277,7 @@ Ayrıca satır ve sütun gerekleri tam olarak karşılandığından, bu temel 
 
 ***Belirlenen Başlangıç Çözümü***
 
-![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.301.png)
+![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.301.png)
 
 Çözüme ilişkin toplam maliyetin bulunması için, temel değişken değerlerinin ait oldukları gözelere ilişkin birim taşıma maliyetleriyle çarpımlarının toplanması gerekir. Buna göre toplam maliyet aşağıdaki gibi hesaplanacaktır([\[25\]](#_ftn25)).
 
@@ -6305,7 +6305,7 @@ Yukarıda kuzey-batı köşesi yöntemiyle çözülen örnek problemi bu yaklaş
 
 ***7.2. Problemin Başlangıç Tablosu***
 
-![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.302.png)
+![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.302.png)
 
 Tablodan görüldüğü gibi, birinci satırın en düşük (3) maliyeti F1D2’ye ait olduğundan, dağıtıma bu göze ile başlanacak, yani ilk olarak x12 değişkeninin değeri belirlenecektir. Bu gözenin işaret ettiği deponun istemi 25 birim, bu istemi karşılamak durumunda olan birinci fabrikanın sunumu 40 birim olduğundan, bu gözeye en fazla 25 makine gönderilebilir. Bu dağıtımla birinci fabrikanın sunumu tamamiyle dağıtılmadığından, aynı satırın ikinci en düşük maliyetli gözesine geçilir. Birinci satırda birden fazla ikinci en düşük maliyetli göze olduğundan, dağıtım sütun sayısı daha küçük olan F1D1 gözesine yapılacaktır. Bu gözeye en fazla, birinci fabrikanın  sunumunun kullanılmayan kısmı kadar, yani 15 (= 40 - 25) makine gönderilebilir. Bu dağıtımla birinci fabrikanın 40 birim olan sunumunun tamamı ilk iki depo için kullanılmış olur. Birinci fabrikanın sunumuyla ilgili satır gereği yerine getirilmiş olduğundan ikinci satıra geçilir.
 
@@ -6319,7 +6319,7 @@ Dördüncü satırın devre dışı kalmamış tek gözesi olan F4D4’e en faz
 
 ***7.2. Problemin Satır Yaklaşımıyla Elde Edilen Başlangıç Çözümü***
 
-![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.303.png)
+![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.303.png)
 
 Tablo 7.6 incelendiğinde, gerçekleştirilen dağıtımlarla depo istemlerinin tam olarak karşılandığı ve fabrikaların sunumunun eksiksiz dağıtıldığı görülebilir. Bu nedenle, tablodaki çözüm uygun bir çözümdür.
 
@@ -6351,7 +6351,7 @@ En düşük maliyetli gözeler yönteminin sütun yaklaşımını aynı örnek p
 
 ***7.2. Örnek Problemin Başlangıç Tablosu***
 
-![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.304.png)
+![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.304.png)
 
 Bu göndermeyle birinci deponun tüm gereksinimi karşılanamadığından, aynı sütunun ikinci en düşük (3) maliyetli gözesi olan F3D1’e geçilir. Bu gözeye en fazla D1’in isteminin karşılanmayan kısmı kadar, yani 5 (= 55 - 50) makine gönderilebilir. Bu göndermeyle birinci deponun istemiyle ilgili sütun gereği yerine getirilmiş olduğundan, ikinci sütuna geçilir. İkinci sütunun en düşük maliyetli (3 TL) gözesi (F4D2 bir önceki dağıtımla devre dışı kaldığından) F1D2’dir. Bu gözeye en fazla bu gözenin işaret ettiği deponun istemi kadar, yani 25 makine gönderilebilir. Bu göndermeyle ikinci depoyla ilgili sütun gereği sağlandığından yeni dağıtım için üçüncü sütuna geçilir.
 
@@ -6367,7 +6367,7 @@ x12 = 25,  x13 = 15, x23 = 35, x24 = 25, x31 = 5,  x34 = 35, x41 = 50.
 
 ***7.2. Problemin Sütun Yaklaşımıyla Bulunan Başlangıç Çözümü***
 
-![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.305.png)
+![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.305.png)
 
 Tablo 7.8’den görüldüğü gibi ulaşılan çözüm temel (temel değişken sayısı = 7 olduğundan) uygun bir çözümdür. Çözüme ilişkin toplam maliyet aşağıdaki gibi hesaplanmıştır.
 
@@ -6411,7 +6411,7 @@ Pozitif değerli temel değişken sayısı 7 (= m + n - 1)’ye eşit olduğunda
 # **Tablo  7.9**
 ***7.2. Problemin Genel Yaklaşımla Bulunan Başlangıç Çözümü***
 
-![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.306.png)
+![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.306.png)
 
 Kolayca kontrol edilebileceği gibi, aynı zamanda uygun olan bu çözüme ilişkin toplam maliyet, önceden olduğu gibi  temel değişken değerlerinin kendilerine karşılık gelen birim ulaştırma maliyetlerinin karşılıklı çarpımlarının toplanmasıyla aşağıdaki gibi hesaplanacaktır. 
 
@@ -6460,13 +6460,13 @@ Satırlar itibariyle hesaplanan farkların yer aldığı ek sütun ile sütunlar
 # `                                                       `**Tablo 7.10**
 `                      `***7.2. Problemin VAM (Birinci Deneme) Çözümü***
 
-![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.307.png)**         
+![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.307.png)**         
 
 Söz konusu sütunun en düşük (1) maliyetli gözesi F4D1’dir. a4 < b1 (50 < 55) olduğundan, bu gözeye en fazla 50 birim taşınabilir. Böylece, dördüncü fabrikanın sunumu tam olarak kullanıldığından, bu fabrika bir sonraki dağıtım işleminde dikkate alınmaz. Yeni tabloda birinci deponun gereksiniminin 5 (= 55 - 50) birim olacağı unutulmamalıdır. Dördüncü satırın devre dışı bırakılması ve birinci deponun isteminin 5 birime düşürülmesiyle, yeni dağıtım için hazırlanan tablo aşağıda gösterilmiştir. Tablodan görüldüğü gibi, en büyük fark (1) üç satır ve üç sütunda aynı anda ortaya çıkmıştır. En düşük (3) maliyete birinci satırla ikinci sütunun, ayrıca üçüncü satırla birinci sütunun kesiştiği yerlerdeki gözelerin (F1D2 ve F3D1) sahip oldukları dikkate alındığında, dağıtımın bu gözelerden birine yapılması gerektiği anlaşılır.  
 #### `                                                       `***Tablo 7.11***
 `	            `***7.2. Problemin VAM (İkinci Deneme) Çözümü***
 
-![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.308.png)
+![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.308.png)
 
 Yukarıdaki açıklamalar doğrultusunda ilk olarak, F1D2 gözesini ele alalım. Bu gözeye en fazla ikinci deponun istemi kadar, yani 25 birim transfer edilebilir. Bu taşımayla birinci fabrikanın toplam 40 birim olan sunumunun 25 birimlik kısmı kullanılmış olur. Bu dağıtımla ikinci deponun istemi tam olarak karşılandığından, bu depo bir sonraki dağıtım işleminde dikkate alınmaz.
 
@@ -6478,7 +6478,7 @@ Tablo 7.12’den görüldüğu gibi, en büyük farkın (2) ortaya çıktığı 
 
 `                          `***7.2. Problemin VAM (Üçüncü Deneme)Çözümü***
 
-![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.309.png)
+![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.309.png)
 
 Bu taşıma ile birinci deponun istemi tam olarak karşılanmış, üçüncü fabrikanın sunum miktarı 35(40 - 5) birime düşmüş olur.
 
@@ -6492,7 +6492,7 @@ Dördüncü deneme sonrası düzenlenen tablodan görüldüğü gibi bu kez en 
 
 `                       `***7.2. Problemin VAM (Dördüncü Deneme) Çözümü***
 
-![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.310.png)
+![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.310.png)
 
 İkinci fabrikanın 60 birim olan toplam sunumunun 50 birimlik kısmı kullanıldığından yeni hazırlanacak tabloda bu fabrikanın sunumunun 10 birim olduğu düşünülür. 
 
@@ -6502,7 +6502,7 @@ Yukarıdaki açıklamalar doğrultusunda hazırlanan beşinci deneme çözüm t
 
 ***7.2. Problemin VAM (Beşinci Deneme) Çözümü***
 
-![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.311.png)
+![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.311.png)
 
 Tablo 7.14’den görüldüğü gibi geriye bir sütun kaldığından, fark hesaplanamaz. Bu durumda dördüncü deponun toplam 60 birim olan istemi üç fabrikanın, daha önceki dağıtımlar sonrası ellerinde kalan kullanılabilir sunumlarıyla karşılanarak dağıtım işlemi Tablo 7.15’deki gibi planlanmış olur.
 
@@ -6510,7 +6510,7 @@ Tablo 7.14’den görüldüğü gibi geriye bir sütun kaldığından, fark hes
 
 ***7.2. Problemin VAM Yöntemiyle Bulunan Başlangıç Çözümü***
 
-![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.312.png)
+![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.312.png)
 
 Uygun dağıtımlarla hem satır hem de sütun gerekleri karşılandığından, tablodaki çözüm uygundur. Bu uygun çözümde bulunan temel değişkenler ve bu değişkenlerin değerleri:  x12 = 25,   x14 = 15,  x23 = 50, x24 = 10, x31 = 5, x34 = 35 ve  x41 = 50 olarak belirlenmiştir. Temel değişken sayısı 7 olduğundan bu çözüm de, önceki çözümler gibi temel çözüm olup toplam maliyet 720 TL olarak hesaplanmıştır.  
 
@@ -6559,7 +6559,7 @@ Oluşturulan sütun tablonun en sağına, satır ise tablonun en altına eklenir
 ## `                                                          `***Tablo  7.16***
 `                                           `***7.2. Problemin Başlangıç Tablosu***
 
-![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.313.png)
+![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.313.png)
 
 *2*. Yeni maliyet katsayılarının yazılması için boş bir tablo hazırlanır. İlk gözeden başlanarak yeni maliyet katsayıları hesaplanır.
 
@@ -6571,7 +6571,7 @@ Yukarıdaki açıklamalar doğrultusunda hazırlanan tablo aşağıda gösterilm
 ## `                                                        `***Tablo 7.17***
 `                     `***7.2. Problemin RAM (Birinci Deneme) Çözümü***
 
-![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.314.png)
+![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.314.png)
 
 F1D2 gözesine en fazla 25 birim transfer edilebilir. Bu dağıtımla ikinci deponun istemi tam olarak karşılandığından, bir sonraki dağıtım işleminde ikinci sütun dikkate alınmaz. Ayrıca, birinci fabrikanın  sunum  miktarının 15 (= 40 - 25) birim olarak düzeltilmesi gerekir. Yeni deneme çözüm tablosu aşağıda gösterilmiştir.
 
@@ -6579,7 +6579,7 @@ F1D2 gözesine en fazla 25 birim transfer edilebilir. Bu dağıtımla ikinci dep
 
 `                        `***7.2. Problemin RAM (İkinci Deneme) Çözümü***
 
-![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.315.png)
+![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.315.png)
 
 Tablo 7.18’in en yüksek maliyetli gözesi F4D1’dir.  Bu gözeye en fazla 50 birim aktarılabilir. Bu taşımayla birinci deponun 55 birim olan isteminin 50 birimlik kısmı karşılanmış, dördüncü fabrikanın sunumu tüketilmiş olur.
 
@@ -6587,7 +6587,7 @@ Dördüncü fabrikanın işlem dışı bırakılmasıyla bir sonraki dağıtım 
 # `                                                        `**Tablo 7.19**
 `                      `***7.2. Problemin RAM (Üçüncü Deneme) Çözümü***
 
-![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.316.png)
+![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.316.png)
 
 Tablo 7.19’un altı gözesi birden aynı yüksek (8) maliyete sahip olduğundan, dağıtım işlemi bunlardan herhangi birinin rasgele seçilmesiyle sürdürülebilir. Bu gözeleri F1D4’den başlayarak sırayla ele alıp uygun dağıtım miktarlarını belirleyelim. F1D4’e en fazla 15 birim transfer edilir. Bu dağıtımla birinci fabrikanın sunumunun tamamı kullanılmış, dördüncü deponun 60 birim olan toplam isteminin 15 birimlik kısmı karşılanmış olur.
 
@@ -6597,7 +6597,7 @@ F2D1’e geçelim. F2D1’e en fazla birinci deponun isteminin önceki dağıtı
 # **Tablo 7.20**
 ***7.2. Problemin RAM Yöntemiyle Elde Edilen Başlangıç Çözümü***
 
-![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.317.png)
+![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.317.png)
 
 Aynı zamanda uygun olan bu temel çözüme ilişkin toplam maliyet aşağıdaki gibi hesaplanmıştır.
 
@@ -6701,15 +6701,15 @@ Temel olmayan bir değişkenin çözüme girebilmesi için bir (bazı durumlard
 
 Kapalı çevrim oluşturulması işlemini çizgisel olarak aşağıdaki gibi gösterebiliriz.    
 
-![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.318.png)  
+![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.318.png)  
 
 Yukarıdaki çevrimde iki satır, iki sütun ve dört gözeden yararlanılmıştır. Bazı durumlarda, ikiden çok satır ve sütun ile çok sayıda göze kullanılması gerekebilir. Sözgelimi, aşağıda yine çizgisel olarak gösterilen çevrimleri oluşturabilmek için üç satır, üç sütun ve altı göze kullanılmıştır. 
 
-![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.319.png)
+![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.319.png)
 
-![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.320.png)
+![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.320.png)
 
-![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.321.png)
+![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.321.png)
 
 *3*. Seçilen boş gözeye (+), çevrimdeki her bir dolu gözeye sıra ile (+), (-), (+) işaretlerinin konulması. Yukarıdaki çevrimler incelendiğinde, işaret koyma işleminin nasıl gerçekleştirildiği görülecektir. 
 
@@ -6749,7 +6749,7 @@ Boş gözeler ve bunlara karşılık gelen gizli maliyetler aşağıda topluca g
 
 ***7.2. Problemin VAM Yöntemiyle Elde Edilen Başlangıç Çözümü***
 
-![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.322.png)
+![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.322.png)
 
 Boş gözelerin gizli maliyetleri:
 
@@ -6777,17 +6777,17 @@ Tüm gizli maliyetlerin sıfır ya da pozitif oldukları görülebilir. Bu, en
 
 Modi yöntemi, doğrusal programlamadaki dual problemin çözümünden hareket eden ve ulaştırma problemleri için kullanılan bir yöntemdir. Bu nedenle, yöntemi açıklamadan önce ulaştırma modelinin duali üzerinde duralım. Bilindiği gibi, her doğrusal programlama modeline karşılık gelen başka bir doğrusal programlama modeli vardır. Bunlardan birisi primal diğeri dual olarak isimlendirilir. Özel bir tür doğrusal programlama problemi olması nedeniyle, ulaştırma modelinin de duali vardır. Doğrusal ulaştırma modelinin 7.3. kesimde verdiğimiz matematiksel modelini, primal kabul edersek, dualini aşağıdaki gibi yazabiliriz. Ancak, daha önce primal kabul edilen modeli hatırlayalım.
 
-Zenk = ![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.323.png) 
+Zenk = ![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.323.png) 
 
-![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.324.png)= bj       j = 1, 2, ..., n
+![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.324.png)= bj       j = 1, 2, ..., n
 
-![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.325.png) = ai       i = 1, 2, ..., m
+![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.325.png) = ai       i = 1, 2, ..., m
 
 xij ³ 0          i = 1, 2, ..., m;     j = 1, 2, ..., n
 
 Yukarıdaki primal modelin amaç fonksiyonu en küçükleme tipinde olduğuna göre, dual  modelin  amaç fonksiyonu  en büyükleme tipinde olacaktır. Primal problemde (m + n) kısıtlayıcı fonksiyon olduğundan, dual modelde (m + n) dual değişken bulunacaktır. Primal problemin sunum kısıtlayıcılarına karşılık gelen dual değişkenler Ui (i = 1, 2, ..., m), istem kısıtlayıcılarına karşılık gelen değişkenler Vj (j = 1, 2, .., n) ile gösterildiğinde, dual modelin amaç fonksiyonu aşağıdaki gibi yazılabilecektir.
 
-Zenb = ![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.326.png)+![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.327.png)
+Zenb = ![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.326.png)+![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.327.png)
 
 Primal  modelde (m x n) değişken olduğundan, dual modelde (m x n) kısıtlayıcı  fonksiyon  bulunur. Dual  modelin kısıtlayıcı fonksiyonları aşağıdaki gibi gösterilir.
 
@@ -6817,7 +6817,7 @@ Aktarmalardan sonra elde edilen yeni çözümün temel olup olmadığının beli
 
 ***7.2. Problemin** **VAM Yöntemiyle Belirlenen Başlangıç Çözümü***
 
-![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.328.png)
+![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.328.png)
 
 Tablo 7.22’de depo ve fabrika numaralarının altında gösterilen Ui ve Vj değerleri ile gizli maliyetlerin hesaplanmasına ilişkin aritmetik işlemler aşağıda topluca gösterilmiştir.
 
@@ -6974,7 +6974,7 @@ k = m + n - 2 durumu için verilen açıklamalar, k < (m + n - 2) için de geçe
 
 ***Kuzey-Batı Köşesi Yöntemiyle Belirlenen Başlangıç Çözümü***
 
-![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.329.png)
+![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.329.png)
 
 ***Çözüm 7.3***: Herhangi bir çözümün en iyi olup olmadığı hakkında karar verebilmek için her şeyden önce çözümün temel ve uygun olup olmadığının incelenmesi gerekir. Bu nedenle, önce çözümün uygun olup olmadığını kontrol edelim. Tablo 7.23’ün de ortaya koyduğu gibi, bu çözümle tüm satır ve tüm sütun gerekleri yerine getirilmiş olduğundan, tablodaki çözüm uygundur. Bu uygun çözümün temel çözüm olması için temelde bulunan değişken sayısı (m + n - 1 = 5)’e eşit olmalıdır. Oysa, çözümdeki  temel değişkenlerin sayısı, x11 = 30, x22 = 60, x32 = 20, x33 = 80 olmak üzere dörttür. O halde, problemin kuzey-batı köşesi yöntemiyle belirlenen başlangıç çözümü bozuktur([\[31\]](#_ftn31)).
 
@@ -7010,13 +7010,13 @@ F2D1 ve F3D1 gözelerinin gizli maliyetleri sıfırdan küçük olduğundan tabl
 |**-**|
 | :-: |
 
-|<p></p><p>![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.330.png)![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.331.png)F1</p>|||||||
+|<p></p><p>![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.330.png)![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.331.png)F1</p>|||||||
 | :-: | - | -: | - | :-: | - | - |
 
 |2|
 | :-: |
 
-||<p></p><p>![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.332.png) </p><p>**30**</p>||||||
+||<p></p><p>![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.332.png) </p><p>**30**</p>||||||
 | :-: | - | -: | - | :-: | - | - |
 
 |**+**|
@@ -7028,13 +7028,13 @@ F2D1 ve F3D1 gözelerinin gizli maliyetleri sıfırdan küçük olduğundan tabl
 |3|
 | :-: |
 
-|||<p></p><p>![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.333.png)![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.334.png)**e**</p>| |F1|||
+|||<p></p><p>![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.333.png)![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.334.png)**e**</p>| |F1|||
 | :-: | - | -: | - | :-: | - | - |
 
 |2|
 | :-: |
 
-||||||<p></p><p>![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.335.png)**10**</p>|<p>** </p><p>**20**</p>|
+||||||<p></p><p>![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.335.png)**10**</p>|<p>** </p><p>**20**</p>|
 | :-: | - | -: | - | :-: | - | - |
 |F3|||||||
 
@@ -7047,7 +7047,7 @@ F2D1 ve F3D1 gözelerinin gizli maliyetleri sıfırdan küçük olduğundan tabl
 |**+**|
 | :- |
 
-||<p></p><p>![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.336.png)![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.337.png) </p>||||||
+||<p></p><p>![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.336.png)![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.337.png) </p>||||||
 | :-: | - | - | - | :-: | - | - |
 
 |**-**|
@@ -7059,19 +7059,19 @@ F2D1 ve F3D1 gözelerinin gizli maliyetleri sıfırdan küçük olduğundan tabl
 |6|
 | :-: |
 
-|||<p></p><p>![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.338.png)![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.339.png)            </p><p>`        `**20**</p>| |F3|||
+|||<p></p><p>![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.338.png)![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.339.png)            </p><p>`        `**20**</p>| |F3|||
 | :-: | - | - | - | :-: | - | - |
 
 |3|
 | :-: |
 
-||||||<p></p><p>![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.340.png)**20**</p>||
+||||||<p></p><p>![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.340.png)**20**</p>||
 | :-: | - | - | - | :-: | - | - |
 
 |6|
 | :-: |
 
-|||||||<p></p><p>![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.341.png)</p>|
+|||||||<p></p><p>![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.341.png)</p>|
 | :-: | - | - | - | :-: | - | - |
 Aktarmalardan sonra belirlenen çözüm aşağıda gösterilmiştir. 
 
@@ -7079,7 +7079,7 @@ Aktarmalardan sonra belirlenen çözüm aşağıda gösterilmiştir.
 
 ***Aktarmalardan Sonra Ulaşılan Gelişmiş Çözüm***
 
-![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.342.png)
+![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.342.png)
 
 Temel değişken sayısı 5 olduğundan, bozulma sorunu giderilmiştir.
 
@@ -7136,62 +7136,62 @@ F1D3 gözesiyle çevrim oluşturan dolu gözeler ve bu gözeler arasında yapıl
 |**-**|
 | :-: |
 
-|<p></p><p>![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.343.png)![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.344.png)![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.345.png)F1</p>|||||||
+|<p></p><p>![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.343.png)![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.344.png)![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.345.png)F1</p>|||||||
 | :-: | - | -: | - | :-: | - | - |
 
 |2|
 | :-: |
 
-||<p></p><p>![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.346.png) </p><p>**10**</p>||||||
+||<p></p><p>![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.346.png) </p><p>**10**</p>||||||
 | :-: | - | -: | - | :-: | - | - |
 
 |5|
 | :-: |
 
-|||<p></p><p>![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.347.png) </p>| |F1|<p> </p><p> </p>||
+|||<p></p><p>![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.347.png) </p>| |F1|<p> </p><p> </p>||
 | :-: | - | -: | - | :-: | - | - |
 
 |5|
 | :-: |
 
-|||||||<p></p><p>![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.348.png)**10**</p>|
+|||||||<p></p><p>![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.348.png)**10**</p>|
 | :-: | - | -: | - | :-: | - | - |
 ||||||||
 
 |**+**|
 | :-: |
 
-|<p></p><p>![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.349.png)F3</p>|||||||
+|<p></p><p>![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.349.png)F3</p>|||||||
 | :-: | - | - | - | :-: | - | - |
 
 |3|
 | :-: |
 
-||<p></p><p>![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.350.png)**20**</p>||||||
+||<p></p><p>![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.350.png)**20**</p>||||||
 | :-: | - | - | - | :-: | - | - |
 
 |6|
 | :-: |
 
-|||<p></p><p>![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.351.png)            </p>|||||
+|||<p></p><p>![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.351.png)            </p>|||||
 | :-: | - | - | - | :-: | - | - |
 
 |**-**|
 | :-: |
 
-|||<p></p><p>![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.352.png)          **80**</p>| |F3|||
+|||<p></p><p>![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.352.png)          **80**</p>| |F3|||
 | :-: | - | - | - | :-: | - | - |
 
 |3|
 | :-: |
 
-||||||<p></p><p>![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.353.png)**20**</p>||
+||||||<p></p><p>![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.353.png)**20**</p>||
 | :-: | - | - | - | :-: | - | - |
 
 |6|
 | :-: |
 
-|||||||<p></p><p>![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.354.png)**70**</p>|
+|||||||<p></p><p>![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.354.png)**70**</p>|
 | :-: | - | - | - | :-: | - | - |
 Tablo 7.26’daki aktarmalarla belirlenen yeni çözüm, aşağıdaki tabloda gösterilmiştir.
 \***
@@ -7203,7 +7203,7 @@ Tablo 7.26’daki aktarmalarla belirlenen yeni çözüm, aşağıdaki tabloda g�
 
 ***7.3. Problemin En İyi Çözümü***
 
-![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.355.png)
+![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.355.png)
 
 İkinci denemede ulaşılan bu çözümün en iyi olup olmadığını belirlemek amacıyla hesaplanan gizli maliyetler aşağıdadır.
 
@@ -7291,15 +7291,15 @@ Bu iki durumu ayrı ayrı ele alalım.
 
 Toplam sunumun toplam istemden büyük olması durumunda, sunum merkezlerinin tüm sunumunun dağıtılması zorunluluğu yoktur. Bu durumda, ulaştırma modelinin sunum kapasitesi ile ilgili kısıtlayıcı fonksiyonları aşağıdaki gibi yazılır.
 
-![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.356.png)         i = 1, 2, ..., m   ve   ai > 0   
+![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.356.png)         i = 1, 2, ..., m   ve   ai > 0   
 
 Yukarıdaki eşitsizliği eşitliğe dönüştürmek için sunum fazlası kadar mal istediği varsayılan *hayali* (*kukla*) bir istem merkezine ihtiyaç vardır. Başka bir deyişle,
 
-![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.357.png)         i = 1, 2, ..., m   ve   ai > 0   
+![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.357.png)         i = 1, 2, ..., m   ve   ai > 0   
 
 biçimindeki kısıtlayıcı fonksiyonların her birine xi,n+1 aylak değişkenlerini ekleyerek,
 
-![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.358.png) = ai        i = 1, 2, ..., m   ve   ai > 0   
+![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.358.png) = ai        i = 1, 2, ..., m   ve   ai > 0   
 
 bağıntısının sağlanması zorunludur.
 
@@ -7311,13 +7311,13 @@ Toplam sunumun toplam istemden büyük olduğu ulaştırma problemlerinin çöz
 # **Tablo 7.28**
 ***7.4. Problemin Başlangıç Tablosu***
 
-![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.359.png)
+![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.359.png)
 
 ***Çözüm 7.4***: Toplam sunum (1200) > toplam istem (1000) olduğundan, sunum fazlası kadar (200) mal istediği varsayılan hayali bir depoya gereksinim vardır. Hayali deponun eklenmesiyle problem aşağıdaki gibi olur. Problemin kuzey-batı köşesi yöntemiyle belirlenen başlangıç çözümü de aynı tabloda gösterilmiştir.
 # **Tablo 7.29**
 ***Kuzey-Batı Köşesi Yöntemiyle Bulunan Başlangıç Çözümü***
 
-![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.360.png)
+![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.360.png)
 
 Tablodan görüdüğü gibi, satır ve sütun gerekleri karşılandığından, ayrıca temelde bulunan değişken sayısı 7 olduğundan, tablodaki çözüm temel uygun bir çözümdür. Çözüme ilişkin toplam maliyet önceden olduğu gibi, temel değişken değerlerinin kendilerine karşılık gelen birim ulaştırma maliyetlerinin karşılıklı çarpımlarının toplanmasıyla 6040 TL olarak hesaplanmıştır. 6040 TL harcama gerektiren bu dağıtımın en iyiliğini modiyle denetleyelim. Ui ve Vj değerleri Tablo 7.29’da, hesaplama işlemleri aşağıda gösterilmiştir.
 
@@ -7381,7 +7381,7 @@ d25 = -1 < 0 olduğundan, x25 temele girmelidir. F2D5’le çevrim oluşturula
 
 `                   `***Aktarmadan Önce                                       Aktarmadan Sonra***
 
-![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.361.png)
+![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.361.png)
 
 Aktarmalardan sonra elde edilen yeni çözüm Tablo 7.31’de gösterilmiştir. Aktarma işlemiyle aslında bulunmayan hayali depoya 200 birim mal aktarıldığı görülebilir.
 
@@ -7395,7 +7395,7 @@ Modi yönteminin gerektirdiği işlemler (Ui ve Vj değerleri ile boş gözeleri
 
 ***Aktarmalar Sonucunda Ulaşılan Gelişmiş Çözüm***
 
-![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.362.png)
+![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.362.png)
 
 *Dolu Gözeler*:
 
@@ -7457,17 +7457,17 @@ En iyi olduğu belirlenen bu çözümün toplam maliyeti 5840 TL’dir.
 
 Toplam istemin toplam sunumdan büyük olması durumunda, sunum miktarı bazı istem merkezlerinin ihtiyacını karşılamakta yetersiz kalmaktadır. Bu durumda, istem kısıtlayıcıları, 
 
-![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.324.png)£ bj            j = 1, 2, ..., n  ve  bj ³ 0 
+![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.324.png)£ bj            j = 1, 2, ..., n  ve  bj ³ 0 
 
 olur.
 
 Formülasyondaki (£) işaretli kısıtlayıcıları eşitlik biçimine dönüştürmek için istem fazlası kadar mal sunduğu varsayılan hayali bir sunum merkezine ihtiyaç vardır. Başka bir deyişle, 
 
-![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.324.png)£ bj            j = 1, 2, ..., n   ve  bj ³ 0 
+![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.324.png)£ bj            j = 1, 2, ..., n   ve  bj ³ 0 
 
 şeklinde tanımlanan eşitsizliklere xm+1,j  aylak değişkenlerinin eklenmesiyle aşağıdaki eşitliğin sağlanması gerekir.
 
-![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.324.png)+ xm+1,j = bj            j = 1, 2, ..., n
+![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.324.png)+ xm+1,j = bj            j = 1, 2, ..., n
 
 Aylak değişkenlerin eklenmesiyle dengelenen problem bilinen yöntemlerle çözülebilir.
 
@@ -7483,7 +7483,7 @@ Toplam istemin toplam sunumdan büyük olması durumunda problemin dengelenmesi
 
 ***7.5. Problemin Başlangıç Tablosu***
 
-![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.363.png)
+![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.363.png)
 
 ***Çözüm 7.5***: Tablo 7.32’den  görüldüğü  gibi, toplam  istem >  toplam sunum olduğundan modele istem fazlası kadar (150 birim) mal sunduğu varsayılan hayali bir fabrikanın eklenmesi gerekir. Hayali fabrikanın eklenmesiyle düzenlenen başlangıç tablosu aşağıda gösterilmiştir. Aynı tabloda, VAM yöntemiyle elde edilen başlangıç çözümü ile modi yöntemiyle hesaplanan Ui ve Vj değerlerine yer verildiğine dikkat ediniz([\[33\]](#_ftn33)).
 
@@ -7491,7 +7491,7 @@ Toplam istemin toplam sunumdan büyük olması durumunda problemin dengelenmesi
 
 ***VAM Yöntemiyle Elde Edilen Başlangıç Çözümü***
 
-![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.364.png)
+![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.364.png)
 
 Tablodan görüldüğü gibi, satır ve sütun gerekleri eksiksiz karşılandığından ve temel değişken sayısı 7 olduğundan, ulaşılan başlangıç çözümü temel uygun çözümdür. Çözüme ilişkin toplam maliyet aşağıdaki gibi hesaplanmıştır.
 
@@ -7557,7 +7557,7 @@ F4D2 ile çevrim oluşturacak dolu gözeler F4D3, F3D2, F3D1, F2D1 ve F2D3 göze
 
 `                   `***Aktarmadan Önce                                       Aktarmadan Sonra***
 
-![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.365.png)
+![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.365.png)
 
 Aktarma işlemi sonucunda elde edilen yeni çözüm aşağıdaki tabloda verilmiştir. Tablodan  görüldüğü gibi, aktarmalarla ulaşılan  yeni çözümde  x12 = 50,  x23 = 75, x31 = 100, x32 = 25, x42 = 50, x44 = 100’dür. Çözüm, (m + n - 1 = 6) şartını sağladığından temel bir çözümdür. Toplam taşıma maliyeti aşağıda verilmiştir.
 
@@ -7569,7 +7569,7 @@ Yeni çözümle, önceki toplam maliyete göre F4D2  gözesine  taşınan  he
 
 ***Gözeler Arası Aktarmalardan Sonra Ulaşılan Çözüm***
 
-![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.366.png)
+![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.366.png)
 
 Tablo 7.35’den F1D2, F2D3, F3D1, F3D2, F4D2, F4D3 gözelerinin dolu oldukları görülebilir. Boş gözeler için uygun kapalı çevrimler oluşturulması ve boş gözelerin gizli maliyetlerinin hesaplanması gerekir. Gizli maliyet değerleri aşağıda gösterilmiştir. Gizli maliyetlerin hepsi ³ 0 olduğundan ulaşılan çözüm en iyidir. 
 
@@ -7595,7 +7595,7 @@ F4D1: d41 = C41 - C42 + C32 - C31 =  0 - 0 + 9 - 7 = 2
 
 ***7.6. Problemin En İyi Çözüm Tablosu*** 
 
-![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.367.png)
+![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.367.png)
 
 Dolu gözelerden hareketle dual değişkenlerin değerleri aşağıdaki gibi bulunmuştur.
 
@@ -7661,7 +7661,7 @@ d21 = 0 olması, aynı toplam maliyeti veren diğer bir en iyi çözüm olduğun
 
 `                           `***Aktarmadan Önce                                    Aktarmadan Sonra***
 
-![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.368.png)
+![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.368.png)
 
 Tablo 7.37’deki aktarmalardan sonra yeni dağıtım planı aşağıdaki gibi olur.
 
@@ -7669,7 +7669,7 @@ Tablo 7.37’deki aktarmalardan sonra yeni dağıtım planı aşağıdaki gibi o
 
 ***7.6. Problemin Alternatif En İyi Çözüm Tablosu***
 
-![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.369.png)*** 
+![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.369.png)*** 
 
 Tablo 7.36’daki çözüme alternatif olan bu çözümün toplam maliyeti, 
 
@@ -7693,7 +7693,7 @@ Bu durumu aşağıdaki örnek problem üzerinde açıklayalım.
 
 ***7.6. Problemin En İyi Çözüm Tablosu*** 
 
-![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.370.png)
+![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.370.png)
 
 Dolu gözelerden hareketle dual değişkenlerin değerleri aşağıdaki gibi bulunmuştur.
 
@@ -7755,7 +7755,7 @@ Tekrar yukarıdaki gizli maliyetlere dönelim ve alternatif en iyi çözümün b
 
 `                           `***Aktarmadan Önce                                    Aktarmadan Sonra***
 
-![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.371.png)
+![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.371.png)
 
 Tablo 7.37’deki aktarmalardan sonra yeni dağıtım planı aşağıdaki gibi olur.
 
@@ -7763,7 +7763,7 @@ Tablo 7.37’deki aktarmalardan sonra yeni dağıtım planı aşağıdaki gibi o
 
 ***7.6. Problemin Alternatif En İyi Çözüm Tablosu***
 
-![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.372.png)*** 
+![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.372.png)*** 
 
 Tablo 7.36’daki çözüme alternatif olan bu çözümün toplam maliyeti aşağıdaki gibi hesaplanacaktır. 
 
@@ -7823,7 +7823,7 @@ x1S = 20, x1M = 20, x2S = 60, x2K = 10, x3B = 20, x3K = 30, x4B = 40
 
 `               `***7.7. Problemin VAM’la Ulaşılan  Başlangıç Çözümü***
 
-![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.373.png)
+![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.373.png)
 
 En iyi olduğu belirlenen çözüme ilişkin toplam maliyet 3030 TL olarak hesaplanmıştır.
 
@@ -7837,7 +7837,7 @@ Her aşama için satır ve sütunların en yüksek kâr katsayılarının dikka
 
 `          `***7.8. Problemin VAM Yöntemiyle Bulunan Başlangıç Çözümü***
 
-![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.374.png)
+![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.374.png)
 
 Çözümün en iyi olup olmadığının araştırılmasında kullanılan boş gözelerin gizli kâr değerlerinin hesaplanması işlemleri aşağıda topluca gösterilmiştir.
 
@@ -7868,7 +7868,7 @@ F1M’le çevrim oluşturulacak dolu gözeler ve  gözelere konulan işaretler 
 ***Tablo 7.42***
 
 ***7.8. Problemin En İyi Çözümü***
-## ![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.375.png)
+## ![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.375.png)
 Bir önceki denemede 3010 TL olarak hesaplanan toplam kâr gizli kârı (+1) olan gözeye 20 çift ayakkabı yerleştirilmesiyle 20 TL artmış, böylece toplam kârın en büyük değeri 3030 TL (= 3010 + 20) veya 
 
 Toplam Kâr = (20 x 16) + (20 x 12) +(60 x 14) + (10 x 10) + (20 x 17) + (30 x 13)
@@ -7894,7 +7894,7 @@ Ulaştırma problemlerinde duyarlılık çözümlemesi en iyi çözüm tablosu a
 # `          `**Duyarlılık Çözümlemesinde Kullanılacak**
 ***En İyi Çözüm Tablosu***
 
-![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.376.png)
+![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.376.png)
 
 Buna göre,
 
@@ -8234,19 +8234,19 @@ m = n  koşulunun sağlanmadığı atama modeli  *standart olmayan*** vey
 
 Bilindiği gibi, Cij’lerin karşılık geldiği etkinlik ölçüsüne bağlı olarak amaç fonksiyonu en büyükleme veya en küçükleme türünde olur. Buna göre, atama modelinin amaç fonksiyonu, 
 
-Zenk/enb = ![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.377.png)                i = 1, 2, …, n;   j = 1, 2, …, n
+Zenk/enb = ![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.377.png)                i = 1, 2, …, n;   j = 1, 2, …, n
 
 olarak açıklanır.
 
 İlk olarak, her bir işin yalnızca bir makineye veya her bir işçinin tek bir işe atanacağı düşünülerek satırlarla ilgili kısıtlayıcı koşullar, 
 
-![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.325.png) = 1        i = 1, 2, ..., n
+![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.325.png) = 1        i = 1, 2, ..., n
 
 olarak formüle edilir.
 
 İkinci olarak, her bir işe yalnızca bir makine veya her bir işe tek bir işçi atanacağına göre sütunlarla ilgili kısıtlayıcı koşullar,
 
-![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.378.png) = 1        j = 1, 2, ..., n
+![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.378.png) = 1        j = 1, 2, ..., n
 
 biçiminde açıklanır.
 
@@ -8279,12 +8279,12 @@ Zenk = 20x11 + 11x12 + 3x13 + 6x14 + 5x21 + 9x22 + 10x23  + 2x24 + 18x31 + 7x32
 
 Her bir makine mutlaka bir işe atanacağından,
 
-![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.379.png)x11 + x12 + x13 + x14 = 1
+![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.379.png)x11 + x12 + x13 + x14 = 1
 |Makine Kısıtlayıcıları|
 | :- |
 
 
-![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.380.png)x21 + x22 + x23 + x24 = 1         
+![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.380.png)x21 + x22 + x23 + x24 = 1         
 
 x31 + x32 + x33 + x34 = 1
 
@@ -8294,12 +8294,12 @@ yazılabilir.
 
 Öte yandan, her bir işin mutlaka tamamlanması gerektiğinden, iş kısıtlayıcıları aşağıdaki gibi yazılabilecektir.
 
-![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.381.png)x11 + x21 + x31 + x41 = 1
+![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.381.png)x11 + x21 + x31 + x41 = 1
 |İş Kısıtlayıcıları|
 | :- |
 
 
-![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.382.png)x12 + x22 + x32 + x32 = 1	
+![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.382.png)x12 + x22 + x32 + x32 = 1	
 
 x13 + x23 + x33 + x43 = 1
 
@@ -8319,7 +8319,7 @@ Herhangi bir atama problemi, olanaklı tüm atamaların (bire bir eşlemelerin) 
 
 ***7.10. Problemin Başlangıç Çözümü***
 
-![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.383.png)
+![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.383.png)
 
 Tablodan görüldüğü gibi, çözüm uygun olmakla birlikte temel değişkenlerin sayısı 4 (¹ 7) olduğundan, temel çözüm özelliği taşımamaktadır. Bozulmayı giderme amacıyla 3 gözeye e yerleştirilmeye çalışılsa da, bire bir eşleme zorunlu olduğundan, çözüm bozuk olma özelliğini sürdürücektir.
 
@@ -8327,11 +8327,11 @@ Atama problemlerini kendilerine özgü tekniklerle daha az zaman ve daha az emek
 
 Atama problemlerinin çözümünde kullanılan etkin bir yöntem olan Macar yöntemi Macar matematikçi D. Konig tarafından formüle edilen sisteme dayanmaktadır. Bu system,  elemanları kısmen sıfır kısmen de sıfırdan farklı pozitif sayılar olan kuadratik her matris için bağlantı doğrularının minimum sayısı bağımsız noktaların maksimum sayısına eşittir, ifadesine dayanmaktadır. Macar yönteminin atama problemlerinin çözümüne uygulanabilmesi için Cij’lerin negatif olmaması gerekir. Yöntem, standart atama matrisinin herhangi bir satır veya sütununun tüm elemanlarına sabit bir sayının eklenmesi veya çıkartılmasının en iyi çözümü değiştirmediği esasına dayanır. Sözgelimi, herhangi bir işi birinci makinede yapmanın maliyeti k kadar azaltıldığında atama probleminin amaç fonksiyonu aşağıdaki gibi olur.
 
-Z = ![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.384.png)
+Z = ![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.384.png)
 
-`    `= ![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.385.png)- k![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.325.png)
+`    `= ![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.385.png)- k![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.325.png)
 
-![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.325.png)= 1 olduğu ve birinci makinenin yalnızca bir iş için kullanılacağı göz önünde bulundurulduğunda amaç fonksiyonu,
+![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.325.png)= 1 olduğu ve birinci makinenin yalnızca bir iş için kullanılacağı göz önünde bulundurulduğunda amaç fonksiyonu,
 
 Z = (Orijinal amaç fonksiyonu) - k
 
@@ -8384,9 +8384,9 @@ Bundan sonra, en iyi atama planını araştırmak amacıyla indirgenmiş süre t
 
 | |İş|
 | :-: | :-: |
-|Makine|1|![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.386.png)2|3|4|
-|1|14|3|![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.387.png)**0**|![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.388.png)3|
-|![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.389.png)2|**0**|2|8|0|
+|Makine|1|![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.386.png)2|3|4|
+|1|14|3|![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.387.png)**0**|![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.388.png)3|
+|![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.389.png)2|**0**|2|8|0|
 |3|14|1|3|**0**|
 |4|1|**0**|12|0|
 Çizilen çizgi sayısı satır ve sütun sayısına eşit olduğundan en iyi atama planı elde edilmiştir. En iyi atama planı, tabloda koyu renk basılmış sıfır değerli elemanların bulunduğu gözelere ayırım yapılarak belirlenir. Buna göre,
@@ -8442,10 +8442,10 @@ Bütün sıfır değerlerinden geçen en az sayıdaki çizgiler de aynı tablod
 | |Bölge|
 | :-: | :-: |
 |Eleman|1|2|3|4|5|
-|![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.390.png)1|0|6|![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.391.png)0|7|0|
+|![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.390.png)1|0|6|![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.391.png)0|7|0|
 |2|5|3|0|6|4|
-|![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.390.png)3|3|0|0|4|2|
-|![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.390.png)4|5|0|0|0|2|
+|![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.390.png)3|3|0|0|4|2|
+|![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.390.png)4|5|0|0|0|2|
 |5|2|2|0|2|3|
 Üzerinden çizgi geçmeyen elemanlardan en küçüğünün 2’ye eşit olduğu görülebilir. Bu değer, üzerinden  çizgi  geçmeyen elemanlardan (5, 6, 4, 3, 4, 2, 2, 2, 3) çıkartılır, çizgilerin kesişim  noktalarındaki elemanlara (0, 0, 0) eklenirse (üzerinden tek çizgi geçen elemanlar değişmeden kalır) aşağıdaki tabloya ulaşılır.
 
@@ -8456,10 +8456,10 @@ Bütün sıfır değerlerinden geçen en az sayıdaki çizgiler de aynı tablod
 | |Bölge|
 | :-: | :-: |
 |Eleman|1|2|3|4|5|
-|![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.392.png)A|0|![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.393.png)4|2|![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.394.png)7|0|
+|![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.392.png)A|0|![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.393.png)4|2|![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.394.png)7|0|
 |B|3|1|0|4|2|
-|![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.395.png)C|3|0|2|4|2|
-|D|![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.392.png)5|0|2|0|2|
+|![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.395.png)C|3|0|2|4|2|
+|D|![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.392.png)5|0|2|0|2|
 |E|0|0|0|0|1|
 
 
@@ -8527,10 +8527,10 @@ Fırsat kayıpları matrisinin her satırında en az bir sıfır bulunduğundan 
 | |Bölge|
 | :-: | :-: |
 |Eleman|1|2|3|4|
-|1|![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.396.png) **0\***|10|5|3|
-|2|![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.397.png)0|**0**\*|**0**|8|
-|![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.398.png)3|0|7|4|**0\***|
-|4|![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.398.png)12|**0**|0\*|2|
+|1|![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.396.png) **0\***|10|5|3|
+|2|![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.397.png)0|**0**\*|**0**|8|
+|![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.398.png)3|0|7|4|**0\***|
+|4|![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.398.png)12|**0**|0\*|2|
 Tablodan görüldüğü gibi bütün sıfırların üzerinden geçen en az sayıdaki çizgilerin sayısı satır ve sütun sayısına eşit olduğundan, bu adımda yapılacak atamalar sonunda ortaya çıkacak çözüm en iyidir. Koyu renk basılmış sıfırlı gözelere yapılan bire bir eşlemeler sonucunda elde edilen en iyi atama planı aşağıda verilmiştir.
 
 1’inci eleman, 1’inci bölgeye,
@@ -8567,7 +8567,7 @@ Diğer bütün doğrusal programlama problemleri gibi aktarmalı ulaştırma pro
 
 Bir sunum merkezinin toplam sunum kapasitesi, kendi sunum miktarı (ai) ile buraya diğer merkezlerin istemlerini karşılamak amacıyla gönderilen ürün miktarı toplamına eşittir. Buna göre, sunum merkezlerinin sunumları ile ilgili olarak,
 
-![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.399.png)= ai + Ti          i = 1, 2, ..., m
+![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.399.png)= ai + Ti          i = 1, 2, ..., m
 
 yazılabilir.
 
@@ -8577,23 +8577,23 @@ Burada, ai önceden olduğu gibi i nolu sunum merkezinin sunum kapasitesini, Ti
 
 Diğer taraftan, bir istem merkezinin sunumu diğer merkezlerin istemini karşılamak üzere kendisine transfer edilen ürün miktarına eşit olacaktır. Buna göre, istem merkezlerinin sunumları ile ilgili olarak,
 
-![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.399.png)= Ti               i = m + 1, m + 2, ..., m + n
+![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.399.png)= Ti               i = m + 1, m + 2, ..., m + n
 
 yazılabilir. Ti, i nolu istem merkezine fazladan transfer edilen ürün miktarını göstermektedir.
 
 Bir sunum merkezinin istemi bu merkezden diğer merkezlere aktarmalı olarak transfer edilecek ürün miktarına eşit olacağına göre, 
 
-![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.400.png)= Tj               j = 1, 2, ..., m
+![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.400.png)= Tj               j = 1, 2, ..., m
 
 yazılabilir.
 
-Son olarak, bir istem merkezinin toplam ihtiyacı kendi istemi ile diğer merkezlere göndereceği ürün miktarı toplamına eşit olacağından, aşağıdaki eşitlik sağlanmalıdır. ![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.400.png)= bj + Tj       j = m +1, m +2, ..., m + n
+Son olarak, bir istem merkezinin toplam ihtiyacı kendi istemi ile diğer merkezlere göndereceği ürün miktarı toplamına eşit olacağından, aşağıdaki eşitlik sağlanmalıdır. ![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.400.png)= bj + Tj       j = m +1, m +2, ..., m + n
 
 Bu yolla sunum merkezlerinin sunumları ile istem merkezlerinin istemleri ile ilgili kısıtlayıcı fonksiyonlar tanımlanmış olur. Aktarmalı ulaştırma modelinin kısıtlayıcıları  incelendiğinde, ulaştırma modelinde (m + n) olan kısıtlayıcı fonksiyon sayısının aktarmalı ulaştırma modelinde (2m + 2n) olduğu  görülebilir. Bu kısıtlayıcı fonksiyonlar ile ulaştırma modelinin kısıtlayıcı fonksiyonları arasındaki en önemli fark, aktarmalı ulaştırma modelinin kısıtlayıcı fonksiyonlarının sağ taraflarındaki T’lerin bilinmiyor olmalarıdır.  *Tampon stok*  olarak da isimlendirilen T’lerin bebelirlenmesi aktarmalı ulaştırma modelinin düzenlenmesinin önemli bir aşamasıdır. T’lerin belirlenmesinde izlenen yol çok pratiktir. Şöyle ki, herhangi bir merkezden aktarmalı olarak taşınabilecek ürün miktarı, o merkezin sunum kapasitesini ya da istem miktarını aşamayacağından, T’lerin orijinal toplam sunuma (åai = åbj, i = 1, 2, ..., m) en azından eşit olacak biçimde seçilmesi amacı gerçekleştirecektir.
 
 Aktarmalı taşımaların birim maliyetlerinin belirlenmesinden sonra amaç fonksiyonu aşağıdaki gibi yazılabilir.
 
-Zenk/enb = ![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.377.png)                i = 1, 2, …, m + n;   j = 1, 2, …, m + n
+Zenk/enb = ![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.377.png)                i = 1, 2, …, m + n;   j = 1, 2, …, m + n
 
 Modelin negatif olmama koşulu aşağıda gösterilmiştir. 
 
@@ -8607,7 +8607,7 @@ Aktarmaların mümkün olduğu bir ulaştırma probleminin aktarmalı ulaştır
 
 ***Örnek 7.14***: Aşağıdaki ulaştırma problemini aktarmalı ulaştırma problemi olarak çözünüz.
 
-![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.401.png)
+![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.401.png)
 
 ` `***Çözüm 7.14***: Aktarmalı ulaştırma tablosunu oluşturmadan önce tampon stok miktarını belirleyebilmek için toplam sunum-toplam istem eşitliğinin sağlanıp sağlanmadığını kontrol edelim.
 
@@ -8627,7 +8627,7 @@ Tabloda görüldüğü gibi, aktarmalı mal taşıma maliyetleri belli  değil
 
 ***Eksik Verili Aktarmalı Ulaştırma Tablosu***
 
-![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.402.png)
+![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.402.png)
 
 Yukarıdaki açıklamalar doğrultusunda hazırlanan genişletilmiş ulaştırma tablosu aşağıda gösterilmiştir.
 
@@ -8653,7 +8653,7 @@ En iyi dağıtım planının yer aldığı tablonun ortaya koyduğu gibi, ikinci
 
 ***Altı Deneme Sonucunda Elde Edilen En İyi Çözüm***
 
-![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.403.png)
+![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.403.png)
 
 
 
@@ -8703,11 +8703,11 @@ En iyi dağıtım planının yer aldığı tablonun ortaya koyduğu gibi, ikinci
 
 ***e***. VAM yöntemiyle bulduğunuz başlangıç çözümünden  hareketle en iyi çözümü elde ediniz. 
 
-![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.404.png)
+![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.404.png)
 
 ***3***. Ulaştırma modeli başlangıç tablosu aşağıdaki gibi olan problemin,
 
-![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.405.png)
+![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.405.png)
 
 ***a***. Primal ulaştırma modelini kurunuz.
 
@@ -8727,7 +8727,7 @@ En iyi dağıtım planının yer aldığı tablonun ortaya koyduğu gibi, ikinci
 
 ***3***. Ulaştırma tablosu aşağıda verilen problemin en iyi çözümünü göze değiştirme ve modi yöntemi uygulamalarıyla belirleyiniz.
 
-![](Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.406.png)
+![](media/Aspose.Words.8f56c9dd-e2a4-4e95-88ae-cadd8f4cdefe.406.png)
 
 ***4***. Ayşe  Hanım’ın Haziran, Temmuz ve Ağustos aylarını kapsayan üç aylık bir tatili vardır. Ayşe Hanım tatilinin her bir ayını farklı bir tatil beldesinde geçirmek istemektedir. Aylara göre farklı beldelerde tatil yapmanın maliyetleri aşağıdaki tabloda gösterilmiştir. En küçük toplam maliyetli tatil planını belirleyiniz.
 
