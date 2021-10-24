@@ -1,10 +1,10 @@
-### *Bölüm 1*
+## *Bölüm 1*
 
-### *KARAR VERME ve MODELLER*
+## *KARAR VERME ve MODELLER*
 
-# 
 
-## 1.1 GİRİŞ
+
+### 1.1 GİRİŞ
 
 İnsan yaşamı bir dizi karar verme durumunu içeren bir süreçtir. Her insan günlük
 yaşantısında ne yiyeceği, ne giyeceği, saat kaçta uyuyacağı, TV’de hangi
@@ -38,7 +38,7 @@ durulacaktır. Bu bölümde ele alınan konular karar verme ile ilgili kavramlar
 tamamını içermemektedir. Bununla birlikte, açıklamaların kitap kapsamındaki
 konuları anlamak bakımından yeterli olacağı kanısında olduğumuzu belirtmeliyiz.
 
-## 1.2 KARAR VERME SÜRECİ
+### 1.2 KARAR VERME SÜRECİ
 
 Dar anlamda karar verme, çeşitli alternatifler arasından en uygun olanının
 seçiminin yapıldığı bir süreç olarak tanımlanabilir. *Karar verme süreci*, ilk
@@ -251,13 +251,13 @@ sonuçlarının uygulamaya konulmasıyla ilgilidir. Uygulama, model sonuçların
 sistemi uygulayacak olan kişilere anlaşılır bir çalışma yönergesiyle
 aktarılmasını da içerir.
 
-### *Bölüm 2*
+## *Bölüm 2*
 
-### *DOĞRUSAL PROGRAMLAMA*
+## *DOĞRUSAL PROGRAMLAMA*
 
 ## 
 
-## 2.1 GİRİŞ
+### 2.1 GİRİŞ
 
 Özellikle II. Dünya Savaşından sonra üretimin artan oranda makineleşmesi ve
 örgütlerin sürekli büyümeleri sonucu etkileşim uzaylarının genişlemesi,
@@ -304,7 +304,7 @@ Bu süreçte doğrusal programlama problemlerinin bilgisayar programları
 hazırlanmış ve büyük boyutlu problemlerde rahatlıkla uygulanabilmesi sağlanmış
 ve uygulama alanları genişlemiştir.
 
-## 2.2 DOĞRUSAL PROGRAMLAMANIN TANIMI
+### 2.2 DOĞRUSAL PROGRAMLAMANIN TANIMI
 
 Doğrusal programlama için bir dizi tanım yapılmıştır. Verilen tüm tanımları ele
 almaya ve tartışmaya gerek yoktur. Aşağıdaki tanım kanımızca en tatminkar
@@ -623,7 +623,7 @@ problemi orijinalinden daha basit olan bu amaç fonksiyonunu kullanarak çözmek
 çözüm tamamlandığında amaç fonksiyonunun en iyi değeri olarak bulunan sonucu 10
 ile çarpmaktan ibarettir.
 
-## 2.5 DOĞRUSAL PROGRAMLAMANIN MODELLENMESİ
+### 2.5 DOĞRUSAL PROGRAMLAMANIN MODELLENMESİ
 
 Doğrusal programlama modellerinin kurulması ile ilgili örnek problemlere
 geçmeden önce herhangi bir problemin doğrusal programlama olarak formüle
@@ -1476,7 +1476,7 @@ tür problemlerin modellenmesi üzerinde durulmayacaktır.
 
 ## 
 
-## PROBLEMLER
+### PROBLEMLER
 
 **1**. Gülüm AŞ kuru ciltlerin bakımı için KUR, yağlı ciltlerin bakımı için YAĞ
 ve normal ciltlerin bakımı için NOR marka krem üretmeyi planlamaktadır.
@@ -1668,11 +1668,11 @@ siparişi kesme kaybını en küçük yapacak şekilde karşılamak istemektedir
 | 3               | 200          |
 | 5               | 250          |
 
-### *Bölüm 3*
+## *Bölüm 3*
 
-### *GRAFİKLE ÇÖZÜM YÖNTEMİ*
+## *GRAFİKLE ÇÖZÜM YÖNTEMİ*
 
-## 3.1 GİRİŞ
+### 3.1 GİRİŞ
 
 Doğrusal programlama problemlerinin çözümü için çeşitli yöntemler
 geliştirilmiştir. Bu bölümde, grafikle çözüm yöntemi örnek problemler
@@ -1686,7 +1686,7 @@ grafikle çözümün uygulama alanı değişken sayısı ile sınırlandırılm�
 Grafiklerde basitlik, anlatımda sadelik sağlamak bakımından bu bölümde yalnızca
 iki değişkenli doğrusal programlama problemleri ele alınacaktır.
 
-## 3.2 GRAFİKLE ÇÖZÜM YÖNTEMİ
+### 3.2 GRAFİKLE ÇÖZÜM YÖNTEMİ
 
 Grafikle çözüm yöntemine geçmeden önce iki değişkenli doğrusal eşitlik ve
 eşitsizliklerin koordinat sisteminde görüntülenmeleri üzerinde duralım. Genel
@@ -2301,7 +2301,7 @@ ZD = Z(4, 0) = 2(4) + 3(0) = 8
 
 ZE = Z(2, 0) = 2(2) + 3(0) = 4
 
-## 3.3 GRAFİK ÇÖZÜMDE KARŞILAŞILAN ÖZEL DURUMLAR
+### 3.3 GRAFİK ÇÖZÜMDE KARŞILAŞILAN ÖZEL DURUMLAR
 
 Buraya kadar ele alınan tüm örneklerin uygun çözüm bölgeleri konveks alanlar
 olarak ortaya çıkmış ve en iyi çözüme bu bölgelerin bir uç noktasında
@@ -2488,8 +2488,8 @@ noktanın her biri bu problemin en iyi çözümüdür.
 Örnek problemlerin ortaya koyduğu gibi, herhangi bir doğrusal programlama
 probleminin en iyi çözümü varsa, uygun çözüm bölgesinin en azından bir köşe
 noktası bu çözümü verecektir.
-
-## PROBLEMLER
+#
+### PROBLEMLER
 
 **1**. Aşağıdaki problemleri grafik yöntemiyle çözerek, sonuçları yorumlayınız.
 
@@ -2607,11 +2607,11 @@ X2 ≤ 2
 
 X1, X2 ≥ 0
 
-### *Bölüm 4*
+## *Bölüm 4*
 
-### *SİMPLEKS YÖNTEMİ*
+## *SİMPLEKS YÖNTEMİ*
 
-## 4.1 GİRİŞ
+### 4.1 GİRİŞ
 
 Doğrusal programlama problemlerinin çözümünü kavrayabilmek bakımından önemli
 olan grafik yöntemi, çok değişkenli doğrusal programlama problemlerinin
@@ -2632,7 +2632,7 @@ uygulanabilmesidir. Yöntemle ilgili açıklamalara geçmeden önce yöntemin ku
 açıklamaları üzerinde durmayacağımızı, simpleks yöntemini matematiksel olmayan
 bir yaklaşımla açıklayacağımızı belirtmeliyiz.
 
-## 4.2 KANONİK VE STANDART BİÇİMLER
+### 4.2 KANONİK VE STANDART BİÇİMLER
 
 Daha önce açıklandığı gibi problemin belirlenmesinden sonra yapılması gerekli en
 önemli iş, problemi en iyi biçimde temsil eden ve çözümü kolay olan bir modelin
@@ -2917,7 +2917,7 @@ X1, X2, , X4, , , X5, X6, X7, X8 ≥ 0
 
 olarak düzenlenmiş olur.
 
-## 4.3 SİMPLEKS YÖNTEMİN AÇIKLANMASI
+### 4.3 SİMPLEKS YÖNTEMİN AÇIKLANMASI
 
 Yukarıda belirtildiği gibi, simpleks yöntem herhangi bir doğrusal programlama
 problemine, eğer varsa, sınırlı sayıda tekrar sonucunda bir en iyi çözüm bulan
@@ -4028,9 +4028,9 @@ aşağıda gösterilmiştir.
 Tüm Zj - Cj ≤ 0 olduğundan, en iyi çözüme ulaşılmış ve X1 = 0, X2 = 9/2, X3 =
 15/2, X4 = 0, X5 = 0, A1 = 0, A2 = 0 ve Zenk = 33/2 olarak belirlenmiştir.
 
-## 4.4 SİMPLEKS YÖNTEM UYGULAMASINDA
+### 4.4 SİMPLEKS YÖNTEM UYGULAMASINDA
 
-## KARŞILAŞILAN ÖZEL DURUMLAR
+### KARŞILAŞILAN ÖZEL DURUMLAR
 
 Grafikle çözümde olduğu gibi, simpleks yöntemin uygulanması sırasında da ele
 alınan problemin niteliğine göre bazı özel durumlar ve bunlarla ilgili sorunlar
@@ -4727,7 +4727,7 @@ olduğu, dolayısıyla bir alternatif çözüm bulunduğu görülebilir.
 
 ## 
 
-## PROBLEMLER
+### PROBLEMLER
 
 1.  Aşağıdaki doğrusal programlama
 
@@ -4839,17 +4839,12 @@ X1, X2, X3 sınırlandırılmamış
 
 # 
 
-### *DUAL PROGRAMLAMA ve DUYARLILIK ÇÖZÜMLEMESİ*
-
-# 
-
-## 
+## *DUAL PROGRAMLAMA ve DUYARLILIK ÇÖZÜMLEMESİ*
+ 
 
 ## 
 
-## 
-
-## 5.1 GİRİŞ
+### 5.1 GİRİŞ
 
 Dual programlama ve duyarlılık çözümlemesi doğrusal programlamanın son derece
 önemli ve ilgi çekici iki konusudur. İlk olarak J. Von Neuman tarafından ortaya
@@ -4880,7 +4875,7 @@ iyi çözümü nasıl etkilediğinin incelenmesi uygun olur. En iyi çözümün
 parametrelerdeki değişmelere ne denli duyarlı olduğunun belirlenmesine ilişkin
 işlemlerin tümü *duyarlılık çözümlemesi* başlığı altında incelenir.
 
-## 5.2 DUAL PROBLEMİN TANIMI
+### 5.2 DUAL PROBLEMİN TANIMI
 
 Genel olarak dual doğrusal programlama problemini modellemek son derece basit ve
 mekanik bir işlemdir. Ancak, dual problemin *dual değişken* denilen karar
@@ -5320,7 +5315,7 @@ Y3 ≥ -M
 
 Y1, Y3 ≥ 0, Y2 işareti sınırlandırılmamış
 
-**5.3 DUALİTE KURAMI**
+### 5.3 DUALİTE KURAMI
 
 Dualite hem uygulama hem de kuram bakımından doğrusal programlamanın en önemli
 kavramlarından biridir. Herhangi bir primal problem ile onun duali arasında
@@ -5348,7 +5343,7 @@ fonksiyonlarının en iyi değerleri birbirine eşittir. Bu önermeye *temel dua
 *5*. Primal problemin uygun bir çözümü yoksa, dual problem sınırsız çözüme
 sahiptir.
 
-## 5.4 DUAL PROBLEMİN SİMPLEKS YÖNTEMLE ÇÖZÜMÜ
+### 5.4 DUAL PROBLEMİN SİMPLEKS YÖNTEMLE ÇÖZÜMÜ
 
 Dual problemlerin simpleks çözüm süreci ile primal problemlerin simpleks çözüm
 süreci arasında hiçbir fark yoktur. Bununla birlikte, problemlerden birinin en
@@ -5904,7 +5899,7 @@ maliyeti gösterir. Bu maliyetin değeri, III. tip ampulün satış fiyatından
 fazlaysa işletme bu malı üretmeyecektir. III. tip ampul üretimi ancak ve ancak
 üretim maliyeti 40 TL olursa gerçekleştirilecektir.
 
-## 5.5 DUYARLILIK ÇÖZÜMLEMESİ ve PRİMAL DUAL
+### 5.5 DUYARLILIK ÇÖZÜMLEMESİ ve PRİMAL DUAL
 
 ## İLİŞKİLERİNİN BAZI ÖNEMLİ SONUÇLARI
 
@@ -6677,7 +6672,7 @@ ve simpleks yöntemin bilinen işlemleriyle yeni en iyi çözüm elde edilecekti
 
 ## 
 
-## PROBLEMLER
+### PROBLEMLER
 
 **1**. Bir marangoz işletmesinde sıra, masa ve sandalye üretilmektedir. İşletme
 bir haftada 830 metre kereste doğrayabilmektedir. Doğranan keresteler
@@ -6742,11 +6737,11 @@ değişmesi en iyi çözümü nasıl ve hangi yönde etkiler açıklayınız.
 katsayıları sırasıyla 2, 2, 2 olan yeni bir değişkenin eklenmesi en iyi çözümü
 nasıl ve ne yönde etkiler? Açıklayınız.
 
-### *Bölüm 6*
+## *Bölüm 6*
 
-### *SİMPLEKS YÖNTEM VARYASYONLARI*
+## *SİMPLEKS YÖNTEM VARYASYONLARI*
 
-## 6.1 GİRİŞ
+### 6.1 GİRİŞ
 
 Simpleks çözüm yöntemi, her çeşit doğrusal programlama problemine uygulanabilir
 bir yaklaşım olmakla birlikte, diğer çözüm yöntemleri de araştırmacılar
@@ -6755,7 +6750,7 @@ amaç hesap etkinliğini arttırmak, yani aritmetik işlem ve zamandan tasarruf
 sağlamaktır. Bu bölümde, bu amaçla geliştirilen çözüm yöntemlerinden belli
 başlıcalarına yer verilecektir.
 
-## 6.2 DUAL SİMPLEKS YÖNTEM
+### 6.2 DUAL SİMPLEKS YÖNTEM
 
 Simpleks yöntemin tekrarlı bir hesaplama yöntemi olduğundan ve hesaplama
 işlemlerini başlatabilmek için bir *başlangıç* *temel uygun çözümün*
@@ -7068,7 +7063,7 @@ elde edilmesinde kullanılabilir. Bütün bunlardan başka dual simpleks yöntem
 yapay değişken kullanmayı gerektirmediğinden, hesaplamalarda kolaylık
 sağlamaktadır.
 
-## 6.3 İKİ AŞAMALI SİMPLEKS YÖNTEMİ
+### 6.3 İKİ AŞAMALI SİMPLEKS YÖNTEMİ
 
 Yapay değişken gerektiren doğrusal programlama problemlerinin büyük M yöntemiyle
 çözümünde hesaplamanın etkinliği sorunu vardır. Bu sorunun nedeni, yapay
@@ -7629,7 +7624,7 @@ Tüm Zj - Cj ≤ 0 olduğundan, tablodaki çözüm en iyidir. Bu en iyi çözüm
 
 ## 
 
-## 6.5 SINIRLI DEĞİŞKENLERLE SİMPLEKS YÖNTEMİ
+### 6.5 SINIRLI DEĞİŞKENLERLE SİMPLEKS YÖNTEMİ
 
 Doğrusal programlama problemlerinde çok sık olarak değişkenlerin değerleri için
 alt ve/veya üst sınırlar tanımlanır. Söz gelimi, bir diyet probleminde bir
@@ -8213,7 +8208,7 @@ açıklamalar alt-üst ikamesiyle çözümün etkinliğini ortaya koymaktadır.
 
 ## 
 
-## PROBLEMLER
+### PROBLEMLER
 
 **1**. Aşağıdaki doğrusal programlama problemlerini önce klasik simpleks
 yöntemiyle daha sonra dual simpleks yöntemle çözerek yöntemlerin hesaplama
@@ -8293,11 +8288,11 @@ X1, X2, X3 ≥ 0
 
 # 
 
-### *Bölüm 7*
+## *Bölüm 7*
 
-### *ULAŞTIRMA ve ATAMA MODELLERİ*
+## *ULAŞTIRMA ve ATAMA MODELLERİ*
 
-## 7.1 GİRİŞ
+### 7.1 GİRİŞ
 
 Doğrusal programlama probleminin özel bir biçimi olan ulaştırma problemi ve
 çözümü ilk olarak 1941 yılında Frank L. Hitchcock tarafından önerilmiş, Tjalling
@@ -8370,7 +8365,7 @@ Yukarıdaki varsayımların geçerli olması veya geçerliliklerinin sağlanmas�
 durumunda, herhangi bir problem ulaştırma modeli olarak formüle
 edilebilmektedir.
 
-## 7.3 ULAŞTIRMA MODELİNİN YAPISAL GÖRÜNÜMÜ
+### 7.3 ULAŞTIRMA MODELİNİN YAPISAL GÖRÜNÜMÜ
 
 Bir tür doğrusal programlama problemi olması nedeniyle bir ulaştırma probleminin
 modeli de; *1*. Amaç fonksiyonu, *2*. Kısıtlayıcı fonksiyonlar, *3*. Negatif
@@ -8639,7 +8634,7 @@ Xij ≥ 0 (i = 1, 2, 3, 4; j = 1, 2, 3, 4)
 
 yazılacak, böylece problem ulaştırma modeli olarak formüllenmiş olacaktır.
 
-## 7.4 ULAŞTIRMA PROBLEMLERİ ÇÖZÜM YÖNTEMLERİ
+### 7.4 ULAŞTIRMA PROBLEMLERİ ÇÖZÜM YÖNTEMLERİ
 
 Esas olarak, bir tür doğrusal programlama problemi olması nedeniyle, herhangi
 bir ulaştırma problemi doğrusal programlamanın genel çözüm yöntemi olan simpleks
@@ -9320,60 +9315,6 @@ oldukça yakın hatta en iyi çözümü başlangıçta vermesidir. Yöntem içer
 adımlar aşağıda açıklanmıştır.
 
 ### *1*. Başlangıç tablosunun her satır ve her sütunundaki en yüksek Cij maliyet katsayısı saptanır. Satır en büyükleriyle bir sütun, sütun en büyükleriyle bir satır oluşturulur.
-
-### 
-
-### 
-
-### 
-
-### 
-
-### 
-
-### 
-
-### 
-
-### 
-
-### 
-
-### 
-
-### 
-
-### 
-
-### 
-
-### 
-
-### 
-
-### 
-
-### 
-
-### 
-
-### 
-
-### 
-
-### 
-
-### 
-
-### 
-
-### 
-
-### 
-
-### 
-
-### 
 
 ### 
 
@@ -11311,7 +11252,7 @@ taşınan mal miktarı beş birim azaltılarak temel değişkenlerin değerleri,
 45, X41 = 55 ve X42 = 30 olarak belirlenir. Bu değişiklikle toplam maliyet 1350
 TL olarak olarak hesaplanacaktır.
 
-## 7.8 ÖZEL ULAŞTIRMA PROBLEMLERİ
+### 7.8 ÖZEL ULAŞTIRMA PROBLEMLERİ
 
 Ulaştırma modelinden tutarlı sonuçların elde edilmesi ulaştırma modelleri ile
 ilgili varsayımların geçerliliklerine bağlıdır. Bu varsayımlardan bazılarının
