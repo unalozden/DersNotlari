@@ -1,10 +1,10 @@
 ### *Bölüm 1*
 
-### *KARAR VERME ve MODELLER*
+## *KARAR VERME ve MODELLER*
 
 # 
 
-## 1.1 GİRİŞ
+### 1.1 GİRİŞ
 
 İnsan yaşamı bir dizi karar verme durumunu içeren bir süreçtir. Her insan günlük
 yaşantısında ne yiyeceği, ne giyeceği, saat kaçta uyuyacağı, TV’de hangi
@@ -38,7 +38,7 @@ durulacaktır. Bu bölümde ele alınan konular karar verme ile ilgili kavramlar
 tamamını içermemektedir. Bununla birlikte, açıklamaların kitap kapsamındaki
 konuları anlamak bakımından yeterli olacağı kanısında olduğumuzu belirtmeliyiz.
 
-## 1.2 KARAR VERME SÜRECİ
+### 1.2 KARAR VERME SÜRECİ
 
 Dar anlamda karar verme, çeşitli alternatifler arasından en uygun olanının
 seçiminin yapıldığı bir süreç olarak tanımlanabilir. *Karar verme süreci*, ilk
@@ -253,11 +253,11 @@ aktarılmasını da içerir.
 
 ### *Bölüm 2*
 
-### *DOĞRUSAL PROGRAMLAMA*
+## *DOĞRUSAL PROGRAMLAMA*
 
 ## 
 
-## 2.1 GİRİŞ
+### 2.1 GİRİŞ
 
 Özellikle II. Dünya Savaşından sonra üretimin artan oranda makineleşmesi ve
 örgütlerin sürekli büyümeleri sonucu etkileşim uzaylarının genişlemesi,
@@ -304,7 +304,7 @@ Bu süreçte doğrusal programlama problemlerinin bilgisayar programları
 hazırlanmış ve büyük boyutlu problemlerde rahatlıkla uygulanabilmesi sağlanmış
 ve uygulama alanları genişlemiştir.
 
-## 2.2 DOĞRUSAL PROGRAMLAMANIN TANIMI
+### 2.2 DOĞRUSAL PROGRAMLAMANIN TANIMI
 
 Doğrusal programlama için bir dizi tanım yapılmıştır. Verilen tüm tanımları ele
 almaya ve tartışmaya gerek yoktur. Aşağıdaki tanım kanımızca en tatminkar
