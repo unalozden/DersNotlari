@@ -1,13 +1,10 @@
-<<<<<<< HEAD
-**1**
 
-**Yöneylem Araştırması**
 
 ## BİRİNCİ BÖLÜM
 
-#### **YÖNEYLEM ARAŞTIRMASI METODOLOJİSİ**
+## **YÖNEYLEM ARAŞTIRMASI METODOLOJİSİ**
 
-# 1.1. Gİrİş
+### 1.1. Gİrİş
 
 Sanayi devrimiyle birlikte sınai işletmelerinin hızla büyümeleri sonucunda bir
 kişinin bütün yöneticilik fonksiyonlarını tek başına gerçekleştirmesi olanaksız
@@ -20,7 +17,7 @@ genellikle yıkıcı olması bölümleri, birbirlerinin amaç ve faaliyetlerini 
 önünde bulundurmak zorunda bırakmıştır. Bu tip sorunlar ve bunlara daha iyi
 çözüm bulma yaklaşımları da yöneylem araştırmasını doğurmuştur.
 
-# 1.2. YÖNEYLEM ARAŞTIRMASININ TARİHÇESİ
+### 1.2. YÖNEYLEM ARAŞTIRMASININ TARİHÇESİ
 
 Yöneylem araştırmasını anlamak için gelişme sürecinin bilinmesi uygun olur.
 Günümüz yöneylem araştırmasında kullanılan bazı model ve tekniklerin
@@ -94,7 +91,7 @@ gibi savunma kesiminde başlamıştır. Savunma kesimi dışında ilk yöneylem
 araştırması ekibi 1965 yılında Türkiye Bilimsel ve Teknik Araştırma Kurumu
 (TÜBİTAK) bünyesinde kurulmuştur.
 
-# 1.3. YÖNEYLEM ARAŞTIRMASININ TANIMI
+### 1.3. YÖNEYLEM ARAŞTIRMASININ TANIMI
 
 Yöneylem araştırması ile ilgili birbirlerinden farklı pek çok tanım verilebilir.
 Sıkça karşılaşılan tanımlardan bazıları şöyledir: Yöneylem araştırması, geçmiş
@@ -518,11 +515,11 @@ kalıplaşmış bir dizi işlemlerden oluşmadığını, sürekli yenilendiğini
 ve tekniklerle daha da etkin bir yaklaşım olma yönünde hızla geliştiğini
 belirtmeliyiz.
 
-BEŞİNCİ BÖLÜM
+## BEŞİNCİ BÖLÜM
 
-**TAMSAYILI DOĞRUSAL PROGRAMLAMA**
+## TAMSAYILI DOĞRUSAL PROGRAMLAMA
 
-# 5.1. GİRiŞ
+### 5.1. GİRiŞ
 
 Doğrusal programlamanın bölünebilirlik varsayımı göz ardı edildiğinde, diğer
 bütün varsayımlar aynı kalmak koşuluyla, doğrusal programlama tamsayılı doğrusal
@@ -538,7 +535,7 @@ doğrusal olmayan programlama çözüm yöntemlerinin uygulanması gerekir. Bu b
 tamsayı olma koşulu ihmal edildiğinde doğrusal programlamaya dönüşen tamsayılı
 doğrusal programlama açıklanacaktır.
 
-# 5.2. TAMSAYILI DOĞRUSAL PROGRAMLAMAYA GİRİŞ
+### 5.2. TAMSAYILI DOĞRUSAL PROGRAMLAMAYA GİRİŞ
 
 Bütün değişkenleri tamsayı olan doğrusal programlamaya "tamamen tamsayılı
 doğrusal programlama" denir. Tamamen tamsayılı programlamaya örnek olmak üzere
@@ -706,7 +703,7 @@ koyduğu gibi tamsayılı doğrusal programlamanın çözüm bölgesi, normal do
 programlama çözüm bölgesinin bir alt kümesi olmakla birlikte, tamsayı
 programlama problemini çözmek genellikle daha zordur.
 
-# 5.3. TAMSAYILI PROGRAMLAMA İLE MODELLEME
+### 5.3. TAMSAYILI PROGRAMLAMA İLE MODELLEME
 
 Bu kesimde tamsayılı programlama problemlerinin nasıl formülleneceği örnek
 problemlerle açıklanacaktır. Bu amaçla literatürde yaygın biçimde kullanılan ve
@@ -1511,7 +1508,7 @@ X3 ≤ 2(1 - y)
 olarak belirlenen kısıtlayıcı fonksiyonlar modele yerleştirildiklerinde, 1 nolu
 merkezin seçilmesi durumunda 2 ve 5 nolu merkezlerin seçilmemesi sağlanmış olur.
 
-# 5.4. TAMSAYILI PROGRAMLAMA ÇÖZÜM YÖNTEMLERi
+### 5.4. TAMSAYILI PROGRAMLAMA ÇÖZÜM YÖNTEMLERi
 
 Tamsayılı doğrusal programlama problemlerinin çözümünde kullanılan belli başlı
 yöntemler; dal-sınır algoritması ile Gomory kesme düzlemi algoritmasıdır.
@@ -1869,7 +1866,7 @@ Yaratılan alt problemler ve çözümleri aşağıdaki şekilde gösterilmiştir
 
 **Şekil 5.11**
 
-**5.4.2. Kesme Düzlemi Algoritması**
+### 5.4.2. Kesme Düzlemi Algoritması
 
 Tamsayılı programlama problemlerinin çözümünde kullanılan diğer bir teknik kesme
 düzlemi algoritmasıdır. Dal-sınır algoritmasında olduğu gibi, kesme düzlemi
@@ -2112,7 +2109,7 @@ konusunda genel kabul görmüş bir kanı olmadığını belirtmeliyiz. İki yö
 hiçbiri, sürekli daha iyi (az işlem, kısa zaman) sonuç vermemektedir. Yine de
 deneyimler, dal-sınır algoritmasının daha başarılı olduğunu göstermektedir.
 
-**PROBLEMLER**
+### PROBLEMLER
 
 **1**. FB basketbol takımı koçu ilk beş oyuncuyu belirlemek istemektedir. Koçun
 elinde her biri farklı özellikte yedi oyuncu vardır. Oyuncuların her birinin top
@@ -2346,9 +2343,7 @@ X1, X2 ≥ 0
 
 X1 tamsayı
 
-**1**
 
-**Yöneylem Araştırması**
 
 **12.** Aşağıdaki problemleri kesme düzlemi algoritmasıyla çözünüz.
 
@@ -2370,11 +2365,11 @@ X1 + 9X2 + X3 ≥ 7
 
 X1, X2, X3 = 0 veya 1
 
-SEKİZİNCİ BÖLÜM
+## SEKİZİNCİ BÖLÜM
 
-##### *KARAR KURAMI*
+## *KARAR KURAMI*
 
-## 8.1. GİRİŞ
+### 8.1. GİRİŞ
 
 Şimdiye kadar karar ortamının analizi için gerekli tüm bilgilerin bulunduğu,
 başka bir deyişle alternatif karar seçeneklerine ilişkin sonuç değerleri ile
@@ -2448,7 +2443,7 @@ durumlarında karar almada değişik ölçütler söz konusu olur. Sözgelimi, r
 ortamında karar almada ortalama (beklenen) kârın en büyüklenmesi karar ölçütü
 olarak kabul edilebilirse de bu ölçüt bütün durumlar için uygun olmayabilir.
 
-## 8.2. KARAR PROBLEMLERİNİN ORTAK ÖZELLİKLERİ
+### 8.2. KARAR PROBLEMLERİNİN ORTAK ÖZELLİKLERİ
 
 Birden fazla olay ve birden fazla karar seçeneğinin (eylem biçimi, strateji)
 bulunması, sistemin davranış ölçeğinin her bir stratejiye göre farklı değer
@@ -2558,7 +2553,7 @@ Hangi olayın gerçekleşeceği önceden bilinmediğinde, yani belirsizlik durum
 karar verme oldukça zordur. Belirsizlik durumunda karar alma konusu izleyen
 kesimde açıklanmıştır.
 
-## 8.3. BELİRSİZLİK DURUMUNDA KARAR ALMA
+### 8.3. BELİRSİZLİK DURUMUNDA KARAR ALMA
 
 Bu kesimde, olayların gerçekleşme olasılıklarının bilinmemesi veya
 belirlenememesi koşullarında ortaya çıkan belirsizlik durumunda karar alma
@@ -2896,7 +2891,7 @@ Tablo 8.11
 | S3       | 24         | 34       | 28.0    |
 | S4       | 20         | 30       | 24.0    |
 
-## 8.4. RİSK DURUMUNDA KARAR ALMA
+### 8.4. RİSK DURUMUNDA KARAR ALMA
 
 Daha önce açıklandığı gibi olayların gerçekleşme olasılıklarının bilinmesi
 durumundaki karar problemi, risk durumunda karar problemidir. Risk durumunda
@@ -3104,7 +3099,7 @@ eşit olduğu gösterilebilir. Bu durumun açıklanmasına örnek olması için 
 inceleyelim. S1 için beklenen kâr olan 2625 TL ile S1 için beklenen fırsat kaybı
 4450 TL’nin toplamı 7075 TL’ye eşittir.
 
-# 8.5. KARAR AĞACI ANALİZİ
+### 8.5. KARAR AĞACI ANALİZİ
 
 Şimdiye kadar, sonuçların matris veya tablo biçiminde gösterilmesinin mümkün
 olduğu "bir olaylar kümesi-bir strateji seçimi"olarak özetlenebilecek durumların
@@ -3306,7 +3301,7 @@ Böylece belirlenen karar ağacı Şekil 8.4’de gösterilmiştir.
 
 Şekil 8.4
 
-# 8.6. BAYESGİL KARAR KURALI: SONRAKİ ANALİZ
+### 8.6. BAYESGİL KARAR KURALI: SONRAKİ ANALİZ
 
 Şimdiye kadar muhtemel olaylardan hangisinin gerçekleşeceği konusunda kesin
 bilgiye sahip olunmadan ön (önsel) olasılıklarla karar alma üzerinde
@@ -3609,7 +3604,7 @@ beklenen kazançtan küçüktür.
 
 # 
 
-# PROBLEMLER
+### PROBLEMLER
 
 **1**. Ana bayiden 8 TL’ye alınan bir gazete 10 TL’ye satılmakta, gününde
 satılmayan bir gazete ana bayiye 5 TL’ye iade edilmektedir. Günlük satış
@@ -3855,11 +3850,11 @@ olasılığı 0.70’dir. İkinci aramada petrole rastlanması durumunda işletm
 net 8 milyon TL, rastlanmaması durumunda net zarar 5 milyon TL olmaktadır.
 İşletmenin hangi bölgede arama yapmasının uygun olacağını kararlaştırınız.
 
-## dokuzuncu BÖLÜM
+## DOKUZUNCU BÖLÜM
 
-###### Oyun KuramI
+## Oyun Kuramı
 
-## 9.1. GİRİŞ
+### 9.1. GİRİŞ
 
 Şimdiye kadar, tek bir karar vericinin bulunduğu karar problemleri üzerinde
 durulmuştur. Problemde tek bir karar vericinin bulunduğundan, amaç fonksiyonu bu
