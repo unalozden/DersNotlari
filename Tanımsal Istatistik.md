@@ -430,7 +430,8 @@ Azalan birikimli frekansların frekans serilerinde ve sınıflı serilerden hesa
 |5|2|2+2=4|7-3=4|
 |6|1|1+1=2|4-2=2|
 |8|1|1|2-1=1|
-||25|||
+||25|| |
+
 Azalan birikimli frekanslar sütununda yer alan 13 sayısı, değişkenin 3,4,5,6 ve 8 değerlerinin frekanslarının toplamından oluşmuştur. Bu nedenle seride 3 ve 3'den büyük değer olan birim sayısının 13 olduğu sonucuna varılmaktadır.
 
 **ÖRNEK:** Daha önce artan birikimli frekansları hesaplanan frekans serisinin azalan birikimli frekanslarını hesaplayınız. 
@@ -443,7 +444,7 @@ Azalan birikimli frekanslar sütununda yer alan 13 sayısı, değişkenin 3,4,5,
 |4-6|5|7|
 |6-8|1|2|
 |8-10|1|1|
-||25||
+||25| |
 
 Azalan birikimli frekans sütununda yer alan 7 sayısı, 4-6, 6-8 ve 8-10 sınıflarının frekanslarının toplamından oluşmuştur. 4-6 sınıfında 4 dahil 6’ya kadar değer alan birimler yer aldığından 7 sayısı serinin en az 4 veya 4’ten daha büyük değer alan birimlerin sayısını göstermektedir. 
 
@@ -559,6 +560,7 @@ Mekan serileri yersel seriler olarak da adlandırılır. Toplanan verilerin köy
 |Fransa|`         `51,3        50,9|`          `54,1          53,2|
 |İngiltere|`         `41,4        42,2|`          `41,3          41,8|
 |Türkiye|`         `25,3        24.1|`          `34,5          38,4|
+
 **2.7.3. Dağılım Serileri**
 
 Dağılım serileri, değişkenlerin aldığı değerlerin dağılımını gösteren serilerdir. Bu serilerde, zaman ve mekan gibi bir karakter bulunmamakta sadece değişkenin aldığı değerler yer almaktadır. Daha önce açıkladığımız, basit seri, frekans serisi ve sınıflı seri dağılım serileridir. 
@@ -650,6 +652,7 @@ Basit serilerde birim sayısı az olduğundan ve frekanslar bulunmadığından b
 |5|12|
 |6|5|
 ||368|
+
 ![](media/Aspose.Words.44dd5e4b-3ac6-48cd-a529-c5befe1880be.018.png)
 
 **Şekil 2.2**
@@ -669,6 +672,7 @@ Verilen bu serinin grafiği şekil 2.2.’de görüldüğü gibidir. Şekil 2.2.
 |F|28|
 |G|12|
 ||233|
+
 
 ![](media/Aspose.Words.44dd5e4b-3ac6-48cd-a529-c5befe1880be.019.png)
 
@@ -710,6 +714,7 @@ Daha önce anlatılan artan ve azalan birikimli frekans serilerinin grafikleri d
 |3|43|103|85|
 |4|29|132|42|
 |5|13|145|13|
+
 Yukarıda verilen serinin artan ve azalan birikimli frekanslarının grafiğini çiziniz.
 
 ![](media/Aspose.Words.44dd5e4b-3ac6-48cd-a529-c5befe1880be.023.png)
@@ -986,6 +991,7 @@ c-Artan ve azalan oransal birikimli frekans grafiğini çiziniz.
 |51|4|
 |58|5|
 |||
+
 Bu verileri kıdemi 3 yıl eşit aralıklı, ücreti 20 Türk lirası eşit aralıklı olarak, sınıflı bileşik seri şeklinde düzenleyiniz.
 
 **Çözüm:**
@@ -2338,15 +2344,19 @@ e) 13,45<14,23<15<15,7
 |2500|5|
 |2600|2|
 ||40|
-`
-`Satış fiyatının, 
+
+
+Satış fiyatının, 
+
 a) Aritmetik ortalamasını
+
 b) Kareli ortalamasını
+
 c) Geometrik ortalamasını hesaplayınız.
+
 d) Harmonik ortalamasını hesaplayınız.
 
 e) Hesapladığınız ortalamaları karşılaştırınız.
-
 **Çözüm:**
 
 
@@ -2428,9 +2438,14 @@ d)  Hesapladığınız ortalamaları karşılaştırınız.
 |E|7,3|
 |F|9,7|
 |G|4,1|
+
+
 Serinin,
+
 a) Modunun
+
 b) Medyanını
+
 c) Kartillerini hesaplayınız.
 
 **Çözüm:**  Xi : 0,8 ; 1,2 ; 3,4 ; 4,1 ;  7,3 ; 8,6 ; 9,7 
@@ -2459,9 +2474,13 @@ c) Kartillerini hesaplayınız.
 |7|34|
 |8|12|
 ||369|
+
 Dağılımın
+
 a) Modunun
+
 b) Medyanını
+
 c) Kartillerini hesaplayınız.
 
 
@@ -2512,10 +2531,13 @@ Q3/4 = 6
 |22,5 - 27,5|13|
 |27,5 - 32,5 |11|
 ||90|
-`
-`Kredilerin dağılımının,
+
+Kredilerin dağılımının,
+
 a) Modunu
+
 b) medyanını
+
 c) Kartillerini hesaplayınız.
 
 
@@ -5902,4 +5924,4 @@ olacaktır. Gelir 2007 yılına göre 2008 yılında % 13,4 ve 2009 yılında % 
 
 
 
-=======
+
