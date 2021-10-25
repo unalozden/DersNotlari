@@ -115,7 +115,7 @@ sistemlerinin en iyi biçimde tasarlanması ve çalıştırılması konusunun bi
 yaklaşımla kararlaştırılmasıdır. Bu yaklaşımda tahmin, kontrol veya en iyiye
 ulaşma amaçları ile sistemin sayısal modeli geliştirilir.
 
-# 1.4. YÖNEYLEM ARAŞTIRMASININ METODOLOJİSİ
+## 1.4. YÖNEYLEM ARAŞTIRMASININ METODOLOJİSİ
 
 Yöneylem araştırması belli başlı altı adımdan oluşan bir karar alma sürecidir.
 
