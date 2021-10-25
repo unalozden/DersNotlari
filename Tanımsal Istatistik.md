@@ -1,11 +1,11 @@
-﻿PAGE  1
+﻿
 
 
-![](media/Aspose.Words.44dd5e4b-3ac6-48cd-a529-c5befe1880be.001.png)*Giriş*
 
-BÖLÜM 1
 
-**GİRİŞ**
+## BÖLÜM 1
+
+## GİRİŞ
 
 İstatistik kelimesi hemen hemen herkes tarafından bilinirse de, farklı kişilere farklı anlamlar ifade etmektedir. Bu kelime konu ile daha az ilgisi olanlar için genellikle alt alta yazılmış rakam topluluklarını veya grafikleri ifade ederken, konuya daha yakın olanlar için farklı anlam taşımaktadır. 
 
@@ -67,9 +67,9 @@ Gerçek anlamda istatistiksel çalışmalar, ancak 16. Yüzyıl da çeşitli mat
 \20. Yüzyılın başlarında ise William S. Gosset, küçük örneklerden yararlanılarak karar alma ile ilgili çalışmalarda bulunmuş arasındaki hataları bularak, formülü ispatlamıştır. Ve bu çalışmalar sonucunda elde ettiği bilgileri "Student" adli kitabında yayınlamıştır. Küçük örnekler teorisi ile ilgili bu çalışmalara Sir Ronald Fisher'de (1890-1962) devam etmiş, ve Fisher bu teori yanında, deneysel planlama ile de ilgilenmiştir. 20. Yüzyılda ise birçok değerli istatistikçiler yetişmiştir. Bu istatistikçilerin bazıları hala yeni teoriler geliştirerek ve çeşitli uygulamalar da bulunarak istatistiğin gelişmesine yardımcı olmaktadırlar. İstatistiğin gelişmesinde 1950'den sonra üniversitelerde belirli ve düzenli bir programa dayanılarak okutulmasının ve bilgisayarların çok etkisi olmuştur.
 
 
-BÖLÜM 2
+## BÖLÜM 2
 
-**VERİLERİN TOPLANMASI VE DÜZENLENMESİ**
+## VERİLERİN TOPLANMASI VE DÜZENLENMESİ
 
 Daha önce belirtildiği gibi istatistiksel araştırmaların yapılabilmesi için verilerin toplanması gerekmektedir. Araştırma yapılmaya karar verildiğinde ilk olarak gerekli olan veriler belirlenerek toplanacak ve toplanan bu veriler üzerinde düzenlemeler yapılarak analize hazır hale getirilecektir. İstatistiksel araştırmalardan sağlıklı sonuçlar alınabilmesi öncelikle sağlıklı ve yeterli verinin elde edilmesine bağlıdır. Bu nedenle, bu bölümde veri kaynakları ile toplanan verilerin düzenlenerek analize hazırlanması üzerinde durulacaktır. 
 
@@ -173,7 +173,8 @@ Anket ile veri toplanmasında aşağıda özetlenen noktalara dikkat edilmesinin
 \-	Anket ile ilgili bilgi toplamada önemli noktalardan biri de soru sayısıdır. Soru sayısının az olması istenen bilginin elde edilmemesine, soru sayısının fazla olması ise cevap vereni bıktırabileceğinden doğru cevap alınamamasına veya formun sonunda yeralan bazı soruların cevapsız bırakılmasına neden olabilir.
 
 **2.3.1.2.	Anket Formunun Bilgi Kaynağına Ulaştırılmasında Kullanılan Yöntemlerin Karşılaştırılması**
-## Daha önceki açıklamalarda değinildiği gibi anket formu bilgi kaynağına anketörler posta ve telefon ile ulaştırılabilir. Bu yöntemlerin fayda ve zararlarını şöyle özetleyebiliriz.
+
+Daha önceki açıklamalarda değinildiği gibi anket formu bilgi kaynağına anketörler posta ve telefon ile ulaştırılabilir. Bu yöntemlerin fayda ve zararlarını şöyle özetleyebiliriz.
 
 **- Anketörler İle Yapılan Anket Çalışmalarının Faydaları**
 
@@ -592,6 +593,7 @@ Bileşik serilerde, dağılım serileri gibi frekans serisi ve sınıflı seri �
 |15-30||2|1||
 |30-45|1||||
 |45-60||||1|
+
 **2.8. GRAFİKLER**
 
 Araştırma sonucunda elde edilen ve düzenlenen verilerin daha kolay anlaşılabilmesi için gösterildiği şekillere grafik denir. Grafikler göze hitap ettiğinden toplanan verilerin daha açık bir şekilde görülmesine ve daha kolay yorumlanmasına yardımcı olurlar. Konu ile ilgisi olmayan kişiler de grafikler yardımı ile konuyla ilgili fikir sahibi olabilirler. Ancak burada önemli olan nokta grafiklerin açık ve anlaşılır biçimde çizilmeleridir.
@@ -999,9 +1001,9 @@ Bu verileri kıdemi 3 yıl eşit aralıklı, ücreti 20 Türk lirası eşit aral
 |80-100||1|2||3|
 |TOPLAM|9|10|4|1|24|
 
-BÖLÜM 3
+## BÖLÜM 3
 
-**MERKEZİ EĞİLİM ÖLÇÜLERİ**
+## MERKEZİ EĞİLİM ÖLÇÜLERİ
 
 **(ORTALAMALAR)**
 
@@ -2738,10 +2740,9 @@ Birinci Durumda Artış Oranı = ![](media/Aspose.Words.44dd5e4b-3ac6-48cd-a529-
 olacaktır.
 
 
-BÖLÜM 4
+## BÖLÜM 4
 
-**DEĞİŞKENLİK 
-VE ASİMETRİ ÖLÇÜLERİ**
+## DEĞİŞKENLİK VE ASİMETRİ ÖLÇÜLERİ
 
 Bir önceki bölümde serileri temsil etmek ve birbirleri ile karşılaştırmak amacı ile hesaplanan ortalamalar açıklanmıştı. Ortalamalar, serilerin karşılaştırılmasında her zaman yeterli ölçüler olmayabilirler. Bu nedenle serilerin karşılaştırılmasında, dağılma ölçüleri olarak da adlandırılan değişkenlik ölçülerinden ve serilerin dağılma şekillerinin karşılaştırılmasında da eğrilik ölçüleri olarak da adlandırılan asimetri ölçülerinden yararlanılmaktadır. Asimetri ölçülerinin hesaplanmasında, değişkenlik ölçüleri de kullanılacağından, bu bölümde asimetri ölçülerine dağılma ölçülerinden sonra yer verilmiştir.
 
@@ -4542,9 +4543,9 @@ Toplanma oranını hesaplayınız.
 
 Toplanma oranı 0,18 olarak hesaplanmıştır. Bu sonuca göre gelir dağılımının adil olduğu söylenemez.
 
-BÖLÜM 5
+## BÖLÜM 5
 
-**İNDEKSLER**
+## İNDEKSLER
 
 Bazı istatistiksel araştırmalarda bir veya birkaç değişkenin mekan ve zaman içinde gösterdiği değişmelerin oransal olarak belirlenmesi istenebilir. Bu gibi durumlarda indekslerden yararlanılır. İndeksler birçok alanlarda kullanılabilmelerine rağmen daha çok iktisat ve işletme alanlarında kullanılmaktadır. İndeksler yardımı ile bir ülkede bölgeler arası üretim, fiyat, gelir dağılımı veya nüfus artışının zaman içinde gösterdiği değişmeler belirlenebilir.
 
