@@ -1,4 +1,4 @@
-
+Bu notlar Prof. Dr. Nalan CİNEMRE'nin **"YÖNEYLEM ARAŞTIRMASI"** (İstanbul: Evrim Yayınları, 2011) kitabından yararlanılarak hazırlanmıştır.
 
 ## BİRİNCİ BÖLÜM
 
