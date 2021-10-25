@@ -543,6 +543,7 @@ Toplanan verilerin gün, ay, yıl gibi zaman birimlerine göre düzenlenmesi ile
 |2007|21473,225|
 |2008|21295,123|
 |2009|21658,783|
+
 **2.7.2. Mekan Serileri**
 
 Mekan serileri yersel seriler olarak da adlandırılır. Toplanan verilerin köy, il, bölge gibi mekan birimlerine göre düzenlenmesi ile elde edilen serilere mekan serileri denmektedir. Mekan serileri de zaman serileri gibi iki sütundan oluşmakta ve birinci sütunda mekan birimleri, ikinci sütunda ise mekan birimlerine ait sayısal değerler yer almaktadır. Örneğin, bölgelere göre pamuk üretim miktarlarını, illere göre ekmek fiyatlarını gösteren seriler mekan serileridir.
@@ -609,8 +610,8 @@ Zaman serileri, değişkenin aldığı değerlerin zaman birimlerine göre dağ�
 **ÖRNEK:** Aşağıda verilen serinin grafiğini çiziniz.
 
 
-|<p></p><p>Yıllar</p>|<p>Sabit  Fiyatlar ile GSMH</p><p>` `(1987) (1000 TL)</p>|||
-| :-: | :-: | :-: | :-: |
+|<p></p><p>Yıllar</p>|<p>Sabit  Fiyatlar ile GSMH</p><p>` `(1987) (1000 TL)</p>|
+| :-: | :-: | 
 |1995|80142,7|
 |1996|80776,8|
 |1997|85418,9|
