@@ -4,9 +4,7 @@
 ## *VERİ BİLİMİ SÜRECİ*
 
 
-Veri Bilimi Süreci
-
-Veri Bilimi Süreci – Bir Veri Bilimcisi tarafından hangi iş süreçleri gerçekleştirilir? Diğer bir ifade ile veri bilimcisi neler yaoar? 
+Bir Veri Bilimcisi tarafından hangi iş süreçleri gerçekleştirilir? Diğer bir ifade ile veri bilimcisi neler yaoar? 
 
 Veri Bilimi, yapılandırılmış ve yapılandırılmamış verilerden bilgi ve içgörü çıkarmak için bilimsel yöntemler, araçlar ve algoritmalar kullanan çok boyutlu bir alandır.
 
