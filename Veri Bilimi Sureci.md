@@ -19,7 +19,7 @@ Herhangi bir kavramı tanımlamak ve dayandığı tarihsel geçmişi belirlemek 
 
  Veri Bilimi Süreci - Veri Bilimcisi Günlük Görevleri
 
-*Adım 1. Problemi En iyi Şekilde Tanımlamak Sınırlarını Belerlemek İçin Sorular Sorun*
+**Adım 1. Problemi En iyi Şekilde Tanımlamak Sınırlarını Belerlemek İçin Sorular Sorun**
 Problemin ne olduğunu bulmak için doğru soruları sorarak veri bilimi sürecine başlanır. İlk adımda, bir kuruluşun ihtiyaçlarının neler olduğu hakkında bir fikir edinmeye çalışın ve buna dayalı verileri toplayın.  
 Çanta üreten bir şirketin çok yaygın bir problemini, satış problemini ele alalım.
 
@@ -35,7 +35,7 @@ Bu sorulara çerçevesinde pazarlama ekibiyle görüştükten sonra şu soruna o
 
 Sizin için bir sonraki adım, yukarıdaki soruları cevaplamak için elinizde bulunan tüm verilerin ne olduğunu bulmaktır.
 
-*Adım 2. Problemin Analizi için İlgili Verileri Toplayın*
+**Adım 2. Problemin Analizi için İlgili Verileri Toplayın**
 Artık iş sorununuzu bildiğinize göre, sorunu çözmenize yardımcı olacak verileri toplamanın zamanı geldi. Verileri toplamadan önce, gerekli verilerin şirkette mevcut olup olmadığını sormalısınız?
 
 Çoğu durumda, daha önce başka araştırmalarda toplanan veri kümelerini elde edebilirsiniz. Bu verilerin yanı sıra şu veriler de gerekli olabilirdir: yaş, cinsiyet, önceki müşterilerin işlem geçmişi vb.
@@ -50,7 +50,7 @@ Topladığınız veriler aslında hatalar ve eksik değerler içeren 'ham verile
 
 
 
-*Adım 3. Hata Düzeltmeleri Yapmak İçin Verileri Keşfedin*
+**Adım 3. Hata Düzeltmeleri Yapmak İçin Verileri Keşfedin**
 Verileri keşfetmek aslında onu temizlemek ve düzenlemektir. Veri bilimcisinin zamanının %70'inden fazlası bu süreç için harcanmaktadır. Tüm verileri toplamanıza rağmen, onu kullanmaya hazır değilsiniz, çünkü topladığınız ham veriler daha çok tuhaflıklar içeriyor.
 
 İlk olarak, verilerin temiz ve hatasız olduğundan emin olmanız gerekir. Bu, sabır ve odaklanma gerektiren sürecin en önemli adımıdır.
@@ -67,7 +67,7 @@ Verilerinizdeki eksik ve yanlış değerleri ortaya çıkardıktan sonra artık 
 
 
 
-Adım 4. Derinlemesine Analiz için Verileri Modelleyin
+**Adım 4. Derinlemesine Analiz için Verileri Modelleyin**
 Verileri inceledikten sonra, "Ürünümüzü satın alma olasılığı daha yüksek olan potansiyel müşterileri nasıl belirleyebiliriz?" sorusuna yanıt verecek bir model oluşturmak için yeterli bilgiye sahip olursunuz.
 
 Bu adımda, ondan bilgi almak için verileri analiz edersiniz. Verileri analiz etmek, ondan anlam çıkaracak çeşitli algoritmaların uygulanmasını gerektirir:
@@ -82,7 +82,7 @@ Ancak, bu soruları yanıtlamak size yalnızca ipuçları ve hipotezler verecekt
 
 Satış sorununa geri dönersek, bu model hangi müşterilerin satın alma olasılığının daha yüksek olduğunu tahmin etmenize yardımcı olabilir. Tahmin, Hindistan'da yaşayan 16-36 yaş grubu Kadın gibi spesifik olabilir.
 
-*Adım 5. Analiz Sonuçlarını Bildirin*
+**Adım 5. Analiz Sonuçlarını Bildirin**
 İletişim becerileri, bir veri bilimcisi işinin önemli bir parçasıdır, ancak aynı zamanda çok az önemsenir. Bu aslında işinizin çok zor bir parçası olacak çünkü bulgularınızı kamuya ve ekibin diğer üyelerine onlar tarafından kolayca anlaşılacak şekilde sunmayı içeriyor.
 
 Daha önce belirtilen sorunun sonuçlarını etkili bir şekilde iletmeniz gerekir:
