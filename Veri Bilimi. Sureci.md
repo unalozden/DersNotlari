@@ -88,7 +88,7 @@ Satış sorununa geri dönersek, bu model hangi müşterilerin satın alma olas�
 Daha önce belirtilen sorunun sonuçlarını etkili bir şekilde iletmeniz gerekir:
 
 * R, Python, Tableau, Excel gibi araçlarla sunum için bilgilerin grafiğini çizin.
-* Sonuçlara daha iyi anlaşılması “hikaye anlatıcılığı” kullanın.
+* Sonuçların daha iyi anlaşılması için “hikaye anlatıcılığı” kullanın.
 * Çeşitli takip sorularını yanıtlayın.
 * Verileri farklı formatlarda sunun - raporlar, web siteleri.
 * İnanın, sorulara verilen iyi cevaplar her zaman daha fazla soruya yol açar ve süreç yeniden başlar.
