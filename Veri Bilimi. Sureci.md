@@ -25,11 +25,11 @@ Problemin ne olduğunu bulmak için doğru soruları sorarak veri bilimi süreci
 
 Problemin analizi için birçok soru sorarak başlamanız gerekir:
 
-Hedef pazar ve müşteriler kimlerdir?
-Hedef pazara nasıl yaklaşıyorsunuz?
-Satış süreci şu anda nasıl görünüyor?
-Hedef pazar hakkında hangi bilgilere sahipsiniz?
-Ürünümüzü satın alma olasılığı daha yüksek olan müşterileri nasıl belirleyebiliriz?
+* Hedef pazar ve müşteriler kimlerdir?
+* Hedef pazara nasıl yaklaşıyorsunuz?
+* Satış süreci şu anda nasıl görünüyor?
+* Hedef pazar hakkında hangi bilgilere sahipsiniz?
+* Ürünümüzü satın alma olasılığı daha yüksek olan müşterileri nasıl belirleyebiliriz?
 
 Bu sorulara çerçevesinde pazarlama ekibiyle görüştükten sonra şu soruna odaklanmaya karar veriyorsunuz: "Ürünümüzü satın alma olasılığı daha yüksek olan potansiyel müşterileri nasıl belirleyebiliriz?"
 
@@ -59,9 +59,10 @@ Bu amaçla Python, R, SQL vb. gibi çeşitli araçlar kullanılamaktadır.
 
 Ardından, şu soruları yanıtlamaya başlamalısınız:
 
-Verilerde eksik değerler var mı, yani iletişim numarası olmayan müşteriler var mı?
-Geçersiz değerler var mı? Varsa, nasıl düzeltebilirsiniz?
-Birden fazla veri kümesi var mı? Veri kümelerini birleştirmek iyi bir seçim mi? Evet ise, onları nasıl birleştirmelisiniz?
+* Verilerde eksik değerler var mı, yani iletişim numarası olmayan müşteriler var mı?
+* Geçersiz değerler var mı? Varsa, nasıl düzeltebilirsiniz?
+* Birden fazla veri kümesi var mı? Veri kümelerini birleştirmek iyi bir seçim mi? Evet ise, onları nasıl birleştirmelisiniz?
+
 Verilerinizdeki eksik ve yanlış değerleri ortaya çıkardıktan sonra artık veriler analize hazırdır. Verilerden yanlış içgörüler elde etmenin, hiç içgörüye sahip olmamaktan daha kötü olduğunu unutmayın.
 
 
@@ -71,11 +72,12 @@ Verileri inceledikten sonra, "Ürünümüzü satın alma olasılığı daha yük
 
 Bu adımda, ondan bilgi almak için verileri analiz edersiniz. Verileri analiz etmek, ondan anlam çıkaracak çeşitli algoritmaların uygulanmasını gerektirir:
 
-Soruyu cevaplamak için bir veri modeli oluşturun.
-Modeli toplanan verilere göre doğrulayın.
-Verileri sunmak için çeşitli görselleştirme araçlarının kullanın.
-Gerekli algoritmaları ve istatistiksel analizleri gerçekleştirin.
-Sonuçları diğer teknikler ve kaynaklarla karşılaştırın.
+* Soruyu cevaplamak için bir veri modeli oluşturun.
+* Modeli toplanan verilere göre doğrulayın.
+* Verileri sunmak için çeşitli görselleştirme araçlarının kullanın.
+* Gerekli algoritmaları ve istatistiksel analizleri gerçekleştirin.
+* Sonuçları diğer teknikler ve kaynaklarla karşılaştırın.
+
 Ancak, bu soruları yanıtlamak size yalnızca ipuçları ve hipotezler verecektir. Veri modelleme, verileri makinenin anlayacağı uygun bir denklemde tahmin etmenin basit bir yoludur. Modele dayalı tahminler yapabilmelisiniz. En uygun olanı bulmak için birkaç modeli denemeniz gerekebilir.
 
 Satış sorununa geri dönersek, bu model hangi müşterilerin satın alma olasılığının daha yüksek olduğunu tahmin etmenize yardımcı olabilir. Tahmin, Hindistan'da yaşayan 16-36 yaş grubu Kadın gibi spesifik olabilir.
@@ -85,20 +87,20 @@ Satış sorununa geri dönersek, bu model hangi müşterilerin satın alma olas�
 
 Daha önce belirtilen sorunun sonuçlarını etkili bir şekilde iletmeniz gerekir:
 
-R, Python, Tableau, Excel gibi araçlarla sunum için bilgilerin grafiğini çizin.
-Sonuçlara daha iyi anlaşılması “hikaye anlatıcılığı” kullanın.
-Çeşitli takip sorularını yanıtlayın.
-Verileri farklı formatlarda sunun - raporlar, web siteleri.
-İnanın, sorulara verilen iyi cevaplar her zaman daha fazla soruya yol açar ve süreç yeniden başlar.
+* R, Python, Tableau, Excel gibi araçlarla sunum için bilgilerin grafiğini çizin.
+* Sonuçlara daha iyi anlaşılması “hikaye anlatıcılığı” kullanın.
+* Çeşitli takip sorularını yanıtlayın.
+* Verileri farklı formatlarda sunun - raporlar, web siteleri.
+* İnanın, sorulara verilen iyi cevaplar her zaman daha fazla soruya yol açar ve süreç yeniden başlar.
 
 
 **Özet olarak bir veri bilimcisinin görevleri şunlardır:** 
 
-Bir kuruluşa büyük fırsatlar sunan verilerle ilgili analitik sorunları belirlemek.
-Her türlü kaynaktan büyük yapılandırılmış ve yapılandırılmamış veri kümeleri toplamak.
-Doğru veri kümelerini ve değişkenleri belirleme.
-Doğruluğu ve eksiksizliği sağlamak için verilerdeki hataları temizleme ve ortadan kaldırma.
-Büyük veri depolarını çıkarmak için modeller, algoritmalar ve teknikler bulmak ve uygulamak.
-Gizli kalıpları ve eğilimleri ortaya çıkarmak için verileri analiz etmek.
-Çözümleri ve fırsatları keşfetmek için verileri yorumlamak ve buna dayalı kararlar vermek.
-Görselleştirme ve diğer araçları kullanarak bulguları yöneticilere ve diğer kişilere iletmek.
+* Bir kuruluşa büyük fırsatlar sunan verilerle ilgili analitik sorunları belirlemek.
+* Her türlü kaynaktan büyük yapılandırılmış ve yapılandırılmamış veri kümeleri toplamak.
+* Doğru veri kümelerini ve değişkenleri belirleme.
+* Doğruluğu ve eksiksizliği sağlamak için verilerdeki hataları temizleme ve ortadan kaldırma.
+* Büyük veri depolarını çıkarmak için modeller, algoritmalar ve teknikler bulmak ve uygulamak.
+* Gizli kalıpları ve eğilimleri ortaya çıkarmak için verileri analiz etmek.
+* Çözümleri ve fırsatları keşfetmek için verileri yorumlamak ve buna dayalı kararlar vermek.
+* Görselleştirme ve diğer araçları kullanarak bulguları yöneticilere ve diğer kişilere iletmek.
