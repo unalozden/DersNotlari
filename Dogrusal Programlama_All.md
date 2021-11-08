@@ -8,36 +8,13 @@ Bu notlar Prof. Dr. Nalan CİNEMRE'nin **"Doğrusal Programlama"** kitabından y
 
 ### 1.1 GİRİŞ
 
-İnsan yaşamı bir dizi karar verme durumunu içeren bir süreçtir. Her insan günlük
-yaşantısında ne yiyeceği, ne giyeceği, saat kaçta uyuyacağı, TV’de hangi
-programı izleyeceği gibi son derece basit konuların yanı sıra, tasarrufunu nasıl
-değerlendireceği, bütçesini nasıl ayarlayacağı, çocuğunu hangi okula göndereceği
-gibi daha önemli konularda, zaman zaman da sözgelimi, hastalığının tedavisinde
-ne yapması gerektiği gibi yaşamsal öneme sahip konular hakkında karar vermek
-durumundadır.
-
-İşletme yöneticileri de zamanlarının büyük bir bölümünü özel yaşamlarıyla ilgili
-konuların yanında işletmenin organizasyonu ve yönetimi, pazarlama, üretim,
-finansman, yatırım, ulaşım gibi işletme için son derece önemli konular üzerinde
-karar vermeye ayırırlar.
-
-Günümüzde yoğun rekabet piyasası ortamında faaliyet gösteren işletmelerin
-başarısı, esas olarak yöneticilerin verdikleri kararların doğruluk derecesine ve
-alınan kararların uygulanış biçimine bağlıdır. İşletmenin sahip olduğu kıt
-kaynakların en uygun biçimde kullanılması, her şeyden önce yöneticilerin
-alternatif çözüm yollarından hangisinin seçilmesi gerektiği konusunda vereceği
-kararlara bağlıdır. Alınan kararların işletmenin başarı derecesinin ölçütü
-olması nedeniyle *karar verme* modern işletmeciliğin en önemli fonksiyonu olarak
-kabul edilir. Karar verme nedir, nasıl tanımlanır? Geniş anlamda karar verme,
-bir kişinin veya bir örgütün karşılaştığı alternatif davranış biçimleri
+Karar verme, bir kişinin veya bir örgütün karşılaştığı alternatif davranış biçimleri
 arasından belirli ölçütlere göre en iyi olan bir veya birkaçını seçme eylemi
 olarak tanımlanabilir.
 
 ### 1.2 KARAR VERME SÜRECİ
 
-Dar anlamda karar verme, çeşitli alternatifler arasından en uygun olanının
-seçiminin yapıldığı bir süreç olarak tanımlanabilir. *Karar verme süreci*, ilk
-kez Devey (1910) tarafından ele alınmış ve üç aşamadan oluşan bir bütün olarak
+*Karar verme süreci*, ilk kez Devey (1910) tarafından ele alınmıştır ve üç aşamadan oluşan bir bütün olarak
 tanımlanmıştır. Devey’e göre bu sürecin aşamaları aşağıdaki gibidir.
 
 \- Problemin belirlenmesi
@@ -46,10 +23,7 @@ tanımlanmıştır. Devey’e göre bu sürecin aşamaları aşağıdaki gibidir
 
 \- Alternatifler arasından en iyi olanın seçilmesi
 
-Devey’in bu yaklaşımı zaman içinde bir karar kuramının oluşumunu başlatmıştır.
-1950’li yıllardan sonra karar kuramında hızlı bir gelişme başlamış ve karar
-verme sürecinin üç aşamalı bir bütün olarak tanımlanmasının yeterli olmadığı
-görüşü ağırlık kazanmıştır. Değişik kaynaklarda karar verme süreci aşamalarının
+Değişik kaynaklarda karar verme süreci aşamalarının
 farklı biçimlerde sıralandığı ve sınıflandırıldığı görülmekle birlikte, farklı
 yaklaşımların ortak noktaları dikkate alındığında, söz konusu sürecin aşağıdaki
 beş temel aşamadan oluştuğunu söylemek yanlış olmaz.
@@ -66,12 +40,8 @@ beş temel aşamadan oluştuğunu söylemek yanlış olmaz.
 
 Bunlar şöyle özetlenebilir.
 
-*A*. **Karar probleminin tanımlanması**: Problem kavramının ne olduğu
-konusundaki farklı yaklaşımlar problemin belirlenmesi konusunda da değişik
-anlayışlara neden olmaktadır. Bununla birlikte, değişik yaklaşımların ortak
-noktası herhangi bir karar probleminin tanımlanabilmesi için her şeyden önce bir
-problemin bulunması gerektiğidir. Bu nedenle, önce herhangi bir problemin ortaya
-çıkması için gerekli koşulların neler olduğunu açıklayalım. Bir problemin söz
+*A*. **Karar probleminin tanımlanması**: Herhangi bir karar probleminin tanımlanabilmesi için her şeyden önce bir
+problemin bulunması gerektiğidir. Bir problemin söz
 konusu olabilmesi için gerekli koşullar veya kısaca *problemin bileşenleri*
 aşağıdaki gibi açıklanabilir.
 
@@ -82,28 +52,18 @@ verici* denir.
 *2*. **Amaç**: Kararlar belirli bir amaca ulaşmak için verilir. Karar vericinin
 ulaşmak istediği bir veya birden fazla amacının bulunması gerekir.
 
-*3*. **Alternatif eylem biçimleri**: Alternatif eylem biçimleri bir sorunun
-çözümünde kullanılabilecek birbirlerinden farklı yaklaşımlardır. Karar vericinin
+*3*. **Alternatif eylem biçimleri**: Karar vericinin
 amaç veya amaçlarına ulaşabilmesi için aralarından seçim yapabileceği birden
-fazla eylem biçiminin veya çözüm yolunun bulunması gerekir. Bütün bunların yanı
-sıra alternatif eylem biçimlerinin karar verici için eşit değerde olmaması
-beklenir.
+fazla eylem biçiminin veya çözüm yolunun bulunması gerekir. 
 
 *4*. **Belirsizlik**: Amaca veya amaçlara en etkin (hızlı ve doğru) biçimde
 ulaşabilmek için hangi eylem biçiminin en iyi olduğu konusunda belirsiz bir
 durumun veya *belirsizliğin* söz konusu olması gerekir.
 
-Problemin varlığı ve tanımlanması için gerekli koşulların açıklanmasından sonra
-karar verme sürecinin önemli aşamalarından biri olan problemin *modelinin
-kurulması-modelleme* aşamasına geçebiliriz.
-
 *B*. **Problemin modelinin kurulması**: Problemin tanımlanmasından sonra
 yapılması gereken en önemli iş problemin kolayca çözümlenebilen bir yapıya
 oturtulması, diğer bir deyişle problemi en iyi biçimde temsil edecek ve
 problemin çözümündeki belirsizlikleri en aza indirecek bir modelin kurulmasıdır.
-Kimilerinin söylediği gibi model kurma bir deneyim işi, ayrıca bir sanattır.
-Model için bir dizi tanım verilebilirse de aşağıdaki iki tanım model kavramını
-anlayabilmek bakımından yeterli olacaktır.
 
 Bir sistemin değişen şartlar altındaki davranışlarını incelemek, kontrol etmek
 ve geleceği hakkında tahminlerde bulunmak amacıyla elemanları arasındaki
@@ -115,56 +75,10 @@ belirtmekten çok konu ile ilgili ve özelliği önemli olan ilişkileri göster
 Çok geniş kullanım alanı olan modeller çeşitli özelliklerine göre
 sınıflandırılabilir. Sınıflandırmada temsil şekilleri, zaman esası, modellenecek
 sistem hakkındaki bilgi miktarı, yapı, amaç, değişkenlerinin özellikleri,
-fonksiyonel ilişkiler ve kapsam dikkate alınmaktadır. Ele alınan konuya ve amaca
-göre çok basit veya karmaşık olabilen modelleri basit ve karmaşık modeller
-başlıkları altında incelemek mümkün olmakla birlikte, daha başka
-sınıflandırmalar da yapılabilir. Modellerin en ayrıntılı sınıflandırılması J. W.
-Forrester tarafından gerçekleştirilmiştir. Forrester modelleri ilk önce soyut ve
-fiziki modeller olarak ele almış, soyut modelleri ise matematik, dinamik ve
-statik olmak üzere üçe ayırdıktan sonra her birini doğrusal ve doğrusal olmama
-özelliklerine göre sınıflandırmıştır.
+fonksiyonel ilişkiler ve kapsam dikkate alınmaktadır. 
 
-Modellerin diğer bir sınıflandırılması R. L. Ackoff tarafından yapılmıştır.
-Ackoff’a göre modeller (yapıları dikkate alındığında) uyuşum (iconic) modelleri,
-benzetim (analog) modelleri ve sembolik modeller olmak üzere üç başlık altında
-incelenebilir.
-
-**Uyuşum (ölçek) modelleri**: Fizik bir büyüklüğün, orijinalinden farklı bir
-ölçekle temsil edilmesidir. Fazla soyut olmayan bu tip modeller boyutlarına göre
-sınıflandırılmaktadır. Bir fabrikanın, bir uçağın, bir arabanın vb. maketi üç
-boyutlu, fotoğraflar, çizimler, bilgisayar ikonları vb. iki boyutlu uyuşum
-modelleridir.
-
-**Benzetim modelleri**: Gerçek durum ve nesneleri, üzerinde işlem yapılması daha
-kolay diğer büyüklükler ile temsil eder. Benzetim modelleri de iki boyutta
-(haritalar, grafikler, diyagramlar vb.) ve üç boyutta (benzetim araçları)
-düzenlenebilirler. Benzetim modellerinin temsil ettikleri sistemlerle fiziksel
-benzerlikleri olmamakla birlikte onlar gibi davranırlar. Özetle bir benzetim
-modeli fiziksel değişkenlerle aynı biçimde davranan başka bir değişkenler kümesi
-kullanılarak oluşturulan modeldir. Örneğin bir ekonomik sistemdeki kaynakların
-veya bir elektrik şebekesindeki elektrik akışı su borularıyla oluşturulan bir
-şebekeyle temsil edilebilir. Benzetim modelleri uyuşum modellerinden daha
-soyuttur.
-
-**Sembolik modeller**: Öyle sistemler vardır ki fiziksel araçlarla
-açıklanamazlar veya bu amaca yönelik çalışmalar çok uzun zaman ve büyük
-maliyetler gerektirebilir. Bu gibi durumlarda en mantıklı yaklaşım, incelenen
-durum veya problemin matematik anlamda sembollerle açıklanmasıdır. Sayıları
-göstermede sembollerin kullanıldığı bu tür modellere *sembolik* veya
-*matematiksel model* denir. Matematiksel modeller, çözümleri sistemin durumunu
-açıklayan veya haber veren bir eşitlikler kümesi olarak da tanımlanmaktadır.
-Kimyasal formüller, nota kağıtları, matematiksel eşitliklerin her biri bir
-sembolik modeldir.
-
-Bu kitapta incelenen konular açısından bizi ilgilendiren modeller yalnızca
-matematiksel modellerdir. Bu nedenle, matematiksel modeller üzerinde kısaca
-durulması uygun olacaktır([^1]).
-
-[^1]: Modellerin daha kapsamlı sınıflandırılması için bkz.: Öner Esen, **İşletme
-    Yönetiminde Sistem Yaklaşımı**, İstanbul: İşletme Fakültesi Yayınları,
-    No:174, 1984, ss. 19-24., İmdat Kara, **Yöneylem Araştırmasının
-    Yöntembilimi**, Eskişehir: İktisadi ve Ticari İlimler Akademisi Yayınları,
-    No: 215/139, 1979, ss. 85-100.
+Doğrusal programlama konuları açısından bizi ilgilendiren modeller yalnızca
+matematiksel modellerdir. 
 
 Bir problemin matematiksel modelinde, problemi tanımlayan açıklamaların
 oluşturduğu dört temel eleman vardır. Bunlar aşağıdaki gibi sıralanabilir.
@@ -178,20 +92,15 @@ oluşturduğu dört temel eleman vardır. Bunlar aşağıdaki gibi sıralanabili
 *4*. Amaç fonksiyonu
 
 *1*. **Karar değişkenleri**: Karar vericinin denetimi altında olan niteliklere
-*karar değişkenleri* denir. Bunlar modele ilişkin bilinmeyenler olup değerleri
-modelin çözümünden sonra belirlenir. Modelin kapsamını ve çözümünü
-zorlaştırmayan, başka modellerle karşılaştırma olanağı sağlayan değişkenlerin
-seçilmesi çok önemlidir. Değişkenlerin sayısı ve ölçü birimleri, hedeflenen amaç
-ve bilgi kaynaklarının elverişliliği göz önüne alınarak belirlenir. Bu
-değişkenler karar vericinin denetimi altında olduklarından bunlara *kontrol
-değişkenleri* de denir.
+*karar değişkenleri* (kontrol değişkenleri) denir. Bunlar modele ilişkin bilinmeyenler olup değerleri
+modelin çözümünden sonra belirlenir.
 
 *2*. **Parametreler**: Alabileceği değerlerde, karar vericinin hiçbir etkisi
 olmayan niteliklere *parametre* veya *kontrol dışı değişkenler* denir. Belirli
 koşullarda belirli değerler alan parametreler problem için veri durumundadır.
 
 *3*. **Kısıtlayıcı fonksiyonlar (kısıtlayıcılar)**: Karar değişkenleri ve karar
-değiş- kenleriyle parametrelerin birbirleriyle olan ilişkilerinde sağlanması
+değişkenleriyle parametrelerin birbirleriyle olan ilişkilerinde sağlanması
 zorunlu olan ilişkilerin matematiksel olarak açıklanmasıyla elde edilen
 denklemlere *kısıtlayıcı fonksiyonlar* veya kısaca *kısıtlayıcılar* ya da
 *kısıtlar* denir. Kısıtlayıcıların değerleri kesin ve önceden belirlenmiş olup
@@ -216,32 +125,18 @@ toplanır.
 \-Yordamlama yardımıyla çözüm
 
 Model yapısına en uygun olan tekniğin uygulanmasıyla çözülür ve karar
-değişkenlerinin değerleri belirlenir. Yapıya en uygun teknikle; çözümün güçlü,
-hızlı ve ekonomik olması kastedilmektedir.
+değişkenlerinin değerleri belirlenir.
 
 *D*. **Modelin ve çözümün test edilmesi**: Modelin çözülmesinden sonra çözümün,
 dolayısıyla modelin geçerliliğinin denenmesi gerekir. Model, gerçeğin bir takım
 varsayımlarla basitleştirilmiş biçimi olduğuna göre gerçeğe ne kadar ve nasıl
-yaklaştığı konusunun bilinmesi ve incelenmesi son derecede önemlidir. Modelden
-elde edilen çözümün güvenilirliği modelin geçerliliğine bağlıdır. Bir modelin
-iyi ya da iyi olmadığı başka bir deyişle, modelin ve çözümün geçerliliği değişik
-yollarla test edilebilir. Bu yollardan biri, elde edilen sonuçlarla geçmiş dönem
+yaklaştığı konusunun bilinmesi ve incelenmesi son derecede önemlidir. Örneğin, elde edilen sonuçlarla geçmiş dönem
 sonuçlarının karşılaştırılmasını öngörmektedir. Model benzer girdi koşulları
 altında geçmiş dönem koşullarını yaklaşık veya tam olarak sağlayabiliyorsa
 geçerli olduğuna dolayısıyla, sağladığı sonuçların uygulanabileceğine karar
 verilir.
 
-Sistemin kullandığı aynı girdilerle geçmiş dönem sonuçlarını sağlamayan model,
-dolayısıyla çözüm geçerli değildir. Çözüm gerçeğe ters düşüyorsa bunun nedenleri
-araştırılmalı ve araştırma işlemleri olumlu sonuç elde edilinceye değin
-sürdürülmelidir. Ancak, burada bir nokta son derecede önemlidir. O da geçmişte
-bulunmayan bir sistemin geçmiş dönem verileri ve geçmiş dönem sonuçları
-olmayacağına göre karşılaştırma yapılamamasıdır. Bu durumda bir *benzetim*
-(*simülasyon*) modeli geliştirilebilir ve bu model üzerinde gerekli testler
-yapılarak modelin ve çözümün geçerliliği test edilebilir.
-
-**Karar verme ve kararın uygulamaya konulması**: Karar verme sürecinin son
-aşaması, model denenip sonuçları değerlendirildikten sonra ulaşılan çözüm
+**Karar verme ve kararın uygulamaya konulması**: Model denenip sonuçları değerlendirildikten sonra ulaşılan çözüm
 sonuçlarının uygulamaya konulmasıyla ilgilidir. Uygulama, model sonuçlarının
 sistemi uygulayacak olan kişilere anlaşılır bir çalışma yönergesiyle
 aktarılmasını da içerir.
