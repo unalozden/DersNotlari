@@ -149,19 +149,9 @@ aktarılmasını da içerir.
 
 ### 2.1 GİRİŞ
 
-Özellikle II. Dünya Savaşından sonra üretimin artan oranda makineleşmesi ve
-örgütlerin sürekli büyümeleri sonucu etkileşim uzaylarının genişlemesi,
-insan-makina sistemlerinin([^2]) problemlerini daha da karmaşıklaştırmıştır. Bu
-karmaşıklığın oluşturduğu gereksinimlerin baskısıyla gerçekleştirilen
-çalışmalarla, hızla gelişen bilgi birikimine özgün sayısal teknikler
-geliştirilmiştir. Bugün endüstriyel, iktisadi ve sosyal sorunların çözümünde
+Bugün endüstriyel, iktisadi ve sosyal sorunların çözümünde
 yaygın biçimde kullanılan doğrusal programlama, sayısal teknikler arasında en
 geniş kullanım alanı bulmuş olandır.
-
-[^2]: İnsan-makine sistemleri, temel iki unsuru insan ve makine olan amaçlı
-    sistemlerdir. Sistemi oluşturan unsurların bir araya geliş nedenine, başka
-    bir deyişle sistemin varlık nedenine *amaç* denir. Sistemin varlığını
-    sürdürmesi amacına göre işleyişine bağlıdır.
 
 Doğrusal programlama insan, makina, para ve malzemeden oluşan endüstriyel,
 ticari, resmi ve askeri sistemlerin yönetiminde karşılaşılan ulaşım, üretim,
@@ -170,35 +160,13 @@ kullanılmaktadır. Sistemdeki darboğazların giderilmesinde, alternatif üreti
 tekniklerinden en iyi olanının seçilmesinde de doğrusal programlamaya baş
 vurulmaktadır.
 
-Gerçekte kökeni çok eskilere, 1920’li yıllara kadar uzanmakla birlikte, doğrusal
-programlama problemi ilk kez Rus matematikçi L. V. Kantorovich tarafından 1939
-yılında formüle edilmiştir. Kantorovich gerçek bir üretim planlaması ve
-organizasyon problemini bir doğrusal programlama problemi olarak ele almıştır.
-1941’de Hitchock doğrusal programlama problemlerinin özel bir sınıfı olan
-ulaştırma problemleri üzerinde çalışmıştır. İktisatcı C. Stigler 1945 yılında en
-küçük maliyetli diyet problemini formüle etmiştir.
-
-Konuyla ilgili çok sayıda çalışmaya karşılık doğrusal programlama bugünkü
+Doğrusal programlama bugünkü
 anlamıyla ilk kez 1947 yılında ABD’nin askeri faaliyetlerini planlamak amacıyla
-George B. Dantzig tarafından formüle edilmiş ve *simpleks yöntem* olarak bilinen
+George B. Dantzig tarafından formüle edilmiştir ve *simpleks yöntem* olarak bilinen
 bir çözüm yöntemi önerilmiştir.
 
-Doğrusal programlama matematiksel bir yaklaşım olmasına karşın, sadece
-matematikçilerin değil, kıt kaynakların en uygun biçimde kullanımının sağlanması
-konusunda çalışan iktisatçıların da ilgisini fazlasıyla çekmektedir.
-
-Simpleks yöntemin geliştirilmesinden sonra geçen uzun yıllar boyunca oldukça
-yavaş gelişme gösteren doğrusal programlamadaki asıl gelişme, bilgisayarların
-yaygın biçimde kullanılmaya başlamasından sonra, yani son 25-30 yılda olmuştur.
-Bu süreçte doğrusal programlama problemlerinin bilgisayar programları
-hazırlanmış ve büyük boyutlu problemlerde rahatlıkla uygulanabilmesi sağlanmış
-ve uygulama alanları genişlemiştir.
 
 ### 2.2 DOĞRUSAL PROGRAMLAMANIN TANIMI
-
-Doğrusal programlama için bir dizi tanım yapılmıştır. Verilen tüm tanımları ele
-almaya ve tartışmaya gerek yoktur. Aşağıdaki tanım kanımızca en tatminkar
-olandır ve yalnızca bu tanımın verilmesiyle yetinilecektir.
 
 *Doğrusal programlama*, iyi tanımlanmış doğrusal eşitliklerin veya
 eşitsizliklerin kısıtlayıcı koşulları altında doğrusal bir amaç fonksiyonunu en
@@ -211,17 +179,10 @@ Tanımdaki en iyileme (optimizasyon) iki yolla gerçekleştirilir.
 
 *2*. Amaç fonksiyonu değerinin en küçüklenmesi (minimizasyon)
 
-Genellikle karşılaşılan sorunlar, olanaklar çerçevesinde krın en büyüklenmesi
-veya maliyetin en küçüklenmesidir.
 
 ## 2.3 DOĞRUSAL PROGRAMLAMANIN YAPISAL GÖRÜNÜMÜ
 
-Problemlerin doğrusal programlama ilkelerine uygun biçimde formüle edilmesi,
-başka bir deyişle modelinin kurulması başlı başına bir sanattır. Modelin çözümü
-için geliştirilmiş kesin yöntemler bulunmakla birlikte formülleme konusunda
-kesin yöntemlerin varlığından söz edilemez. Doğrusal programlama modelinin
-yapısının anlaşılması durumunda formüllemedeki zorluk büyük ölçüde ortadan
-kalkar. Bir doğrusal programlama modeli aşağıdaki üç temel unsurdan oluşur.
+Bir doğrusal programlama modeli aşağıdaki üç temel unsurdan oluşur.
 
 *1*. Amaç fonksiyonu
 
@@ -254,9 +215,7 @@ küçüklemeye yönelik olduğunu ifade etmektedir.
 *2*. **Kısıtlayıcı Fonksiyonlar**
 
 Gerek işletmelerin gerekse ekonomiyi yönetenlerin sahip oldukları para, işgücü,
-hammadde, enerji, zaman gibi kaynakları sınırsız değildir. Ekonomik kaynaklar
-sınırlı olmasaydı, ekonomi bilimi ve doğrusal programlama gibi yönetim
-araçlarına gerek kalmazdı. Sınırlı kaynaklarla karar verme durumunda olan kişi
+hammadde, enerji, zaman gibi kaynakları sınırsız değildir. Sınırlı kaynaklarla karar verme durumunda olan kişi
 veya kişiler kontrol etme şansına sahip oldukları ekonomik değerlerin
 sınırlarını belirten kısıtlayıcı koşullar altında karar almak durumundadırlar.
 Kısıtlayıcı fonksiyonlar sadece kaynakların sınırlarını değil, gereksinim ve
@@ -274,10 +233,8 @@ a21X1 + a22X2 + ... + a2nXn (≤, =, ≥) b2
 
 am1X1 + am2X2 + ... + amnXn (≤, =, ≥) bm
 
-Kesin bir kural olmamakla birlikte, en büyükleme problemlerinin kısıtlayıcı
-fonksiyonları genellikle ≤, en küçükleme problemlerinin kısıtlayıcı
-fonksiyonları ise ≥ işaretli olurlar. Öte yandan, = işaretli kısıtlayıcı
-fonksiyonlara hem en büyükleme hem de en küçükleme problemlerinde rastlanır.
+Kısıtlayıcı
+fonksiyonlar ≤, ≥ ve = şeklinde olurlar. 
 
 Kısıtlayıcı fonksiyonlar için daha genel olarak aşağıdaki bağıntılar
 yazılabilir.
@@ -290,14 +247,13 @@ yazılabilir.
 
 *3*. **Negatif Olmama Koşulu**
 
-Doğrusal programlama gerçek problemlere uygulanır. Bu nedenle, değişkenler
-negatif olamazlar. Sözgelimi, bir işletme üretim yapar veya yapmaz. Üretimin
-gerçekleşmesi durumunda pozitif bir eylem söz konusu olur ki, bu durumda
-değişkenler sıfırdan büyük, yani pozitiftir. Üretim yapılmaması durumunda
-gerçekleşmeyen, yani nötr bir eylem söz konusu olur ki, bu durumda değişkenler
+Karar değişkenlerinin değerleri 
+negatif olamaz. Sözgelimi, bir işletme üretim yapar veya yapmaz. Üretimin
+gerçekleşmesi durumunda 
+değişken değerleri sıfırdan büyük, yani pozitiftir. Üretim yapılmaması durumunda
+değişken değerleri
 sıfıra eşittir. Bu yüzden, doğrusal programlama modelindeki değişkenler sıfıra
-eşit veya sıfırdan büyük olurlar[^3]. Değişken değerlerine konulan bu kısıt
-matematiksel olarak aşağıdaki gibi açıklanır.
+eşit veya sıfırdan büyük olurlar[^3].
 
 [^3]: Çok sık olmasa da uygulamada bazı değişkenlerin işaretleri üzerine herhangi
     bir sınırlama konulmamasının gerektiği durumlarla da karşılaşılabilmektedir.
