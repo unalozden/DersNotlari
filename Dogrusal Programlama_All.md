@@ -33,13 +33,6 @@ bir kişinin veya bir örgütün karşılaştığı alternatif davranış biçim
 arasından belirli ölçütlere göre en iyi olan bir veya birkaçını seçme eylemi
 olarak tanımlanabilir.
 
-Esas olarak işletme yöneticisinin karar verme fonksiyonuna yardımcı olmayı
-amaçlayan sayısal yöntemler, problemin matematiksel modelini kurmayı ve model
-üzerinde işlem yapmayı kapsadığından, bu bölümde bu konular üzerinde
-durulacaktır. Bu bölümde ele alınan konular karar verme ile ilgili kavramların
-tamamını içermemektedir. Bununla birlikte, açıklamaların kitap kapsamındaki
-konuları anlamak bakımından yeterli olacağı kanısında olduğumuzu belirtmeliyiz.
-
 ### 1.2 KARAR VERME SÜRECİ
 
 Dar anlamda karar verme, çeşitli alternatifler arasından en uygun olanının
