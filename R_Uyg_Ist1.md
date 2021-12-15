@@ -40,17 +40,17 @@
 
 \>**wilcox.test**(**r\_data$final~r\_data$cinsiyet**) #Mann Whitney U / Ho: Cinsiyete göre final notu ortalamaları arasında fark yoktur.
 
-**kruskal.test(r\_data$final~r\_data$bolum)**	#Kruskal Wallis testi / Ho: Bölümlerin  final not ortalamaları eşittir.
+\>**kruskal.test(r\_data$final~r\_data$bolum)**	#Kruskal Wallis testi / Ho: Bölümlerin  final not ortalamaları eşittir.
 
-**chisq.test(r\_data$cinsiyet, r\_data$bolum)** #Ki-kare testi bağımsızlık testi /Ho: bölümler ile cinsiyet arasında ilişki yoktur.
+\>**chisq.test(r\_data$cinsiyet, r\_data$bolum)** #Ki-kare testi bağımsızlık testi /Ho: bölümler ile cinsiyet arasında ilişki yoktur.
 
-**corr.test(r\_data$vize,r\_data$final)**  #Pearson korelasyon katsayısı /Ho: Vize notları ile Final notları arasında doğrusal korelasyon yoktur.
+\>**corr.test(r\_data$vize,r\_data$final)**  #Pearson korelasyon katsayısı /Ho: Vize notları ile Final notları arasında doğrusal korelasyon yoktur.
 
-**corr.test(r\_data$vize,r\_data$final,** **method="spearman")** #Spearman sıra korelasyon katsayısı /Ho: Vize notları sıralaması ile Final notları sıralaması arasında korelasyon yoktur.
+\>**corr.test(r\_data$vize,r\_data$final,** **method="spearman")** #Spearman sıra korelasyon katsayısı /Ho: Vize notları sıralaması ile Final notları sıralaması arasında korelasyon yoktur.
 
-**lm(r\_data$vize~r\_data$final)** 	#Vize notlarının, final notları ile açılandığı basit doğrusal regresyon
+\>**lm(r\_data$vize~r\_data$final)** 	#Vize notlarının, final notları ile açılandığı basit doğrusal regresyon
 
-**model<- lm(r\_data$vize~r\_data$final)**	#Vize notlarının, final notları ile açılandığı basit doğrusal regresyonun model nesnesine atanması
+\>**model<- lm(r\_data$vize~r\_data$final)**	#Vize notlarının, final notları ile açılandığı basit doğrusal regresyonun model nesnesine atanması
 
-**summary(model)**	#Model (regresyon modeli) hakkında özet bilgiler
+\>**summary(model)**	#Model (regresyon modeli) hakkında özet bilgiler
 
