@@ -1,4 +1,4 @@
-###  notlar Prof. Dr. Nalan CİNEMRE'nin "Doğrusal Programlama" kitabından faydalanarak hazırlanmıştır.
+###  Bu notlar Prof. Dr. Nalan CİNEMRE'nin "Doğrusal Programlama" kitabından faydalanarak hazırlanmıştır.
 
 ###  *Bölüm 1*
 
