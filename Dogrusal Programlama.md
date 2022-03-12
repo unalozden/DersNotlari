@@ -1,3 +1,5 @@
+###  notlar Prof. Dr. Nalan CİNEMRE'nin "Doğrusal Programlama" kitabından faydalanarak hazırlanmıştır.
+
 ###  *Bölüm 1*
 
 ### *KARAR VERME ve MODELLER*
