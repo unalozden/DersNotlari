@@ -836,7 +836,6 @@ Bu verilere göre, tavuk­ların günlük besin gereksinimini tam olarak
 karşılayan en küçük maliyetli besin karışımının belirlenme­sinde
 kullanılacak doğrusal programlama modelini kurunuz.
 
-|                   |                 |              |      |            |
 |-------------------|-----------------|--------------|------|------------|
 | Besin             | Besin Türü (kg) | En Az Günlük |      |            |
 | Elemanı           | Suni Yem        | Buğday       | Arpa | Gereksinim |
