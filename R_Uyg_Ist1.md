@@ -6,13 +6,13 @@
 \> **library("readxl")**		# readxl  paketinin çağrılması
 
 
-\>**r\_data<- read\_excel("d:\\rdata.xlsx")**		# rdata adlı excel dosyasının r\_data adıyla R’ye aktarılması
+\>**r\_data<- read\_excel("d:\\rdata.xlsx")**		# rdata adlı excel dosyanın r\_data adıyla R’ye aktarılması
 
 
-\>**View(r\_data)**		# r\_data adlı dosyasının görüntülenmesi.
+\>**View(r\_data)**		# r\_data adlı dosyanın görüntülenmesi.
 
 
-\>**r\_data**		# r\_data adlı dosyasının görüntülenmesi.
+\>**r\_data**		# r\_data adlı dosyanın görüntülenmesi.
 
 
 \>**summary(r\_data)** 	# r\_data veri dosyası içindeki tüm değişkenlerin tanımsal istatistik değerleri.
