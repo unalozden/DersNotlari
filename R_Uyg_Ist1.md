@@ -6,7 +6,7 @@
 \> **library("readxl")**		# readxl  paketinin çağrılması
 
 
-\>**r\_data<- read\_excel("d:\\rdata.xlsx")**		# rdata adlı excel dosyanın r\_data adıyla R’ye aktarılması
+\>**r\_data<- read\_excel("d:\\rdata.xlsx")**		# rdata adlı excel dosyasının r\_data adıyla R’ye aktarılması
 
 
 \>**View(r\_data)**		# r\_data adlı dosyanın görüntülenmesi.
