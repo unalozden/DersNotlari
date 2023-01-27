@@ -1,4 +1,4 @@
-# **Sürekli veriler için parametrik olmayan istatistiksel testler: temel kavram ve pratik kullanım**
+# **Parametrik olmayan istatistiksel testler: temel kavram ve pratik kullanım**
 
 ## **Özet**
 
