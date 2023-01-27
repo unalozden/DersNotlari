@@ -2,7 +2,7 @@
 
 
 
-## **Soyut**
+## **Özet**
 
 Biyoistatistikte, her bir spesifik durum için, verilerin analizi ve yorumlanması için istatistiksel yöntemler mevcuttur. Uygun istatistiksel yöntemi seçmek için, veri analizi için uygun istatistiksel yöntemin seçilebilmesi için istatistiksel yöntemlerin varsayımlarının ve koşullarının bilinmesi gerekir. Veri analizinde iki ana istatistiksel yöntem kullanılır: ortalama ve medyan gibi indeksleri kullanarak verileri özetleyen tanımlayıcı istatistikler ve bir diğeri, öğrencinin t gibi istatistiksel testleri kullanarak verilerden sonuçlar çıkaran çıkarımsal istatistiklerdir.-Ölçek. Uygun istatistiksel yöntemin seçimi şu üç şeye bağlıdır: Çalışmanın amacı ve hedefi, Kullanılan verilerin türü ve dağılımı ve Gözlemlerin doğası (eşli/eşsiz). Ortalamaları karşılaştırmak için kullanılan tüm istatistiksel yöntemler parametrik olarak adlandırılırken, ortalamalar dışında karşılaştırma yapmak için kullanılan istatistiksel yöntemler (eski medyan/ortalama sıralar/oranlar) parametrik olmayan yöntemler olarak adlandırılır. Bu makalede, parametrik ve parametrik olmayan yöntemleri, varsayımlarını ve biyomedikal verilerin analizi ve yorumlanması için uygun istatistiksel yöntemlerin nasıl seçileceğini tartıştık.
 
